@@ -1,0 +1,173 @@
+{
+  "_comment": "Fill this file with real CityU course data before running scripts/seed_database.py.",
+  "courses": [
+    {
+      "code": "AI510",
+      "title": "Foundations of Artificial Intelligence",
+      "credits": 3,
+      "description": "Introduction to AI concepts including search algorithms, knowledge representation, reasoning under uncertainty, and machine learning fundamentals.",
+      "semester": "Fall 2025",
+      "professor": "TBA",
+      "prerequisites": []
+    },
+    {
+      "code": "AI620",
+      "title": "Machine Learning for AI",
+      "credits": 3,
+      "description": "Covers supervised and unsupervised learning, neural networks, model evaluation, and practical implementation using Python and scikit-learn.",
+      "semester": "Fall 2025",
+      "professor": "TBA",
+      "prerequisites": ["AI510"]
+    },
+    {
+      "code": "AI630",
+      "title": "Deep Learning and Neural Networks",
+      "credits": 3,
+      "description": "Advanced neural network architectures including CNNs, RNNs, Transformers, and practical applications in computer vision and NLP.",
+      "semester": "Spring 2026",
+      "professor": "TBA",
+      "prerequisites": ["AI620"]
+    },
+    {
+      "code": "AI640",
+      "title": "Natural Language Processing",
+      "credits": 3,
+      "description": "Techniques for processing and understanding human language, including tokenization, embeddings, language models, and conversational AI systems.",
+      "semester": "Spring 2026",
+      "professor": "TBA",
+      "prerequisites": ["AI620"]
+    },
+    {
+      "code": "AI699",
+      "title": "AI Capstone Project",
+      "credits": 3,
+      "description": "Students design and implement an end-to-end AI system addressing a real-world problem, with faculty and industry mentor guidance.",
+      "semester": "Fall 2025",
+      "professor": "TBA",
+      "prerequisites": ["AI620", "AI630"]
+    },
+    {
+      "code": "CS501",
+      "title": "Data Structures and Algorithms",
+      "credits": 3,
+      "description": "Fundamental data structures (trees, graphs, heaps) and algorithm design paradigms (divide-and-conquer, dynamic programming, greedy).",
+      "semester": "Fall 2025",
+      "professor": "TBA",
+      "prerequisites": []
+    },
+    {
+      "code": "MATH500",
+      "title": "Mathematics for Data Science",
+      "credits": 3,
+      "description": "Linear algebra, probability theory, statistics, and calculus concepts essential for data science and machine learning.",
+      "semester": "Fall 2025",
+      "professor": "TBA",
+      "prerequisites": []
+    },
+    {
+      "code": "MBA501",
+      "title": "Business Foundations",
+      "credits": 3,
+      "description": "Overview of core business disciplines including finance, marketing, operations, and strategy for graduate students from non-business backgrounds.",
+      "semester": "Fall 2025",
+      "professor": "TBA",
+      "prerequisites": []
+    }
+  ],
+  "degree_requirements": [
+    {
+      "program": "MSAI",
+      "requirement_type": "Core",
+      "course_code": "AI510",
+      "notes": "Required foundation course for all MSAI students."
+    },
+    {
+      "program": "MSAI",
+      "requirement_type": "Core",
+      "course_code": "AI620",
+      "notes": "Required core course."
+    },
+    {
+      "program": "MSAI",
+      "requirement_type": "Core",
+      "course_code": "AI630",
+      "notes": "Required core course."
+    },
+    {
+      "program": "MSAI",
+      "requirement_type": "Elective",
+      "course_code": "AI640",
+      "notes": "Choose 2 of 4 electives."
+    },
+    {
+      "program": "MSAI",
+      "requirement_type": "Capstone",
+      "course_code": "AI699",
+      "notes": "Final capstone — must complete all core courses first."
+    },
+    {
+      "program": "MSIS",
+      "requirement_type": "Core",
+      "course_code": "CS501",
+      "notes": "Required for all MSIS students."
+    },
+    {
+      "program": "MBA",
+      "requirement_type": "Core",
+      "course_code": "MBA501",
+      "notes": "Required for all MBA students without a business undergraduate degree."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I register for classes at CityU?",
+      "answer": "Log in to the CityU student portal at my.cityu.edu, navigate to 'Course Registration', select your term, and add courses to your schedule. Registration opens based on your credit hours — check the academic calendar for your registration window.",
+      "category": "Registration"
+    },
+    {
+      "question": "What is the tuition cost per credit at CityU?",
+      "answer": "Tuition rates vary by program and residency status. Current tuition information is available on the CityU website at cityu.edu/tuition or by contacting the Student Financial Services office at financial.services@cityu.edu.",
+      "category": "Financial Aid"
+    },
+    {
+      "question": "How do I apply for financial aid?",
+      "answer": "Complete the Free Application for Federal Student Aid (FAFSA) at studentaid.gov using CityU's school code. After submission, our Financial Aid office will contact you with your aid package. Apply early — funds are limited and awarded on a first-come, first-served basis.",
+      "category": "Financial Aid"
+    },
+    {
+      "question": "What are the admission requirements for the MSAI program?",
+      "answer": "The MSAI program requires: (1) a bachelor's degree from an accredited institution, (2) a minimum GPA of 3.0, (3) two letters of recommendation, (4) a personal statement, and (5) transcripts. Programming experience in Python is strongly recommended. GRE is not required.",
+      "category": "Admissions"
+    },
+    {
+      "question": "How do I contact my academic advisor?",
+      "answer": "Academic advisors are available through the CityU Advising Center. Schedule an appointment at advising.cityu.edu, email advising@cityu.edu, or call (206) 239-4500. Advisors are available Monday–Friday, 8am–6pm PT.",
+      "category": "Advising"
+    },
+    {
+      "question": "What is the grading scale at CityU?",
+      "answer": "CityU uses a standard 4.0 GPA scale: A (4.0, 93–100%), A- (3.7, 90–92%), B+ (3.3, 87–89%), B (3.0, 83–86%), B- (2.7, 80–82%), C+ (2.3, 77–79%), C (2.0, 73–76%), C- (1.7, 70–72%), D (1.0, 60–69%), F (0.0, below 60%). Graduate students must maintain a minimum 3.0 GPA to remain in good standing.",
+      "category": "Academics"
+    },
+    {
+      "question": "How do I request a transcript?",
+      "answer": "Official transcripts can be requested through the National Student Clearinghouse at apps.studentclearinghouse.org/nscdirect or by visiting the Registrar's office. Allow 3–5 business days for processing. There is a $10 fee per official transcript.",
+      "category": "Records"
+    },
+    {
+      "question": "Can I take classes online at CityU?",
+      "answer": "Yes, CityU offers fully online, hybrid, and in-person formats for most programs. Online classes use the Canvas learning management system. Check the course schedule for format availability, as not all courses are offered in all formats each term.",
+      "category": "Registration"
+    },
+    {
+      "question": "What is the deadline to drop a course?",
+      "answer": "You can drop a course without a 'W' grade during the first week of the term. After that, you may withdraw (with a 'W' grade) through the 8th week of an 11-week term. Check the academic calendar at cityu.edu/calendar for exact dates each term.",
+      "category": "Registration"
+    },
+    {
+      "question": "How many credits do I need to graduate from the MSAI program?",
+      "answer": "The MSAI program requires 45 credit hours: 30 credits of core courses, 9 credits of electives, and 6 credits for the capstone project. Students typically complete the program in 2 years of full-time study or 3 years part-time.",
+      "category": "Graduation"
+    }
+  ]
+}
