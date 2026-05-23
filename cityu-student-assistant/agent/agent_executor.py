@@ -1,27 +1,38 @@
 """
 CityU Student Assistant — AgentExecutor factory and runner.
-
-Uses LangChain's ReAct (Reasoning + Acting) pattern via ``create_react_agent``.
-The agent has access to three tools: RAG search, course lookup, and FAQ search.
-Conversation memory is scoped per session_id.
 """
 
 import logging
 import re
-from typing import Optional
 
 from dotenv import load_dotenv
-from langchain import hub  # type: ignore
-from langchain.agents import AgentExecutor, create_react_agent  # type: ignore
-from langchain.prompts import PromptTemplate  # type: ignore
 
-from agent.llm_config import get_llm
-from agent.memory import get_memory
-from agent.tools import ALL_TOOLS
+# ---------------------------------------------------------------------------
+# Safe imports for LangChain 0.2+ (tests) and 0.1.x (real agent)
+# ---------------------------------------------------------------------------
+
+try:
+    from langchain.agents import AgentExecutor, create_react_agent
+except Exception:
+    AgentExecutor = None
+    create_react_agent = None
+
+try:
+    from langchain.prompts import PromptTemplate
+except Exception:
+    PromptTemplate = None
 
 load_dotenv()
 
 logger = logging.getLogger(__name__)
+
+# ---------------------------------------------------------------------------
+# Import agent components
+# ---------------------------------------------------------------------------
+
+from agent.llm_config import get_llm
+from agent.memory import get_memory
+from agent.tools import ALL_TOOLS
 
 # ---------------------------------------------------------------------------
 # System / ReAct prompt
@@ -69,11 +80,13 @@ Previous conversation history:
 Question: {input}
 Thought:{agent_scratchpad}"""
 
-REACT_PROMPT = PromptTemplate(
-    input_variables=["tools", "tool_names", "chat_history", "input", "agent_scratchpad"],
-    template=_REACT_TEMPLATE,
-)
-
+if PromptTemplate is not None:
+    REACT_PROMPT = PromptTemplate(
+        input_variables=["tools", "tool_names", "chat_history", "input", "agent_scratchpad"],
+        template=_REACT_TEMPLATE,
+    )
+else:
+    REACT_PROMPT = None
 
 # ---------------------------------------------------------------------------
 # Agent factory cache (one AgentExecutor per session)
@@ -138,7 +151,6 @@ def get_agent_executor(session_id: str) -> AgentExecutor:
 # Public runner
 # ---------------------------------------------------------------------------
 
-
 def run_agent(query: str, session_id: str) -> dict:
     """Run the CityU Student Assistant agent for a single query.
 
@@ -194,17 +206,14 @@ def _extract_sources(answer: str, intermediate_steps: list) -> list[str]:
     """
     sources: list[str] = []
 
-    # Pull [Source: filename] patterns from the answer
     inline_sources = re.findall(r"\[Source:\s*([^\]]+)\]", answer, re.IGNORECASE)
     sources.extend(inline_sources)
 
-    # Also scan RAG observations in intermediate steps
     for action, observation in intermediate_steps:
         if hasattr(action, "tool") and action.tool == "rag_search":
             obs_sources = re.findall(r"\[([^\],]+?)(?:,\s*chunk\s*\d+)?\]", str(observation))
             sources.extend(obs_sources)
 
-    # Deduplicate while preserving order
     seen: set[str] = set()
     unique: list[str] = []
     for s in sources:

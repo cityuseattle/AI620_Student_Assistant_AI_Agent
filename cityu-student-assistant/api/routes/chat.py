@@ -14,7 +14,7 @@ import logging
 from fastapi import APIRouter, HTTPException, status
 
 from agent.agent_executor import run_agent
-from agent.memory import get_history
+from agent.memory import get_history, get_memory
 from api.schemas import (
     ChatRequest,
     ChatResponse,
@@ -72,6 +72,12 @@ async def chat(request: ChatRequest) -> ChatResponse:
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="The agent encountered an unexpected error. Please try again.",
         ) from exc
+
+    memory = get_memory(request.session_id)
+    memory.save_context(
+        inputs={"input": request.query},
+        outputs={"output": result["answer"]},
+    )
 
     return ChatResponse(
         answer=result["answer"],

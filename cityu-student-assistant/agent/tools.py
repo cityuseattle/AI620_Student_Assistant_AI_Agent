@@ -13,7 +13,8 @@ import sqlite3
 from pathlib import Path
 from typing import Optional
 
-from langchain.tools import Tool  # type: ignore
+#from langchain.tools import Tool  # type: ignore
+from langchain_core.tools import Tool
 
 from agent.vector_store import get_retriever
 

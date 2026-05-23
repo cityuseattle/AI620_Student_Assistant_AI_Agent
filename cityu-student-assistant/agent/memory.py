@@ -14,7 +14,24 @@ replace the in-memory dict with a Redis-backed implementation.
 import logging
 from typing import Dict
 
-from langchain.memory import ConversationBufferWindowMemory  # type: ignore
+try:
+    from langchain.memory import ConversationBufferWindowMemory
+except Exception:
+    ConversationBufferWindowMemory = None
+
+if ConversationBufferWindowMemory is None:
+    class ConversationBufferWindowMemory:
+        def __init__(self, *args, **kwargs):
+            self.chat_memory = type("ChatMemory", (), {"messages": []})()
+
+        def save_context(self, inputs, outputs):
+            # mimic LangChain behavior
+            self.chat_memory.messages.append(
+                type("HumanMessage", (), {"content": inputs.get("input", "")})()
+            )
+            self.chat_memory.messages.append(
+                type("AIMessage", (), {"content": outputs.get("output", "")})()
+            )
 
 logger = logging.getLogger(__name__)
 
