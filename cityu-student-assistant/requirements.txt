@@ -23,6 +23,10 @@ streamlit>=1.35.0
 # --- Database & File Handling ---
 pypdf>=4.2.0
 
+# --- Web Scraping ---
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
 # --- Config ---
 python-dotenv>=1.0.0
 
