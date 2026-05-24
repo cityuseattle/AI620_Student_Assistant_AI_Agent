@@ -23,6 +23,8 @@ CREATE TABLE IF NOT EXISTS courses (
 CREATE TABLE IF NOT EXISTS prerequisites (
     course_code TEXT NOT NULL,
     prereq_code TEXT NOT NULL,
+    prereq_type TEXT DEFAULT 'required',  -- 'required', 'corequisite', 'recommended'
+    notes       TEXT,                      -- e.g. "or CS101"
     PRIMARY KEY (course_code, prereq_code),
     FOREIGN KEY (course_code) REFERENCES courses(code) ON DELETE CASCADE,
     FOREIGN KEY (prereq_code) REFERENCES courses(code) ON DELETE CASCADE

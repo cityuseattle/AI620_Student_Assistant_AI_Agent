@@ -119,7 +119,7 @@ def init_database(db_path: Path) -> sqlite3.Connection:
     return conn
 
 
-def seed_courses(conn: sqlite3.Connection, courses: list[dict]) -> tuple[int, int]:
+def seed_courses(conn: sqlite3.Connection, courses: list[dict]) -> tuple[int, int, list]:
     """Insert or ignore course records.
 
     Parameters
@@ -131,11 +131,15 @@ def seed_courses(conn: sqlite3.Connection, courses: list[dict]) -> tuple[int, in
 
     Returns
     -------
-    tuple[int, int]
-        (courses_inserted, prereqs_inserted)
+    tuple[int, int, list]
+        (courses_inserted, prereqs_inserted, missing_prereq_warnings)
     """
     courses_inserted = 0
     prereqs_inserted = 0
+    warnings = []
+
+    # First pass: collect all course codes
+    all_codes = {c.get("code", "").strip().upper() for c in courses if c.get("code", "").strip()}
 
     for course in courses:
         code = course.get("code", "").strip().upper()
@@ -168,16 +172,32 @@ def seed_courses(conn: sqlite3.Connection, courses: list[dict]) -> tuple[int, in
             logger.warning("Could not insert course %s: %s", code, exc)
             continue
 
-        # Insert prerequisites
-        for prereq_code in course.get("prerequisites", []):
-            prereq_code = prereq_code.strip().upper()
+        # Insert prerequisites with type support
+        for prereq_item in course.get("prerequisites", []):
+            if isinstance(prereq_item, dict):
+                prereq_code = prereq_item.get("code", "").strip().upper()
+                prereq_type = prereq_item.get("type", "required")
+                notes = prereq_item.get("notes", "")
+            else:
+                prereq_code = str(prereq_item).strip().upper()
+                prereq_type = "required"
+                notes = ""
+
             if not prereq_code:
                 continue
+
+            if prereq_code not in all_codes:
+                msg = f"{code}: prerequisite '{prereq_code}' not found in course list"
+                warnings.append(msg)
+                logger.warning(msg)
+                continue
+
             try:
                 conn.execute(
-                    "INSERT OR IGNORE INTO prerequisites (course_code, prereq_code) "
-                    "VALUES (?, ?)",
-                    (code, prereq_code),
+                    """INSERT OR IGNORE INTO prerequisites
+                       (course_code, prereq_code, prereq_type, notes)
+                       VALUES (?, ?, ?, ?)""",
+                    (code, prereq_code, prereq_type, notes),
                 )
                 if conn.execute("SELECT changes()").fetchone()[0]:
                     prereqs_inserted += 1
@@ -187,7 +207,7 @@ def seed_courses(conn: sqlite3.Connection, courses: list[dict]) -> tuple[int, in
                 )
 
     conn.commit()
-    return courses_inserted, prereqs_inserted
+    return courses_inserted, prereqs_inserted, warnings
 
 
 def seed_degree_requirements(conn: sqlite3.Connection, requirements: list[dict]) -> int:
@@ -338,7 +358,7 @@ def main() -> None:
 
     try:
         # Seed tables
-        courses_inserted, prereqs_inserted = seed_courses(
+        courses_inserted, prereqs_inserted, prereq_warnings = seed_courses(
             conn, data.get("courses", [])
         )
         degree_reqs_inserted = seed_degree_requirements(
@@ -352,6 +372,12 @@ def main() -> None:
         logger.info("  Prerequisites inserted     : %d", prereqs_inserted)
         logger.info("  Degree requirements inserted: %d", degree_reqs_inserted)
         logger.info("  FAQs inserted              : %d", faqs_inserted)
+        if prereq_warnings:
+            logger.warning("  Missing prerequisite references: %d", len(prereq_warnings))
+            for w in prereq_warnings[:5]:
+                logger.warning("    - %s", w)
+            if len(prereq_warnings) > 5:
+                logger.warning("    ... and %d more", len(prereq_warnings) - 5)
         logger.info("=" * 60)
     finally:
         conn.close()

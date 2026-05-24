@@ -30,7 +30,7 @@ from dotenv import load_dotenv  # noqa: E402
 
 load_dotenv(PROJECT_ROOT / ".env")
 
-from langchain.text_splitter import RecursiveCharacterTextSplitter  # noqa: E402
+from langchain_text_splitters import RecursiveCharacterTextSplitter  # noqa: E402
 from langchain_community.document_loaders import (  # noqa: E402
     PyPDFLoader,
     TextLoader,
