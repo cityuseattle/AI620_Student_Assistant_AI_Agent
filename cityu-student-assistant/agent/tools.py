@@ -303,7 +303,59 @@ faq_tool = Tool(
 
 
 # ---------------------------------------------------------------------------
+# Tool 4: Suggest Course Update
+# ---------------------------------------------------------------------------
+
+
+def _suggest_course_update(suggestion: str) -> str:
+    """Log a suggested course information update with reasoning for human review.
+
+    Parameters
+    ----------
+    suggestion : str
+        Description of the suggested update with reasoning (e.g.,
+        "AI620: Add prerequisites AI500, AI600 based on course content analysis.
+         Reasoning: Course covers machine learning, deep learning, and NLP which
+         are taught in AI500 and AI600.").
+
+    Returns
+    -------
+    str
+        Confirmation message with next steps.
+    """
+    from datetime import datetime
+
+    log_file = PROJECT_ROOT / "suggested_updates.log"
+    timestamp = datetime.now().isoformat()
+
+    try:
+        with open(log_file, "a", encoding="utf-8") as f:
+            f.write(f"\n[{timestamp}]\n{suggestion}\n" + "="*80 + "\n")
+        logger.info("Update suggestion logged: %s", suggestion[:100])
+        return (
+            f"✓ Suggestion logged for human review:\n{suggestion}\n\n"
+            "A human will verify and update the database accordingly."
+        )
+    except Exception as exc:
+        logger.error("Failed to log suggestion: %s", exc)
+        return f"Could not log suggestion. Error: {exc}"
+
+
+suggest_update_tool = Tool(
+    name="suggest_course_update",
+    description=(
+        "Log a suggested course information update (e.g., corrected prerequisites, "
+        "missing course details). Use this when you find inconsistencies between "
+        "sources or when course information seems incomplete. A human will review "
+        "and approve updates to the database. "
+        "Input: a clear description of the suggested update."
+    ),
+    func=_suggest_course_update,
+)
+
+
+# ---------------------------------------------------------------------------
 # Exported tool list
 # ---------------------------------------------------------------------------
 
-ALL_TOOLS: list[Tool] = [rag_search_tool, course_lookup_tool, faq_tool]
+ALL_TOOLS: list[Tool] = [rag_search_tool, course_lookup_tool, faq_tool, suggest_update_tool]

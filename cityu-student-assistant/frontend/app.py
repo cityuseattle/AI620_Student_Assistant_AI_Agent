@@ -23,7 +23,7 @@ load_dotenv()
 # ---------------------------------------------------------------------------
 
 API_BASE_URL: str = os.getenv("STREAMLIT_API_URL", "http://localhost:8000").rstrip("/")
-REQUEST_TIMEOUT: float = 120.0  # seconds — LLM inference can be slow
+REQUEST_TIMEOUT: float = 300.0  # seconds — LLM inference can be slow
 
 SAMPLE_QUESTIONS: list[str] = [
     "What are the prerequisites for AI620?",
@@ -126,7 +126,6 @@ def _render_sidebar() -> None:
     with st.sidebar:
         st.image(
             "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/City_University_of_Seattle_logo.png/320px-City_University_of_Seattle_logo.png",
-            use_column_width=True,
         )
         st.title("CityU Student Assistant")
         st.markdown("---")

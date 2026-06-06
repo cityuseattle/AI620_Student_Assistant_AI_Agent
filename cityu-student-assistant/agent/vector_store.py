@@ -12,7 +12,7 @@ from typing import Optional
 
 from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings  # type: ignore
-from langchain_community.vectorstores import Chroma  # type: ignore
+from langchain_chroma import Chroma  # type: ignore
 from langchain_core.vectorstores import VectorStoreRetriever
 
 load_dotenv()

@@ -1,11 +1,13 @@
 # --- LangChain Core Ecosystem ---
-langchain>=0.2.0
-langchain-core>=0.2.0
-langchain-community>=0.2.0
+langchain==0.1.20
+langchain-core==0.1.52
+langchain-community==0.0.38
 langchain-openai>=0.1.0
+langchain-ollama>=0.1.0
 langchainhub>=0.1.0   # provides `load()` for pulling prompts from the Hub
 
 # --- Vector DB & Embeddings ---
+langchain-chroma>=0.1.0
 chromadb>=0.5.0
 sentence-transformers>=3.0.0
 

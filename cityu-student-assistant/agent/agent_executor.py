@@ -11,16 +11,8 @@ from dotenv import load_dotenv
 # Safe imports for LangChain 0.2+ (tests) and 0.1.x (real agent)
 # ---------------------------------------------------------------------------
 
-try:
-    from langchain.agents import AgentExecutor, create_react_agent
-except Exception:
-    AgentExecutor = None
-    create_react_agent = None
-
-try:
-    from langchain.prompts import PromptTemplate
-except Exception:
-    PromptTemplate = None
+from langchain.agents import AgentExecutor, create_react_agent
+from langchain.prompts import PromptTemplate
 
 load_dotenv()
 
@@ -41,52 +33,41 @@ from agent.tools import ALL_TOOLS
 _REACT_TEMPLATE = """You are the **CityU Student Assistant**, an AI agent serving \
 students at City University of Seattle (CityU).
 
-Your role is to provide accurate, helpful information about:
-- CityU courses, prerequisites, and degree requirements
-- Academic policies, registration procedures, and student services
-- Program information for degrees offered at CityU
-- Campus resources, financial aid, and advising
+Your role is to answer questions about CityU courses, prerequisites, and policies.
 
-STRICT SCOPE: You must ONLY answer questions related to City University of Seattle. \
-If a student asks about topics outside CityU (general trivia, other universities, \
-personal advice unrelated to academics, etc.), politely decline and redirect them: \
-"I'm only able to assist with City University of Seattle academic topics."
+**TWO MODES:**
 
-CITATION RULE: Whenever you use the rag_search tool, you MUST cite the source \
-document(s) in your final answer using the format [Source: <filename>].
+MODE 1 (Quick Lookup): Regular course questions
+- Use course_lookup to get database info
+- Return answer directly
 
-UNKNOWN INFO: If none of your tools return useful information, say \
-"I don't have that information in my current knowledge base. Please contact \
-CityU academic advising at advising@cityu.edu for further assistance."
+MODE 2 (Smart Analysis): When asked to "analyze", "examine", "infer", or "what should be"
+- Search RAG for full course description
+- Analyze topics, skills, and concepts required
+- Search other courses to find which ones teach those topics
+- Infer logical prerequisites based on content analysis
+- Use suggest_course_update if you find missing prerequisites
 
-You have access to the following tools:
+Available tools: {tool_names}
+
+Use this format:
+Question: the student's question
+Thought: Is this MODE 1 (lookup) or MODE 2 (analyze)?
+Action: the action to take, should be one of [{tool_names}]
+Action Input: input to tool
+Observation: tool result
+(repeat for MODE 2 analysis)
+Final Answer: your answer with reasoning if analyzing
 
 {tools}
-
-Use the following format EXACTLY:
-
-Question: the input question you must answer
-Thought: you should always think about what to do
-Action: the action to take, should be one of [{tool_names}]
-Action Input: the input to the action
-Observation: the result of the action
-... (this Thought/Action/Action Input/Observation can repeat N times)
-Thought: I now know the final answer
-Final Answer: the final answer to the original input question
-
-Previous conversation history:
-{chat_history}
 
 Question: {input}
 Thought:{agent_scratchpad}"""
 
-if PromptTemplate is not None:
-    REACT_PROMPT = PromptTemplate(
-        input_variables=["tools", "tool_names", "chat_history", "input", "agent_scratchpad"],
-        template=_REACT_TEMPLATE,
-    )
-else:
-    REACT_PROMPT = None
+REACT_PROMPT = PromptTemplate(
+    input_variables=["tools", "tool_names", "chat_history", "input", "agent_scratchpad"],
+    template=_REACT_TEMPLATE,
+)
 
 # ---------------------------------------------------------------------------
 # Agent factory cache (one AgentExecutor per session)
@@ -122,7 +103,7 @@ def _build_agent_executor(session_id: str) -> AgentExecutor:
         tools=ALL_TOOLS,
         memory=memory,
         handle_parsing_errors=True,
-        max_iterations=5,
+        max_iterations=10,
         verbose=True,
         return_intermediate_steps=True,
     )

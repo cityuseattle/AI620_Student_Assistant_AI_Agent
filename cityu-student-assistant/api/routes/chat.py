@@ -79,8 +79,13 @@ async def chat(request: ChatRequest) -> ChatResponse:
         outputs={"output": result["answer"]},
     )
 
+    # Add smart analysis suggestion
+    answer = result["answer"]
+    if "prerequisite" in request.query.lower() and "no prerequisite" in answer.lower():
+        answer += "\n\n💡 **Want deeper analysis?** Ask me to \"analyze prerequisites for AI620\" and I'll examine course content and dependencies intelligently."
+
     return ChatResponse(
-        answer=result["answer"],
+        answer=answer,
         sources=result["sources"],
         session_id=request.session_id,
     )
