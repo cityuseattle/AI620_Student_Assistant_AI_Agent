@@ -79,10 +79,14 @@ async def chat(request: ChatRequest) -> ChatResponse:
         outputs={"output": result["answer"]},
     )
 
-    # Add smart analysis suggestion
     answer = result["answer"]
-    if "prerequisite" in request.query.lower() and "no prerequisite" in answer.lower():
-        answer += "\n\n💡 **Want deeper analysis?** Ask me to \"analyze prerequisites for AI620\" and I'll examine course content and dependencies intelligently."
+
+    # Add interactive follow-up suggestions
+    if "prerequisite" in request.query.lower():
+        if "analyze" in request.query.lower():
+            answer += "\n\n💡 **Next:** Try \"What skills does this course teach?\" or \"Show me similar courses\""
+        else:
+            answer += "\n\n💡 **Want deeper analysis?** Ask: \"Analyze prerequisites for " + request.query.split()[-1] + "\""
 
     return ChatResponse(
         answer=answer,

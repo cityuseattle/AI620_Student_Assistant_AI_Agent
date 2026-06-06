@@ -214,18 +214,40 @@ def _handle_query(query: str) -> None:
     st.session_state.messages.append({"role": "user", "content": query})
     _render_message("user", query)
 
-    # Call API with a loading spinner
+    # Call API with a loading spinner and timeout handling
     with st.chat_message("assistant"):
         with st.spinner("Agent is thinking…"):
             try:
+                # Track time for timeout message
+                import time
+                start_time = time.time()
+
                 result = _send_chat(
                     query=query,
                     session_id=st.session_state.session_id,
                 )
+                elapsed = time.time() - start_time
+
                 answer = result.get("answer", "Sorry, I received an empty response.")
                 sources = result.get("sources", [])
+
+                # Show if it took a while
+                if elapsed > 10:
+                    answer = f"⏱️ *took {elapsed:.0f}s to analyze*\n\n{answer}"
+
             except RuntimeError as exc:
-                answer = f"⚠️ **Error:** {exc}"
+                error_msg = str(exc)
+                if "Could not reach" in error_msg or "timeout" in error_msg.lower():
+                    answer = (
+                        "⚠️ **Backend is busy or not responding**\n\n"
+                        "The API server is either:\n"
+                        "- Processing a complex analysis (can take 2-5 minutes)\n"
+                        "- Not running\n\n"
+                        "**Check your API terminal** to see if it's still running.\n\n"
+                        "Tip: Try a simpler question first, or increase the timeout in settings."
+                    )
+                else:
+                    answer = f"⚠️ **Error:** {exc}"
                 sources = []
 
         st.markdown(answer)
