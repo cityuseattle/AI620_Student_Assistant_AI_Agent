@@ -82,3 +82,49 @@ class ErrorResponse(BaseModel):
     """Generic error response body."""
 
     detail: str
+
+
+# ---------------------------------------------------------------------------
+# Prerequisite updates
+# ---------------------------------------------------------------------------
+
+
+class PrereqUpdateEntry(BaseModel):
+    """A single prerequisite-change record from the audit log."""
+
+    id: str
+    course_code: str
+    prereqs: list[str]
+    status: str = Field(..., description="pending | applied | approved | rejected")
+    mode: str = Field(..., description="approval | auto")
+    reasoning: str = ""
+    source: str = "agent"
+    unknown_prereqs: list[str] = Field(default_factory=list)
+    created_at: str = ""
+
+
+class PrereqUpdateList(BaseModel):
+    """A list of prerequisite-change records."""
+
+    mode: str
+    entries: list[PrereqUpdateEntry]
+
+
+class ModeRequest(BaseModel):
+    """Body for setting the prerequisite update mode."""
+
+    mode: str = Field(..., description="'approval' or 'auto'.", examples=["approval"])
+
+
+class ModeResponse(BaseModel):
+    """Current prerequisite update mode."""
+
+    mode: str
+
+
+class ActionResponse(BaseModel):
+    """Result of approving/rejecting a change."""
+
+    status: str
+    message: str
+    id: str | None = None

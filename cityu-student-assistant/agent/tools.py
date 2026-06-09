@@ -17,6 +17,7 @@ from typing import Optional
 from langchain_core.tools import Tool
 
 from agent.vector_store import get_retriever
+from agent.prereq_updater import propose_prerequisites
 
 logger = logging.getLogger(__name__)
 
@@ -174,8 +175,16 @@ def _course_lookup(course_code: str) -> str:
             f"Semester: {row['semester'] or 'Not specified'}",
             f"Professor: {row['professor'] or 'TBA'}",
             f"Description: {row['description'] or 'No description available.'}",
-            f"Prerequisites: {', '.join(prereqs) if prereqs else 'None'}",
+            f"Prerequisites: {', '.join(prereqs) if prereqs else 'None on record'}",
         ]
+
+        if not prereqs:
+            lines.append(
+                "NOTE: This course has NO prerequisites recorded in the database. "
+                "If the description implies foundational knowledge, infer 1-2 likely "
+                "prerequisite course codes and call the 'update_prerequisites' tool "
+                f"with input: '{row['code']} | CODE1, CODE2 | your reasoning'."
+            )
 
         if programs:
             prog_lines = [
@@ -303,54 +312,62 @@ faq_tool = Tool(
 
 
 # ---------------------------------------------------------------------------
-# Tool 4: Suggest Course Update
+# Tool 4: Update / Infer Prerequisites
 # ---------------------------------------------------------------------------
 
 
-def _suggest_course_update(suggestion: str) -> str:
-    """Log a suggested course information update with reasoning for human review.
+def _update_prerequisites(payload: str) -> str:
+    """Propose prerequisites for a course that has none on record.
 
-    Parameters
-    ----------
-    suggestion : str
-        Description of the suggested update with reasoning (e.g.,
-        "AI620: Add prerequisites AI500, AI600 based on course content analysis.
-         Reasoning: Course covers machine learning, deep learning, and NLP which
-         are taught in AI500 and AI600.").
+    Expected input format (pipe-separated):
+        ``COURSE_CODE | PREREQ1, PREREQ2 | reasoning``
 
-    Returns
-    -------
-    str
-        Confirmation message with next steps.
+    Examples
+    --------
+    ``"AI620 | AI500, AI600 | Course covers ML and deep learning which build on
+    AI fundamentals."``
+
+    Behaviour depends on the configured mode:
+    * ``approval`` — records a pending suggestion for human approval.
+    * ``auto``     — writes the prerequisites to the database immediately.
     """
-    from datetime import datetime
+    parts = [p.strip() for p in payload.split("|")]
+    if len(parts) < 2 or not parts[0] or not parts[1]:
+        return (
+            "Invalid input. Use the format: "
+            "'COURSE_CODE | PREREQ1, PREREQ2 | reasoning'."
+        )
 
-    log_file = PROJECT_ROOT / "suggested_updates.log"
-    timestamp = datetime.now().isoformat()
+    course_code = parts[0]
+    prereqs = parts[1]
+    reasoning = parts[2] if len(parts) >= 3 else ""
 
     try:
-        with open(log_file, "a", encoding="utf-8") as f:
-            f.write(f"\n[{timestamp}]\n{suggestion}\n" + "="*80 + "\n")
-        logger.info("Update suggestion logged: %s", suggestion[:100])
-        return (
-            f"✓ Suggestion logged for human review:\n{suggestion}\n\n"
-            "A human will verify and update the database accordingly."
+        result = propose_prerequisites(
+            course_code=course_code,
+            prereqs=prereqs,
+            reasoning=reasoning,
+            source="agent",
         )
-    except Exception as exc:
-        logger.error("Failed to log suggestion: %s", exc)
-        return f"Could not log suggestion. Error: {exc}"
+    except Exception as exc:  # pragma: no cover - defensive
+        logger.error("update_prerequisites failed: %s", exc)
+        return f"Could not process the prerequisite update. Error: {exc}"
+
+    return result.get("message", "No result returned.")
 
 
-suggest_update_tool = Tool(
-    name="suggest_course_update",
+update_prerequisites_tool = Tool(
+    name="update_prerequisites",
     description=(
-        "Log a suggested course information update (e.g., corrected prerequisites, "
-        "missing course details). Use this when you find inconsistencies between "
-        "sources or when course information seems incomplete. A human will review "
-        "and approve updates to the database. "
-        "Input: a clear description of the suggested update."
+        "Propose prerequisite courses for a course that has NONE recorded in the "
+        "database. Use this ONLY after course_lookup shows the course has no "
+        "prerequisites on record, and you can infer 1-2 likely prerequisite "
+        "course codes from the course title/description. Depending on the "
+        "configured mode, the suggestion is either queued for human approval or "
+        "written to the database automatically, and is always logged for review. "
+        "Input format: 'COURSE_CODE | PREREQ1, PREREQ2 | short reasoning'."
     ),
-    func=_suggest_course_update,
+    func=_update_prerequisites,
 )
 
 
@@ -358,4 +375,9 @@ suggest_update_tool = Tool(
 # Exported tool list
 # ---------------------------------------------------------------------------
 
-ALL_TOOLS: list[Tool] = [rag_search_tool, course_lookup_tool, faq_tool, suggest_update_tool]
+ALL_TOOLS: list[Tool] = [
+    rag_search_tool,
+    course_lookup_tool,
+    faq_tool,
+    update_prerequisites_tool,
+]

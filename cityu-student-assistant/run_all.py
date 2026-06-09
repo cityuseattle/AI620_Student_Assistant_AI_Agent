@@ -15,6 +15,13 @@ import subprocess
 import sys
 from pathlib import Path
 
+# Ensure UTF-8 output so emoji/status characters don't crash on Windows cp1252 consoles.
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except (AttributeError, ValueError):
+    pass
+
 PROJECT_ROOT = Path(__file__).resolve().parent
 
 # Universal System File Map Tracking

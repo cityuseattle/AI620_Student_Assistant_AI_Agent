@@ -37,6 +37,11 @@ htmlcov/
 chroma_db/
 db/cityu.db
 data/processed/
+data/cityu_courses_ready.json
+
+# Prerequisite self-update runtime state (not source)
+.prereq_mode
+prereq_updates.jsonl
 
 # Raw user data (large files not tracked)
 data/raw/
