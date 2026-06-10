@@ -6,6 +6,13 @@ import sys
 import json
 from pathlib import Path
 
+# Ensure UTF-8 output so emoji/status characters don't crash on Windows cp1252 consoles.
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except (AttributeError, ValueError):
+    pass
+
 # Inject the parent root directory so Python can see all project directories if needed
 DB_FOLDER = Path(__file__).resolve().parent
 sys.path.insert(0, str(DB_FOLDER.parent))

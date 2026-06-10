@@ -116,6 +116,37 @@ def _send_chat(query: str, session_id: str) -> dict:
         ) from exc
 
 
+def _get_update_mode() -> str:
+    """Return the current prerequisite update mode ('approval' | 'auto')."""
+    try:
+        resp = httpx.get(f"{API_BASE_URL}/updates/mode", timeout=5.0)
+        resp.raise_for_status()
+        return resp.json().get("mode", "approval")
+    except Exception:
+        return "approval"
+
+
+def _set_update_mode(mode: str) -> None:
+    """Set the prerequisite update mode on the backend."""
+    httpx.post(f"{API_BASE_URL}/updates/mode", json={"mode": mode}, timeout=5.0)
+
+
+def _fetch_updates(status: Optional[str] = None) -> list[dict]:
+    """Fetch change-log entries, optionally filtered by status."""
+    try:
+        params = {"status": status} if status else None
+        resp = httpx.get(f"{API_BASE_URL}/updates", params=params, timeout=5.0)
+        resp.raise_for_status()
+        return resp.json().get("entries", [])
+    except Exception:
+        return []
+
+
+def _act_on_update(change_id: str, action: str) -> None:
+    """Approve or reject a pending change (action in {'approve', 'reject'})."""
+    httpx.post(f"{API_BASE_URL}/updates/{change_id}/{action}", timeout=10.0)
+
+
 # ---------------------------------------------------------------------------
 # Sidebar
 # ---------------------------------------------------------------------------
@@ -148,6 +179,11 @@ def _render_sidebar() -> None:
 
         st.markdown("---")
 
+        # --- Prerequisite self-update controls ---
+        _render_updates_panel()
+
+        st.markdown("---")
+
         # --- Clear chat ---
         if st.button("🗑️ Clear Chat", use_container_width=True, type="secondary"):
             st.session_state.messages = []
@@ -160,6 +196,67 @@ def _render_sidebar() -> None:
             "<small>Powered by LangChain · ChromaDB · FastAPI</small>",
             unsafe_allow_html=True,
         )
+
+
+def _render_updates_panel() -> None:
+    """Render the prerequisite self-update controls in the sidebar."""
+    st.markdown("#### 🛠️ Prerequisite Updates")
+
+    # Mode toggle (approval vs auto).
+    current_mode = _get_update_mode()
+    mode_labels = {
+        "approval": "Approval required",
+        "auto": "Auto-apply (no approval)",
+    }
+    options = ["approval", "auto"]
+    selected = st.radio(
+        "When the agent infers missing prerequisites:",
+        options=options,
+        index=options.index(current_mode) if current_mode in options else 0,
+        format_func=lambda m: mode_labels[m],
+        key="prereq_mode_radio",
+    )
+    if selected != current_mode:
+        try:
+            _set_update_mode(selected)
+            st.success(f"Mode set to '{mode_labels[selected]}'.")
+        except Exception as exc:
+            st.error(f"Could not change mode: {exc}")
+
+    # Pending approvals.
+    pending = _fetch_updates(status="pending")
+    st.markdown(f"**Pending approvals:** {len(pending)}")
+    for entry in pending:
+        with st.container(border=True):
+            st.markdown(
+                f"**{entry['course_code']}** ← {', '.join(entry['prereqs'])}"
+            )
+            if entry.get("reasoning"):
+                st.caption(entry["reasoning"])
+            if entry.get("unknown_prereqs"):
+                st.caption(
+                    "⚠️ Not in catalog: " + ", ".join(entry["unknown_prereqs"])
+                )
+            col_ok, col_no = st.columns(2)
+            if col_ok.button("✅ Approve", key=f"appr_{entry['id']}", use_container_width=True):
+                _act_on_update(entry["id"], "approve")
+                st.rerun()
+            if col_no.button("❌ Reject", key=f"rej_{entry['id']}", use_container_width=True):
+                _act_on_update(entry["id"], "reject")
+                st.rerun()
+
+    # Recently applied / approved changes.
+    applied = [
+        e for e in _fetch_updates()
+        if e.get("status") in ("applied", "approved")
+    ][:5]
+    if applied:
+        with st.expander(f"📝 Recent changes ({len(applied)})"):
+            for e in applied:
+                st.markdown(
+                    f"- **{e['course_code']}** ← {', '.join(e['prereqs'])} "
+                    f"_({e['status']})_"
+                )
 
 
 # ---------------------------------------------------------------------------
@@ -260,6 +357,12 @@ def _handle_query(query: str) -> None:
     st.session_state.messages.append(
         {"role": "assistant", "content": answer, "sources": sources}
     )
+
+    # If the agent just proposed or applied a prerequisite update, rerun so the
+    # sidebar panel (rendered before the query was handled) refreshes with the
+    # new pending/applied entry.
+    if "📝 Suggested" in answer or "✅ Added" in answer:
+        st.rerun()
 
 
 # ---------------------------------------------------------------------------
