@@ -1,0 +1,16 @@
+Course Code: FIN567
+Title: FIN 567 Fintech Strategy Project *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/fin-finance/500/fin-567
+Credits: 3
+Prerequisites: FIN 560, FIN 563, and FIN 565
+
+Description:
+FinTech Strategy Project serves as the capstone for the FinTech course series, synthesizing knowledge from blockchain, machine learning, AI, big data, and disruptive financial models. Students explore real-world challenges and opportunities in the financial industry and apply innovative FinTech strategies to address them. Through case analysis and strategic planning, learners identify key trends, assess organizational needs, and develop actionable roadmaps for implementation. The course emphasizes critical thinking, collaboration, and practical problem-solving. By completing the main project, students gain hands-on experience in crafting impactful strategies that integrate cutting-edge FinTech solutions to drive measurable business outcomes.
+
+Outcomes:
+This course will prepare students to:
+1. Identify key challenges and opportunities in financial services where FinTech innovations can drive value.
+2. Analyze a company’s micro and macro-environment to determine how blockchain, AI, big data, or other technology solutions can address specific business needs.
+3. Design an innovative FinTech strategy that integrates concepts from relevant technologies and disruptive financial models.
+4. Evaluate the feasibility and potential risks of proposed FinTech solutions using strategic frameworks and evidence-based reasoning.
+5. Develop a comprehensive implementation roadmap for a FinTech solution that includes resource allocation, risk mitigation strategies, and performance measurement criteria.

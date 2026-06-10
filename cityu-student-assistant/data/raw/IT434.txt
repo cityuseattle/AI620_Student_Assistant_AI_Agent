@@ -1,0 +1,17 @@
+Course Code: IT434
+Title: IT 434 Cloud Computing
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/it-information-technology/400/it-434
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 330, CS 340, and IS 345 are required pre-requisite
+
+Description:
+This course prepares the student to understand basic cloud concepts and provides a streamlined overview of cloud services, discuss the importance of elasticity and resource management in cloud computing and explain cloud computing fundamentals, security principles, and applications. Students learn how to analyze theoretical, technical, and commercial aspects of cloud computing, how to deploy an application that uses cloud infrastructure for computing and data resources, how to evaluate emerging technologies and existing cloud-based infrastructure.
+
+Outcomes:
+This course will prepare students to:
+1. Explain cloud concepts such as high availability, scalability, elasticity, agility, and disaster recovery.
+2. Describe core cloud architecture components such as subscriptions, management groups, resources and resource groups.
+3. Examine cloud services, tools, and techniques.
+4. Analyze core cloud services, solutions, and management tools.
+5. Evaluate cloud security features, network security features, governance, privacy and compliance, cost management and service level agreements.
+6. Design a business solution using cloud services.

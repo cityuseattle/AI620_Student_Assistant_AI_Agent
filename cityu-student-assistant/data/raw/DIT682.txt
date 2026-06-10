@@ -1,0 +1,14 @@
+Course Code: DIT682
+Title: DIT 682
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-682
+Credits: 6
+Prerequisites: Students must have pre-approval from the program manager to enroll in this course.
+
+Description:
+The Comprehensive Exam for the core assesses the students’ knowledge of the field of their doctoral degree major, as well as the ability to synthesize material and master concepts and theories. Successful completion of the comprehensive exam is required for degree completion.
+
+Outcomes:
+This course will prepare students to:
+1. Construct a model from recently developed theories of information technology.
+2. Demonstrate the knowledge and skills of applying methodology and technology tools in information technology through a research paper.
+3. Present and defend papers in the oral exam.

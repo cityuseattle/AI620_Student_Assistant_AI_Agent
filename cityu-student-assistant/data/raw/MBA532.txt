@@ -1,0 +1,15 @@
+Course Code: MBA532
+Title: MBA 532 Operations and Technology Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-532
+Credits: 3
+Prerequisites: None
+
+Description:
+This course covers end-to-end supply chain systems at a global level and how operations and technology management enable that system. To achieve the highest effectiveness, supply chain managers must consider the operations function in conjunction with the organization’s global supply chains. In this course, students evaluate opportunities to improve a real-world organization’s supply chain and propose strategies to leverage current and emerging technologies to enhance efficiency, sustainability, and scalability.  Students also create comprehensive, integrated supply chain plans that enable a real or hypothetical start-up venture to bring a product to market.
+
+Outcomes:
+This course prepares students to:
+1. Evaluate a supply chain to identify operational areas in need of improvement or adaptation.
+2. Generate and assess multiple alternative strategies to make recommendations for implementation.
+3. Leverage proper technologies to enhance organizational systems, responsiveness, and performance.
+4. Develop a comprehensive, integrated supply chain plan that enables sustainable and ethical production and distribution of a product to buyers.

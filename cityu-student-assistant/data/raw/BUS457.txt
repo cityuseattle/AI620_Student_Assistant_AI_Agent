@@ -1,0 +1,16 @@
+Course Code: BUS457
+Title: BUS 457 Enterprise Analytics
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-457
+Credits: 5
+Prerequisites: None
+
+Description:
+In this class students explore cutting-edge technologies to obtain the skills needed for data-driven decision-making in contemporary business environments. The first part covers fundamental concepts, including an introduction to enterprise analytics, data collection and preparation, exploratory data analysis, predictive analytics, and data mining and machine learning. This foundational knowledge sets the stage for the second part, which focuses on practical applications in key domains, such as marketing, health care, financial, and retail analytics. Emphasizing enterprise analytics as a powerful tool for business leaders, the course enables students to access, organize, and leverage enterprise-wide data from multiple sources, fostering quick processing of large datasets and uncovering valuable trends. Through a blend of theoretical understanding and hands-on applications, students will emerge prepared to harness the potential of enterprise analytics in diverse business settings.
+
+Outcomes:
+This course will prepare students to:
+1. Evaluate the importance of enterprise analytics in business management.
+2. Investigate the role of data-driven decision-making in organizations.
+3. Analyze real-world data and apply analytical techniques to solve industry-related problems.
+4. Implement various analytics techniques and models on industry-specific data.
+5. Interpret the results of enterprise analysis and formulate industry-specific recommendations.

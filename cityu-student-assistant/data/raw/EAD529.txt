@@ -1,0 +1,15 @@
+Course Code: EAD529
+Title: EAD 529 Curriculum Development and Instructional Design
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ead-education-adult-education/500/ead-529
+Credits: 6
+Prerequisites: None
+
+Description:
+Curriculum Development and Instructional Design familiarizes students with the various curriculum development and instructional design models needed to support adult learning in education, business, and training contexts. Topics include: purposes of learning, learning contexts, learner characteristics, work setting characteristics, work/task analysis, learning outcomes, needs assessment, course design, and assessment strategies. Recent historical emphasis on accountability of student learning provides the context for a clear and effective approach to designing and assessing learning relative to established outcomes. Students learn various types of assessment strategies and tools, including authentic assessment. They also learn how to apply the results of learning outcomes assessment to improve student achievement and program effectiveness.
+
+Outcomes:
+This course will prepare students to:
+1. Explore the research on curriculum development and instructional design models.
+2. Evaluate assessment strategies that result in effective learning outcomes.
+3. Create rubrics for assessments that demonstrate an understanding of the developmental sequence of rubric descriptors that together constitute a progression of learning.
+4. Apply best practices in instructional design and curriculum development.

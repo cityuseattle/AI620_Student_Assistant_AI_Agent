@@ -1,0 +1,11 @@
+Course Code: ISEC630
+Title: ISEC 630 Masters Thesis Capstone
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/isec-information-security/600/isec-630
+Credits: 3
+Prerequisites: None
+
+Description:
+The Capstone Project allows the student to synthesize the information gained in this program and conduct research into a subject or topic in Information Systems Security that interests them.
+
+Outcomes:
+None

@@ -1,0 +1,16 @@
+Course Code: DBA620
+Title: DBA 620 Technology Implementation and Change Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dba-doctor-business-administration/600/dba-620
+Credits: 6
+Prerequisites: None
+
+Description:
+In this course, students examine trends in technology that are shaping the future of organizations. Emphasis is placed on examining today’s organizational challenges, proposing technology-based solutions, outlining the steps to the process, and incorporating change models that can optimize business operations. Students utilize project approaches to plan, track, and evaluate their initiatives. Students apply their learning to chosen projects through an organizational needs analysis, propose and rationalize viable solution(s), create an implementation plan, and identify key performance metrics that support organizational success.
+
+Outcomes:
+This course will prepare students to:
+1. Analyze major technology trends and their impact on the competitive environment of business organizations.
+2. Analyze an organization's technological needs and stakeholder's ability to learn and adapt.
+3. Create appropriate technology-based initiatives that improve organizational strategy, structure, and performance.
+4. Develop strategic project plans for implementing organizational initiatives.
+5. Evaluate organizational strategy, structure, and performance using sociotechnical systems theory and design thinking.

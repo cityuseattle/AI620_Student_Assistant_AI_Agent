@@ -1,0 +1,16 @@
+Course Code: DA495
+Title: DA 495 Data Analytics Capstone
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/da-data-analytics/400/da-495
+Credits: 5
+Prerequisites: Students may take DA 495 after completing all degree requirements, or with program director approval.
+
+Description:
+Students step into this capstone class with background knowledge gained from the program’s core classes in areas, such as databases, data visualization, big data, analytics computing, machine learning, and advanced statistical analytics methods. The purpose of this capstone course in data analytics is to assess students’ ability to synthesize and integrate the knowledge and skills they have developed throughout their coursework. The course provides students with the opportunity to demonstrate competency on the key domains of data analytics through a comprehensive project with components including problem scoping, data preparation and analysis, and a model development. The capstone project cultivates students’ practical knowledge and skills by encouraging them to select a real-world business problem, explore its data, answer the questions using the appropriate analytics methods, and report conclusions to drive a data-driven business decision. Emphasis is placed on applying data-analytic thinking necessary for extracting useful knowledge and business value from data.
+
+Outcomes:
+This course will prepare students to:
+1. Articulate assumptions, analyses, and interpretations of data in a variety of modes.
+2. Apply best practices in management of security of data.
+3. Create visualizations and interactive dashboards from multiple data sets.
+4. Synthesize and apply relevant data analytics concepts, methods, and tools to solve real-world business challenges.
+5. Evaluate appropriate ethical use of data.

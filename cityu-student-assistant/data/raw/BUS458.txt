@@ -1,0 +1,16 @@
+Course Code: BUS458
+Title: BUS 458 Business Analytics Strategy and Implementation Plan
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-458
+Credits: 5
+Prerequisites: None
+
+Description:
+This course delves into the pivotal role of data-driven business analytics in steering organizational strategy. Students gain expertise in crafting, executing, and overseeing business analytics strategies that intrinsically align with organizational objectives. With a strong emphasis on data-centric approaches, the course guides students through the nuances of initiating and launching analytics projects designed not only to produce valuable intelligence but also to catalyze informed decision-making and concrete actions. Upon completion of this course, students will be equipped with the skills and knowledge necessary to develop and implement impactful business analytics strategies, empowering them to drive data-driven decision-making and actionable insights within their respective organizations.
+
+Outcomes:
+This course will prepare students to:
+1. Evaluate how analytics influence decision-making processes in business.
+2. Evaluate the roles of various stakeholders in the analytics process.
+3. Create data-driven organizational change strategies.
+4. Design a holistic analytics strategy by combining organizational goals, competitive landscape, and analytics requirements.
+5. Apply knowledge of analytics tools, technologies, and methodologies for optimal deployment within an organization.

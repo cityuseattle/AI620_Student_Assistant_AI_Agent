@@ -1,0 +1,11 @@
+Course Code: CS332
+Title: CS 332 Switches, Routing and Protocols *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-332
+Credits: 5
+Prerequisites: CS 330-Network Communications Basics
+
+Description:
+This course takes an in-depth look at the communications network and transport layers with a particular focus on IPv4 and IPv6. The course studies how packets are routed through networks and provides students with basis for understanding protocols. This course is a foundation for more advanced networking knowledge.
+
+Outcomes:
+None

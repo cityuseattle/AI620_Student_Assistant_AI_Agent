@@ -1,0 +1,16 @@
+Course Code: BUS456
+Title: BUS 456 People Analytics
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-456
+Credits: 5
+Prerequisites: None
+
+Description:
+This course equips students with essential skills for analyzing HR data. Students build proficiency in the tools and methodologies commonly deployed for data acquisition, cleansing, analysis, and interpretation. Students learn to offer strategic recommendations, optimize talent acquisition, and utilize statistics, visualization, and predictive modeling to develop HR strategies. By the end of this course, learners will possess the necessary knowledge and skills to seamlessly integrate data-driven insights into talent management and staffing strategies, thereby equipping their organizations with a distinct competitive advantage.
+
+Outcomes:
+This course will prepare students to:
+1. Evaluate existing HR strategies and recommend improvements to address HR-related challenges.
+2. Recommend HR strategies based on relevant analysis.
+3. Formulate original recommendations for HR analytics strategies that can drive organizations toward data-driven decision-making.
+4. Analyze HR data to discern its relevance in informing HR-related decision-making processes.
+5. Summarize the methodologies for examining HR data, the development of relevant metrics, and the identification of key indicators essential throughout the talent life cycle.

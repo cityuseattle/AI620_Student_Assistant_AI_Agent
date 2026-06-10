@@ -1,0 +1,17 @@
+Course Code: MATH141
+Title: MATH 141 Precalculus (QSR or NS) *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/math-mathematics-_mat_-mth/100/math-141
+Credits: 5
+Prerequisites: MATH 138
+
+Description:
+This course is designed for students pursuing careers in STEM-related fields and builds upon existing algebra and geometry knowledge and skills. The course covers concepts and topics of mathematical functions and relations and their application for modeling, describing, and solving fundamental real-world mathematical problems. Emphasis is placed on the development of necessary mathematical knowledge and skills needed for upper division coursework and domain- and field specific applications of mathematics, such as those for computing, engineering, business, sciences, and technology.
+
+Outcomes:
+This course will prepare students to:
+1. Differentiate between the types of functions and their properties (linear, quadratic, polynomial, rational, exponential, logarithmic, trigonometric).
+2. Analyze problems and solutions involving polar coordinates and vectors using algebraic and graphical methods.
+3. Appraise the relationships between mathematics and careers in computing and technology, engineering, science, or business.
+4. Apply mathematical and graphical methods for solving systems of equations and inequalities (substitution, elimination, determinants, matrices).
+5. Apply properties of arithmetic and geometric sequences and series.
+6. • Use mathematical models and techniques to solve applications and real-world problems.

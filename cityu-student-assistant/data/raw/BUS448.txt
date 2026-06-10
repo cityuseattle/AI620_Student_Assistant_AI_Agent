@@ -1,0 +1,17 @@
+Course Code: BUS448
+Title: BUS 448 Strategic Decision Making Under Uncertainty *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-448
+Credits: 5
+Prerequisites: BUS 426
+
+Description:
+This course introduces the basic concepts, principles, and techniques of strategic decision making under uncertainty. Students will learn how to model complex business problems that involve risk and uncertainty with the help of spreadsheet functions and add-ins. The design of this course is centered on analytical models, such as Regression Analysis, Time Series, Decision Tree, Simulation & Optimization, and Dynamic Optimization. An emphasis is placed on model formulation and interpretation of results.
+
+Outcomes:
+This course will prepare students to:
+1. Analyze business problems that involve uncertainty.
+2. Gain insight into the scope of management problems that can be addressed with stochastic optimization models.
+3. Identify value-creating opportunities using simulation and optimization models.
+4. Develop models to enhance decision making under uncertainty within an organization.
+5. Explain problems through data and perform logical analyses.
+6. Assess the significance of model outputs for managerial insights and actions.

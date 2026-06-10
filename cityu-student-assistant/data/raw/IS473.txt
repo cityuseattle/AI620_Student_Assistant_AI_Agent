@@ -1,0 +1,11 @@
+Course Code: IS473
+Title: IS 473 Intellectual Property
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-473
+Credits: 5
+Prerequisites: None
+
+Description:
+This course covers the concept of Intellectual Property and how it relates to business and to strategic planning for a business. We will begin by looking at what Intellectual Property is and how that relates to the economic well being of a business. Consideration will be given to how innovation is driving economic globalization and how that translates into economic opportunities and risks from the standpoint of intellectual property. We will consider methods of quantifying a business¿s Intellectual Property and creating a strategic plan for development, capitalization of, and protection of that Intellectual Property. Finally, we will look at the integration of a business strategic plan with an Intellectual Property strategic plan.
+
+Outcomes:
+None

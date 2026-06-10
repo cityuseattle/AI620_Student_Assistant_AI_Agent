@@ -1,0 +1,11 @@
+Course Code: CS432
+Title: CS 432 Advanced Health Information Systems *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-432
+Credits: 5
+Prerequisites: CS 430
+
+Description:
+This course is designed to provide students with an in-depth analysis of healthcare informatics. The purpose of the course is to develop a deeper understanding of advanced topics in healthcare information systems. Topics to be covered are health care data quality, knowledge translation, healthcare data analytics and data mining, information security and cloud computing. The course also discusses the topic of leadership in healthcare IT. By the end of the course the student will be able to discuss the topics used to acquire healthcare knowledge, analyze the knowledge, distribute, and communicate the knowledge to healthcare stakeholders and patients.
+
+Outcomes:
+None

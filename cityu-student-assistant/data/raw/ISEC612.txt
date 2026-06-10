@@ -1,0 +1,11 @@
+Course Code: ISEC612
+Title: ISEC 612 Breaking and Securing the Web
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/isec-information-security/600/isec-612
+Credits: 3
+Prerequisites: None
+
+Description:
+This course focuses on the development and use of software that reliably preserves the security properties of the information and systems it protects. The security of a system, and of the data it stores and manages, depends in large part on the security of its software. The security of software depends on how well the requirements match the needs that the software is to address, how well the software is designed, implemented, tested, deployed, and maintained. The documentation is critical for everyone to understand these considerations, and ethical considerations arise throughout the creation, deployment, use, and retirement of software. The course addresses these security issues. Topics include fundamental design principles including least privilege, open design, and abstraction, security requirements and their role in the design, implementation issues, static and dynamic testing, configuring and patching, and ethics, especially in development, testing, and vulnerability disclosure.
+
+Outcomes:
+None

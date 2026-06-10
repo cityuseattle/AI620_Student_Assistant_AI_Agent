@@ -1,0 +1,15 @@
+Course Code: MBA534
+Title: MBA 534 Digital Marketing and Analytics
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-534
+Credits: 3
+Prerequisites: None
+
+Description:
+This course explores digital marketing and analytics, with a focus on applying techniques for target market development and brand management. Students will learn to analyze digital marketing research and strategies, incorporating AI best practices to enhance campaign effectiveness. Key topics include strategic brand management, market research, and using analytics to understand digital consumer behavior. Through hands-on evaluations, students will gain insights into building successful brands and products in the digital space.
+
+Outcomes:
+This course will prepare students to:
+1. Apply digital marketing techniques to target market development and brand management, incorporating AI tools to enhance targeting precision and optimize brand strategies.
+2. Analyze value concepts and apply them to the development and marketing of products and services, leveraging AI-driven insights to understand consumer behavior and market trends.
+3. Synthesize integrated digital marketing strategy, research, and planning concepts, using AI to improve program management and assist with making data-driven decisions across digital platforms.
+4. Evaluate marketing analytics and related data management platforms, including AI applications designed to optimize Big Data and CRM systems, digital marketing systems and program management.

@@ -1,0 +1,11 @@
+Course Code: IS410
+Title: IS 410 Programming in Data Analytics *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-410
+Credits: 5
+Prerequisites: IS 312 or CS 225
+
+Description:
+This course provides an introduction to programming using Python and JavaScript. Students learn the fundamental programming concepts of process, iteration and decision making as well as using functions, modules and classes to structure programs. Students learn to apply key data structures and algorithms in their programs. Throughout the course students work in an immersive environment creating numerous programs to exercise their knowledge. At the end of the course, students have the ability to apply programming to many common problems and a solid foundation for more advanced programming concepts and challenges.
+
+Outcomes:
+None

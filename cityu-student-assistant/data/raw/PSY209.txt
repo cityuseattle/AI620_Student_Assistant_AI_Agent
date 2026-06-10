@@ -1,0 +1,15 @@
+Course Code: PSY209
+Title: PSY 209 Fundamentals of Research Methods in Social Sciences (NS) *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/psy-psychology/200/psy-209
+Credits: 5
+Prerequisites: None
+
+Description:
+As an introduction to research methods, this course provides students with a foundation in the basic concepts of the scientific method, research designs, and statistical analyses commonly used in studying the social sciences. The focus of the curriculum is on empirical approaches to knowledge, research problem formulation, selection of research methods and techniques, statistical testing and analysis, and inferential conclusions. Students examine the appropriateness, usefulness, and limitations of research methods and statistical processes applied in the social sciences. As informed consumers of research, understanding these topics promotes critical thinking, problem-solving skills, ethical and evidence-based practices, and academic success.
+
+Outcomes:
+This course will prepare students to:
+1. Identify appropriate research methods and statistical analyses based on the identified problem or question and the intention of the inquiry.
+2. Appraise the common research design and methods, ethical standards, results, and conclusions of research reported in the social sciences.
+3. Appraise the common statistical methods, analyses, and interpretations used in social sciences research.
+4. Summarize accurately and effectively the research methods and statistical analyses commonly used in social sciences research.

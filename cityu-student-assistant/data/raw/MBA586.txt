@@ -1,0 +1,17 @@
+Course Code: MBA586
+Title: MBA 586 Lean Six Sigma Black Belt 01: Loss Identification and Intelligence
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-586
+Credits: 3
+Prerequisites: None
+
+Description:
+This course focuses on preparing the student to become a Certified Six Sigma Black Belt (CCSSBB). Certified Six Sigma Blackbelts leverage their expertise using tools and techniques, but also know where and how to apply Six Sigma methodology to improve business results. This course is one of two courses that prepare the student for Six Sigma Black Belt certification. Students focus on organization-wide planning and deployment, process management and measures, team management, project management, and applying the right measurement techniques to the problem. Students leave the course skilled in leadership and applying decision-making to scenarios encountered by CSSBB professionals.
+
+Outcomes:
+This course will prepare students to:
+1. Evaluate a real-world scenario for Six Sigma methodology alignment, the relationship of unique business processes and systems, strategic value, leadership roles and their impact on a potential project.
+2. Evaluate a real-world scenario for Six Sigma methodology alignment, the relationship of unique business processes and systems, strategic value, leadership roles and their impact on a potential project.
+3. Explain how a project will impact both internal and external stakeholders.
+4. Determine how performance measures align with organizational strategy.
+5. Evaluate project management tools to track their performance.
+6. Determine the appropriate analytical tools to use throughout the DMAIC cycle.

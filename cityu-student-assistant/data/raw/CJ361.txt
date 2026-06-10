@@ -1,0 +1,17 @@
+Course Code: CJ361
+Title: CJ 361 Cyber and Surveillance Law and Government (SS or HU)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cj-criminal-justice/300/cj-361
+Credits: 5
+Prerequisites: None
+
+Description:
+Cyber law and governance is complex and challenged by ever-evolving changes in technologies. Students will gain knowledge in the legal and regulatory aspects of surveillance, data collections, privacy, search and seizure, national security, personal data, and liability. The course will make the legal aspects accessible to the non-attorney whose daily practice is guided by sophisticated legislative and regulatory frameworks.
+
+Outcomes:
+This course will prepare students to:
+1. Recognize the legal aspects of information systems security (ISS).
+2. Examine the concept of privacy and its legal protections.
+3. Identify the basic components of the American legal system.
+4. Describe legal compliance laws addressing public and private institutions.
+5. Analyze intellectual property laws.
+6. Describe the role of contracts in online transactions and cyberspace.

@@ -1,0 +1,17 @@
+Course Code: BUS430
+Title: BUS 430 Marketing and Competitive Analysis
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-430
+Credits: 5
+Prerequisites: None
+
+Description:
+Marketing is competitive by nature and successful marketing requires a deep understanding of one’s competitive environment. Technology is allowing more sophisticated marketers to define their target markets and competitive environments in new ways, thereby opening new paths for organizations to compete. This course provides a management perspective related to the analysis, development, and assessment of marketing decisions and sheds light upon key dimensions of digital marketing.
+
+Outcomes:
+This course will prepare students to:
+1. Develop a digital marketing plan and strategy.
+2. Conduct a situation analysis to analyze an organization’s internal and external environment.
+3. Create personas to deliver the most relevant and useful contents to a company’s audience.
+4. Develop a Segmentation, Targeting, and Positioning (STP) plan.
+5. Conduct a customer behavior analysis.
+6. Explain the role of Artificial Intelligence (AI) in customer behavior analytics.

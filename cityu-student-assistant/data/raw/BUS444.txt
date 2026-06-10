@@ -1,0 +1,16 @@
+Course Code: BUS444
+Title: BUS 444 Predictive and Prescriptive Analytics *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-444
+Credits: 5
+Prerequisites: BUS 426
+
+Description:
+Predictive and prescriptive analytics encompass more advanced analytics techniques which are driving the next wave in the business intelligence world. This course examines the key principles of predictive and prescriptive analytics and evaluates methods for applying the techniques encompassed by these methods to core enterprise functions such as marketing, human resources, and logistics. Students use these key concepts to implement and deploy predictive and prescriptive solutions to a variety of business scenarios and develop the technical skills to compile and test various automation and linear programming solutions in Python.
+
+Outcomes:
+This course will prepare students to:
+1. Analyze predictive and prescriptive analytics business scenarios and develop potential solutions using the BADIR (Business Question, Analytics Plan, Data Collection, Insights, Recommendation) framework.
+2. Differentiate between predictive and prescriptive analytics and examine these techniques in various business environments.
+3. Examine the principles of predictive analytics and evaluate methods for applying these principles to enterprise functions.
+4. Examine the principles of prescriptive analytics and evaluate methods for applying these principles to enterprise functions.
+5. Compile basic Python scripts to successfully model predictive and prescriptive techniques such as linear programming.

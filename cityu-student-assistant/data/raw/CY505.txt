@@ -1,0 +1,16 @@
+Course Code: CY505
+Title: CY 505 Securing Computer Systems
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/500/cy-505
+Credits: 3
+Prerequisites: None
+
+Description:
+This course focuses on the use the software security aspects of systems components and connections. Systems security is presented as a set of components and connections, and as a complete system.  Topics include the holistic approach to security policy, authentication, access control, monitoring, recovery, testing, and documentation.
+
+Outcomes:
+This course will prepare students to:
+1. Apply different encryption techniques and policies in an organization.
+2. Apply group policy controls to operating systems.
+3. Analyze strategies for network backup, restoration operations, and incident handling in a digital network.
+4. Evaluate controls to protect digital networks from malware threats.
+5. Create security policies and techniques to protect digital networks and applications from security vulnerabilities.

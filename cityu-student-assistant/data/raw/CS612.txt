@@ -1,0 +1,11 @@
+Course Code: CS612
+Title: CS 612 Data Exploration and Visualization
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-612
+Credits: 3
+Prerequisites: None
+
+Description:
+As the base of data science, data should be acquired, integrated, pre-processed, analyzed, and visualized. The data acquisition is a crucial step to ensure both the quantity and quality of data and improve the effectiveness of the following steps of data processing. For the data scientist, it is also important to be aware of the range of options and possibilities and to be able to deploy the analyses as appropriate. Thus, a data scientist must understand concepts and approaches of data acquisition, including data shaping, information extraction, information integration, data reduction and compression, data transformation, as well as data cleaning. Through the use of graphs and other forms of diagrams, visualization can be used in providing readily understood summaries but can also greatly assist in guiding such activities as clustering and classification.
+
+Outcomes:
+None

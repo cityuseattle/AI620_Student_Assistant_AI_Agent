@@ -1,0 +1,11 @@
+Course Code: CS651
+Title: CS 651 Computer Systems Capstone - Define *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-651
+Credits: 3
+Prerequisites: Completion of 18 credits of the program including at least 9 credits of a sequence.
+
+Description:
+In the Capstone, the student will demonstrate their abilities to apply Computer Systems principles, tools and techniques to a specific problem, and to acquire and/or apply additional knowledge in a unique problem domain. The Capstone should include elements related to specific emphasis area(s) of the student. In the first course in the sequence, Define, the student will propose a topic, complete a literature review and define the research and process for a thesis, or will select, define, gather requirements and complete a high level design for a project.
+
+Outcomes:
+None

@@ -1,0 +1,17 @@
+Course Code: AI500
+Title: AI 500 Artificial Intelligence
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ai-artificial-intelligence/500/ai-500
+Credits: 3
+Prerequisites: None
+
+Description:
+This course examines the basic principles and core building blocks of Artificial Intelligences (AI). Topics include knowledge representation, reasoning, and learning and how these principles are applied in natural language processing (NLP), perception, and robotics. Candidates apply the knowledge to explore how AI is currently used and identify its impact and potential problems
+
+Outcomes:
+This course will prepare students to:
+1. Understand the history of AI, guiding principles of AI in various industries.
+2. Identify how AI solves problems in industry and enterprise computing.
+3. Explain AI in terms of machine learning, deep learning and expert systems.
+4. Apply the knowledge to identify how AI is used today and in near future.
+5. Evaluate AI project on the Cloud, its impact, and potential benefits and problems.
+6. Design a common AI workload for prediction/forecasting, anomaly detection, natural language processing, or conversational AI.

@@ -1,0 +1,11 @@
+Course Code: CS497
+Title: CS 497 Technology and Computing Capstone *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-497
+Credits: 5
+Prerequisites: All of the program courses complete.
+
+Description:
+This cumulative capstone course provides students an opportunity to apply, integrate, and demonstrate their knowledge and skills throughout their undergraduate technology and computing education. The course assesses the student's ability to show mastery through practical examinations, oral presentations, and written work. Students must take this course in the last quarter of enrollment. May take another program requirement concurrently. Note: Name changed from Technology Capstone as of 7/1/2020.
+
+Outcomes:
+None

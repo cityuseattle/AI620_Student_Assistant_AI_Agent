@@ -1,0 +1,11 @@
+Course Code: CS132
+Title: CS 132 Computer Science I *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/100/cs-132
+Credits: 5
+Prerequisites: IS 201 is recommended as a pre-requisite.
+
+Description:
+In this course, students are introduced to computer programming concepts using a general-purpose programming language. We will walk through basic concepts such as variables, operators, data types, and functions, then move on to Object-Oriented Programming and other advanced topics, including interfaces and generics. Students will complete a series of hands-on exercises to build the programming knowledge required to write more substantial and more complex applications.
+
+Outcomes:
+None

@@ -1,0 +1,16 @@
+Course Code: CS274
+Title: CS 274 Full Stack Web Development -Backend
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/200/cs-274
+Credits: 5
+Prerequisites: None
+
+Description:
+This course helps students understand the uses of modern, sophisticated application development frameworks powered by JavaScript. The development stack favored by the program is MEAN (MongoDB, Express, Angular, and Node). MEAN is a user-friendly full-stack JavaScript framework ideal for building dynamic websites and applications. It is a free and open-source stack designed to supply developers with a quick and organized method for creating rapid prototypes of MEAN-based web applications. One of the main benefits of the MEAN stack is that a single language, JavaScript, runs on every level of the application, making it an efficient and modern approach to web development. We focus on backend web application development using the Express framework.
+
+Outcomes:
+This course will prepare students to:
+1. Understand single-page applications and full stack architecture.
+2. Apply full stack development to backend applications.
+3. Analyze full stack components for backend applications.
+4. Evaluate full stack technologies for backend applications.
+5. Create a backend application by using a full stack.

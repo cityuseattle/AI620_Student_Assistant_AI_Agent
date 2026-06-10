@@ -1,0 +1,16 @@
+Course Code: CS628
+Title: CS 628 Full-Stack Development - Web Application
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-628
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces students to developing the backend portions of full-stack applications. Students learn concepts and earn stackable skills to design and develop not only what the users see or interact with on a frontend application but also the logic of the backend application that the users do not see. After taking this course, students are prepared to create backend applications, evaluate how a backend application works, and explore emerging and advanced full-stack technologies.
+
+Outcomes:
+As a result of this course, students know or be able to do the following:
+1. Understand full-stack development, architecture, backend framework, NoSQL data model, and REST APIs.
+2. Apply backend applications to achieve well-designed full-stack architecture.
+3. Analyze full-stack architecture using process views to demonstrate request and response data flow.
+4. Evaluate full-stack technologies (backend framework, NoSQL database, and REST APIs) for backend applications.
+5. Create a backend application by using full-stack technologies.

@@ -1,0 +1,17 @@
+Course Code: PM413
+Title: PM 413 Project Performance and Quality Assurance *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-413
+Credits: 5
+Prerequisites: PM 406
+
+Description:
+Project Performance and Quality Assurance focuses on providing the learner with tools and techniques to ensure that a project achieves the desired level of quality outcome. Students will learn about quality, who and how it is defined and tools and techniques such as quality plans, control charts, peer review, check lists, and process mapping. The learner will also learn about important concepts like quality control versus quality assurance, the cost of quality, and process improvements. Learners will have an opportunity to practice managing a process improvement project where they define baseline measures and identify key performance indicators and use tools like process mapping to improve an everyday activity.
+
+Outcomes:
+This course will prepare students to:
+Develop communication skills involving speech, written and presentation expertise and demonstrate those skills by conveying concepts, strategies, ideas and opinions.
+Identify needs for corrective action, obtain approvals, perform appropriate actions and evaluate effectiveness.
+Recognize best practices from lessons learned.
+Identify and apply fundamental project management practices.
+Explain the project life cycle and the activities within each phase of the cycle.
+Identify needs for corrective action, obtain approvals, perform appropriate actions and evaluate effectiveness.

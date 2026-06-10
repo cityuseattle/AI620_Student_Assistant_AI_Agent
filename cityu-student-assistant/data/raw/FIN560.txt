@@ -1,0 +1,16 @@
+Course Code: FIN560
+Title: FIN 560 Advances in Blockchain and Distributed Ledgers
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/fin-finance/500/fin-560
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces blockchain technology and distributed ledger systems, emphasizing their transformative potential across industries, particularly finance and banking. Students examine the foundational principles of blockchain, gain practical insights into its real-world applications, and explore why it is a cornerstone of innovation in the digital economy. Designed for professionals seeking to comprehend blockchain's strategic value without requiring deep technical expertise, the course balances foundational knowledge with an exploration of cutting-edge developments. Through analysis of key use cases, challenges, and opportunities, students acquire a practical understanding of how blockchain works, its implications for business strategy, and its role in shaping the future of global commerce.
+
+Outcomes:
+This course will prepare students to:
+1. Describe the fundamental principles of blockchain technology, including its key features, mechanisms, and potential applications across industries.
+2. Apply blockchain concepts to identify and propose solutions for real-world problems, demonstrating their relevance in organizational contexts.
+3. Analyze the impact and challenges of blockchain implementations by examining industry-specific use cases, including technological, operational, and regulatory factors.
+4. Evaluate the effectiveness of blockchain strategies by assessing their alignment with organizational goals, potential outcomes, and scalability in addressing inefficiencies.
+5. Devise innovative blockchain-based strategies that propose actionable implementation plans, integrating technical, operational, and strategic considerations for organizational growth.

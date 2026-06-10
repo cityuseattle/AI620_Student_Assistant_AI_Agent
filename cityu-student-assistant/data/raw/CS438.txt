@@ -1,0 +1,11 @@
+Course Code: CS438
+Title: CS 438 Integrated Communications Networks
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-438
+Credits: 5
+Prerequisites: None
+
+Description:
+This course builds on the material from previous networking and telecommunications courses to examine integrated communications networks. Material includes Voice over IP networking, IPTV and Internet Television, and the Integrated Multimedia System of wireless networks.
+
+Outcomes:
+None

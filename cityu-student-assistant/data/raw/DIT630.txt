@@ -1,0 +1,17 @@
+Course Code: DIT630
+Title: DIT 630
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-630
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This course will focus on the critical elements of data-driven decisions using efficient statistical programming practices. Topics include data manipulation and cleaning, importing and exporting data, managing missing values, and summarizing and visualizing data. This class will show IT leaders how to generate valuable intelligence that is pertinent to business decisions or public policies throughout data-driven initiatives..
+
+Outcomes:
+As a result of this course, students will know or be able to do the following:
+1. Understand fundamental statistical concepts behind data-driven decisions.
+2. Apply data manipulation and cleaning techniques to ensure data quality.
+3. Analyze data to make an evidence-based decision that is statistically sound.
+4. Evaluate the strengths and limitations of different statistical methods to extract valuable intelligence from data.
+5. Evaluate the implication of findings from data analysis pertinent to business decisions or public policies.
+6. Create effective communication by summarizing and visualizing data.

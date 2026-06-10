@@ -1,0 +1,16 @@
+Course Code: DIT605
+Title: DIT 605
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-605
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+In this course, students will examine the role that information technology plays in an organization’s global strategy. Emphasis is placed on the ways that IT can enable an organization to pursue its present and future strategic direction. The role of the IT leader, as a senior member of an organization, is defined as well as the need to build a strong IT team that can provide innovative solutions to complex and global IT challenges.
+
+Outcomes:
+This course will prepare students to:
+1. Apply core management principles and concepts for IT in an organization’s global strategy.
+2. Analyze the impact of globalization and emerging trends in relation to IT.
+3. Evaluate the appropriate IT management framework to achieve the future business strategy.
+4. Evaluate strengths and limitations of current technologies using appropriate frameworks.
+5. Create a roadmap to deliver business value through the strategic use of IT.

@@ -1,0 +1,15 @@
+Course Code: GSCM500
+Title: GSCM 500 Operations Management in Global Supply Chain
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/gscm-global-supply-chain-management/500/gscm-500
+Credits: 3
+Prerequisites: None
+
+Description:
+This class introduces students to the role of operations within the supply chain in both goods-producing and service-providing organizations. This course includes the major areas of supply chain management that cultivate students’ foundation in relevant concepts, including the design of goods and services to support business strategy and the global value chains and processes that create and deliver them to customers. In addition, students will explore the tactical and day-to-day management issues of operating systems and supply chains. The cohesive body of knowledge that students gain in this course enables them to achieve competitive advantage in the growing field of supply chain management.
+
+Outcomes:
+This course will prepare students to:
+1. Apply analytical concepts and frameworks to operations and supply chain management scenarios.
+2. Analyze an organization’s supply chain utilizing the SCOR model and provide a basis for relevant improvements.
+3. Evaluate the integrated processes along the supply chain.
+4. Develop relevant solution(s), recommendation(s), and/or action plan(s) to solve supply chain issues and/or improve processes.

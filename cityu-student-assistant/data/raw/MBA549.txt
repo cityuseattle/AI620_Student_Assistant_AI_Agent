@@ -1,0 +1,16 @@
+Course Code: MBA549
+Title: MBA 549 Ethics and Social Impact
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-549
+Credits: 3
+Prerequisites: None
+
+Description:
+This class equips students with proper knowledge and skills to analyze complex ethical dilemmas and make proper decisions to resolve them. The philosophy behind the design of this course involves identifying impediments to effective ethical decision-making and exploring relevant approaches to eliminate their adverse effects. A careful study and analysis of the barriers to ethical decisions guide the discussions throughout the course in three primary contexts including individual, organizational, and societal. The cornerstone of this class is the Weight-of-Reasons Framework, which incorporates the two best-known ethical frameworks, teleology and deontology, to help students manage dilemmas and solve ethical problems. Emphasis is placed on social impact to shed light upon the value that firms can create by incorporating relevant efforts into organizational DNA and strategies.
+
+Outcomes:
+After completion of this course learners will be able to:
+Identify and explain the options an individual has to challenge unethical behavior.
+Apply the Weight-of-Reasons Framework for Ethical Decision-Making.
+Apply systems thinking to ethical problems to investigate proper solutions.
+Develop and justify ideas for sustainable innovation to support a firm’s social impact strategy.
+Assess the effectiveness of alternative decisions and courses of action for resolving ethical issues using deontology, consequentialism, and virtue ethics.

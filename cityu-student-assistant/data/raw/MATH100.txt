@@ -1,0 +1,14 @@
+Course Code: MATH100
+Title: MATH 100 Number Sense and Computation Skills (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/math-mathematics-_mat_-mth/100/math-100
+Credits: 5
+Prerequisites: None
+
+Description:
+This course introduces number sense and computation skills for applying mathematics to real-world scenarios. Topics include standard notation, basic math operations, rounding and estimating, simplifying expressions, solving equations, mathematical problem solving, exponential notation, and order of operations. This course covers prerequisite knowledge and skills necessary for prealgebra mathematics and prepares students for success in college mathematics.
+
+Outcomes:
+This course will prepare students to:
+Apply basic math operations with whole numbers.
+Apply basic mathematical properties and rules for simplifying expressions and solving equations.
+Perform basic mathematical computations applicable to real-world scenarios.

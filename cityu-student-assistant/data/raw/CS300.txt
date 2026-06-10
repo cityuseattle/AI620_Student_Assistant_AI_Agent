@@ -1,0 +1,11 @@
+Course Code: CS300
+Title: CS 300 Telecommunications
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-300
+Credits: 5
+Prerequisites: None
+
+Description:
+This course examines the infrastructure which enables modern telecommunications systems and how that infrastructure carries voice and data around the globe. The course studies the access, transport, backbone, and switching cores of networks which carry voice and data communications. The course helps the students understand how local voice and data networks are globally interconnected.
+
+Outcomes:
+None

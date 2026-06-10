@@ -1,0 +1,11 @@
+Course Code: IS423
+Title: IS 423 Data Structures and Algorithms *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-423
+Credits: 5
+Prerequisites: IS 375
+
+Description:
+In this course students study data structures and the effects their design, selection and implementation have on the efficiency and effectiveness of programs. Data structures studied include lists, stacks, queues, and trees. Students also study the efficiency of algorithms focusing primarily on searches and sorts. The course uses C++ as its primary language. As a result of this course students will be able to select and implement effective data structures and algorithms in their programs.
+
+Outcomes:
+None

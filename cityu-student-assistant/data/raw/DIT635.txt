@@ -1,0 +1,17 @@
+Course Code: DIT635
+Title: DIT 635
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-635
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This course will focus on the critical elements of data analysis techniques at scale in the context of real-world business domains. For facilitating data manipulation and analysis, students will be introduced to essential programming techniques used in data science. Topics include data structures from a data science perspective, data gathering, data cleaning, data exploration, data analysis, and data visualization techniques. This class will allow IT leaders to apply the concepts and techniques to real-world business cases.
+
+Outcomes:
+This course will prepare students to:
+1. Apply data analysis concepts and techniques on data from a variety of business domains.
+2. Apply data acquisition techniques according to the features of data sources and applications.
+3. Analyze the steps involved in the data analytics process.
+4. Evaluate the best practices of data reduction and data cleaning based on the requirement of applications and data semantics.
+5. Evaluate effectiveness of interfaces for a variety of tasks and a variety of purposes and users.
+6. Create an effective approach to visualization on a set of data used for a particular purpose.

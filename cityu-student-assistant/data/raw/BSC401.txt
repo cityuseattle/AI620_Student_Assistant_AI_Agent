@@ -1,0 +1,11 @@
+Course Code: BSC401
+Title: BSC 401 Interpretation of Financial Statements
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bsc-business-competency/400/bsc-401
+Credits: 5
+Prerequisites: None
+
+Description:
+Interpretation of Financial Statements focuses on the analysis of publicly issued financial statements for decision making, and is taught from a user perspective. Students will learn to read, understand, and analyze a set of financial statements in a broad, decision-making context. Emphasis is placed on the consequences of recording accounting transactions on financial statements and the application of Generally Accepted Accounting Principles (GAAP). A basic knowledge of math, algebra, and general business principles is needed to succeed in this class.
+
+Outcomes:
+None

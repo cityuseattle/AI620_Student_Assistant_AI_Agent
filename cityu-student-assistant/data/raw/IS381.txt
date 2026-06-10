@@ -1,0 +1,11 @@
+Course Code: IS381
+Title: IS 381 C# for Programmers *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-381
+Credits: 5
+Prerequisites: IS 365 or equivalent
+
+Description:
+This course provides a rapid introduction to the C# programming language for students who have taken a previous programming course. The course introduces the .NET framework and basic C# programming. Students then use C# to create object-oriented and event-driven applications.
+
+Outcomes:
+None

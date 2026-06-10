@@ -1,0 +1,11 @@
+Course Code: CS555
+Title: CS 555 C++ for Programmers *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-555
+Credits: 3
+Prerequisites: Proficiency in at least one high-order programming language.
+
+Description:
+This course provides a comprehensive overview of the C++ programming language for programmers who are new to C++ and object-oriented programming. The course builds on existing programming skills and prepares students to participate in development activities and courses which use C++ as their programming language.
+
+Outcomes:
+None

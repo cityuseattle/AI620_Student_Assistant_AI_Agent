@@ -1,0 +1,16 @@
+Course Code: IS312
+Title: IS 312 Web Design and Programming *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-312
+Credits: 5
+Prerequisites: For students to succeed in this course, IS 201 is a required pre-requisite.
+
+Description:
+This course introduces students to the strategic importance of web design and teaches students how to apply standards, design principles and web development tools to create effective business-driven websites. The following standards are covered: Hypertext Markup Language (HTML), Cascading Style Sheet (CSS), JavaScript (JS), and TypeScript (TS). The course emphasizes a business-driven design, build, and test cycle, and introduces students to the fusion of multiple data sources into a website.
+
+Outcomes:
+This course will prepare students to:
+1. Understand HTML, CSS, JavaScript, and TypeScript.
+2. Apply HTML, CSS, JavaScript, and TypeScript to web applications.
+3. Analyze TypeScript for web applications.
+4. Evaluate TypeScript technologies for web applications.
+5. Create a web application by using TypeScript.

@@ -1,0 +1,11 @@
+Course Code: CS436
+Title: CS 436 Network Applications Layer *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-436
+Credits: 5
+Prerequisites: CS 332
+
+Description:
+This course examines the applications layer of data networks. Topics include protocols and applications such as SMTP, HTTP, RPC, Active Directory, Exchange, and NFS. The course looks at how the lower level network layers examined in previous courses support distributed applications and computing as well as other communications needs.
+
+Outcomes:
+None

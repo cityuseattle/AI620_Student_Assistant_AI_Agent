@@ -1,0 +1,17 @@
+Course Code: DS524
+Title: DS 524 Data Management and Governance
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/500/ds-524
+Credits: 3
+Prerequisites: None
+
+Description:
+Data governance is primarily concerned with the definition of organizational structures, data owners, policies, rules, processes, business terms, and metrics for the end-to-end lifecycle of data (collection, storage, use, protection, archiving, and deletion). Data management is the technical implementation of data governance, which includes processes from the creation of master data thru to its disposal. Covered are the following topics: tools and techniques for efficient data modeling, collection, organization, retrieval, and management; how to extract information from data to make data meaningful to the organization; how to develop, deploy, manage and integrate data and information systems to support the organization; safety and security issues associated with data and information; tools and techniques for producing useful knowledge from information.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the challenges brought by heterogeneous data sources.
+2. Apply tools and techniques for data governance according to the property of data and the user requirement.
+3. Analyze policies and processes to ensure the privacy and security of data.
+4. Analyze the best practices of data governance and management strategies addressing people, processes, and tools.
+5. Evaluate the approaches for ongoing improvement of data quality.
+6. Create a comprehensive data management and governance plan for an organization.

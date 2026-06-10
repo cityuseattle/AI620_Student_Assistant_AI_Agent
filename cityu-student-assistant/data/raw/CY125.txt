@@ -1,0 +1,11 @@
+Course Code: CY125
+Title: CY 125 Cybersecurity I *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/100/cy-125
+Credits: 10
+Prerequisites: CY 120 is a pre-requisite for this course.
+
+Description:
+This course consists of five modules. Students will gain the fundamental networking skills required to be cybersecurity professionals including the basics of the Python programming language. Drawing on the skills gained in the foundations class, students will learn to identify, defend, and respond to threats.
+
+Outcomes:
+None

@@ -1,0 +1,11 @@
+Course Code: IS201
+Title: IS 201 Fundamentals of Computing
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/200/is-201
+Credits: 5
+Prerequisites: None
+
+Description:
+This course is designed to provide an overview of the fundamentals of computing. Emphasis is placed on the primary areas of computing: environment, programming, development, data structure, and application.  Students will develop their understanding of basic computing concepts and delve into programming skills through the practical use of current techniques and tools for building software applications.
+
+Outcomes:
+None

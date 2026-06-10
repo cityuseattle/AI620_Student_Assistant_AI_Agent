@@ -1,0 +1,17 @@
+Course Code: CS242
+Title: CS 242 Full Stack Web Development - TypeScript/JavaScript
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/200/cs-242
+Credits: 5
+Prerequisites: None
+
+Description:
+The course is currently under development.
+
+Outcomes:
+General Education Courses
+Transfer Credit Toward Advanced Standing
+Financial Policies and Financial Assistance
+Academic Policies
+Degree Requirements
+Commencement Exercises
+Program Information

@@ -1,0 +1,17 @@
+Course Code: CY628
+Title: CY 628 Cloud Security Integration
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/600/cy-628
+Credits: 3
+Prerequisites: None
+
+Description:
+This course provides a management level perspective on managing a security cloud environment. A knowledge base of cloud environments is assumed. Students integrate their technical skills and foundation in cloud architecture with design components used to secure and manage data, applications, and legal compliance issues. Students demonstrate proficiency in the management of a secure cloud operational environment.
+
+Outcomes:
+This course will prepare students to:
+1. Apply integrated component security in cloud service models.
+2. Assess cloud security solutions and their effectiveness.
+3. Examine third party and Cloud Vendor risk in the cloud.
+4. Analyze Data Security classifications, components, and policies in cloud systems.
+5. Evaluate the intersection of legal, compliance, and management issues related to cloud security.
+6. Design an integrated cloud security assessment report.

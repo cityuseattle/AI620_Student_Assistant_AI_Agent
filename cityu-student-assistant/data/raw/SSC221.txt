@@ -1,0 +1,11 @@
+Course Code: SSC221
+Title: SSC 221 Principles of Macroeconomics (SS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ssc-social-science/200/ssc-221
+Credits: 5
+Prerequisites: None
+
+Description:
+This course is an introduction of macroeconomic theory with real world applications. Topics include: Inflation, unemployment, poverty, deficits, taxes, interest rates, gross domestic product, recession, and international trade. This course will help you apply the skills and tools learned from theory to current world events.
+
+Outcomes:
+None

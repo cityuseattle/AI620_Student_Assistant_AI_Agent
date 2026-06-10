@@ -1,0 +1,17 @@
+Course Code: BUS495
+Title: BUS 495 Strategic Management *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-495
+Credits: 5
+Prerequisites: Course Entry Requirements: BUS 310, BUS 315, BUS 317, BUS 320, BUS 330, BUS 420, BUS 424, BUS 426, BUS 430, BUS 300, BUS 304
+
+Description:
+In this class students will be introduced to the key concepts, tools, and principles of strategy formulation, implementation, and evaluation. This course is designed in a unique manner to enhance students’ strategic thinking and decision making skills through the integration of synergistic theories and concepts from functional courses including Business Dynamics, Artificial Intelligence, Business Analytics, Financial Accounting, Finance, Business Communications, Technology and Operations Management, Economic Analysis, Marketing, and Organizational Systems and Complexity. Upon completion of this course, students will possess proper knowledge and skills that play a key role in developing effective strategic plans by answering the following questions: (1) Where are we now? (2) Where do we want to go? (3) How are we going to get there?
+
+Outcomes:
+This course will prepare students to:
+1. Identify and discuss key internal and external forces that must be examined in formulating strategies.
+2. Apply Porter’s Five Forces Model in formulating strategies.
+3. Diagram and explain the SWOT Matrix.
+4. Diagram and explain the Strategic Position and Action Evaluation (SPACE) Matrix.
+5. Diagram and explain the Quantitative Strategic Planning (QSPM) Matrix.
+6. Evaluate alternative strategies to select a strategy for execution.

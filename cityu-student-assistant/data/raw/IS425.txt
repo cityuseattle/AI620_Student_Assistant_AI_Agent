@@ -1,0 +1,11 @@
+Course Code: IS425
+Title: IS 425 C# Advanced *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-425
+Credits: 5
+Prerequisites: IS 381 or IS 382
+
+Description:
+This course focuses on the advanced concepts of C# programming such as .NET assemblies, reflection and attributes, processes, appdomains, contexts, and CLR hosts. Students will learn to build multithreaded applications and applications that deal with data using ADO.NET. They learn about .NET remoting and object serialization and deserialization. Students also get introduced to building graphical applications using GDI+.
+
+Outcomes:
+None

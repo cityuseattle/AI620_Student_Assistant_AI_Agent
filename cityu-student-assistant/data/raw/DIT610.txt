@@ -1,0 +1,16 @@
+Course Code: DIT610
+Title: DIT 610
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-610
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+In alignment with the strategic direction of an organization, students will address the need to establish an appropriate list of policies and procedures to guide the governance of information technology (IT) materials and their usage. Students will learn how to set appropriate governing policies to ensure the ethical use of IT tools. They will also establish and enforce service level agreements that support the needs of the organization. Legal issues related to IT policies and governance will also be examined.
+
+Outcomes:
+This course will prepare students to:
+1. Apply best practices and improve each core IT process.
+2. Analyze an organization’s policies governing the ethical use of IT tools.
+3. Evaluate legal issues related to IT policies and governance of global and US organizations.
+4. Create IT processes and build an improvement roadmap.
+5. Create a management and governance framework.

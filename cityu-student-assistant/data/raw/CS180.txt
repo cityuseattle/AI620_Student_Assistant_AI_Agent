@@ -1,0 +1,11 @@
+Course Code: CS180
+Title: CS 180 Fundamentals of Networking
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/100/cs-180
+Credits: 5
+Prerequisites: None
+
+Description:
+This course introduces students to foundational networking concepts. It guides students to put these concepts in practice by mastering skills through a mix of lectures, knowledge checks, reflective exercises, virtual labs, hands-on practices, and projects. This course addresses a basic knowledge of digital communications and networking. We emphasize the OSI and Internet models and understanding networking protocols. The course examines network protocols, including packet analysis. The student is introduced to tools and techniques for analyzing networks.
+
+Outcomes:
+None

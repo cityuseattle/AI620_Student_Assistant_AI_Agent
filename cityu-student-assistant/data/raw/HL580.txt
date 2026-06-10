@@ -1,0 +1,17 @@
+Course Code: HL580
+Title: HL 580 Quality Assessment and Improvement in Healthcare
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/hl-healthcare/500/hl-580
+Credits: 3
+Prerequisites: None
+
+Description:
+Students are introduced to the basis of healthcare quality by learning key terminology and concepts, including defining quality care; measuring quality in terms of the structure-process-outcomes model; distinguishing between clinical and customer service quality; identifying techniques to avoid adverse clinical events; and exploring customer service quality in terms of defining, measuring, and improving patient satisfaction. Students also explore and discuss the roles of governmental agencies in promoting and reporting quality information regarding hospitals and other health organizations, accrediting bodies, and recent performance initiatives of government and private payers.
+
+Outcomes:
+This course will prepare students to:
+Analyze performance initiatives relating to government and private payers.
+Analyze healthcare quality from the viewpoint of all stakeholders.
+Critique the role of accrediting bodies on healthcare quality.
+Distinguish clinical and customer service quality.
+Examine the roles of governmental agencies and reporting of quality information.
+Explore methods for defining, measuring, and improving patient satisfaction.

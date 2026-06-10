@@ -1,0 +1,11 @@
+Course Code: CS493
+Title: CS 493 Technology and Computing Internship *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-493
+Credits: 5
+Prerequisites: A student must have completed a minimum of 30 core requirement undergraduate quarter credit hours at City University of Seattle and be currently enrolled in an undergraduate program at City University of Seattle with a cumulative GPA of 3.25 or higher. This course is repeatable for credit.
+
+Description:
+As part of the City University of Seattle program, there is the option of using a professional internship to enhance the undergraduate school experience. Within this option, activities include designing, participating in, and reflecting upon the internship experience. Students can repeat their internship for the second quarter in sequence.
+
+Outcomes:
+None

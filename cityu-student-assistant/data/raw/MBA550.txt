@@ -1,0 +1,17 @@
+Course Code: MBA550
+Title: MBA 550 Business Operations *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-550
+Credits: 3
+Prerequisites: MBA 500, MBA 520, MBA 535
+
+Description:
+In this course, you will learn about the design, analysis, planning, and control of business processes to achieve desired performance objectives. Topics include: the relationship between operations strategy and process structure; the impact of process structure on process performance; process performance measures and their relationships; process performance evaluation; managerial levers for improving and controlling process performance and systems; and managerial issues in planning and designing quality assurance systems.
+
+Outcomes:
+This course will prepare students to:
+Analyze an organization’s operational strategy.
+Prepare an operations plan.
+Demonstrate how process and value chains support creation of goods and services.
+Apply the principles of quality control.
+Compute solutions of quantitative problems that improve operations.
+Solve operations problems using standard methods.

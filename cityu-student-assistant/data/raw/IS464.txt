@@ -1,0 +1,17 @@
+Course Code: IS464
+Title: IS 464 Policy and Audits
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-464
+Credits: 5
+Prerequisites: None
+
+Description:
+This course investigates the policies that govern information security, and how systems can be audited to ensure compliance with those policies. Policies are the process in which technical controls are codified into standards and practices that a company or a governmental organization will use to define controls, and assess compliance of those controls in the working environment. Auditing is the process in which electronic systems are reviewed for compliance with the policies promulgated by senior management. This course focuses on key aspects of information management policies and auditing to ensure compliance with standards based policies and practices. Students will immediately be able to use the information gained in this course to write policies and audit for information systems compliance.
+
+Outcomes:
+This course will prepare students to:
+Understand basic end-to-end communications with security protocols in a hybrid/cloud environment.
+Analyze secure communication protocols.
+Evaluate information storage security protocols.
+Understand basic cryptography, digital forensic concepts, and practices.
+Apply data integrity, authentication, and access control protocols.
+Create an end-to-end plan demonstrating secure data practices.

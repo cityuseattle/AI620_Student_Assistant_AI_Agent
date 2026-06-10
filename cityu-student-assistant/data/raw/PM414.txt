@@ -1,0 +1,11 @@
+Course Code: PM414
+Title: PM 414 Project Resource and Procurement Management *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-414
+Credits: 5
+Prerequisites: PM 406
+
+Description:
+This course will focus on using a simulated project to teach students how to assess and proactively manage project resources and demonstrate project procurement practices. Project procurement addresses acquisition of resources which may include people, services, equipment, facilities, or funding. Students will explore obtaining goods and services from outside companies by understanding the procurement process, creating procurement documentation, and contract management. Strong emphasis is placed on effectively planning, scheduling, monitoring, and controlling project resources through the creation of a resource management plan.
+
+Outcomes:
+None

@@ -1,0 +1,11 @@
+Course Code: PM408
+Title: PM 408 People and Communication in Projects *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-408
+Credits: 5
+Prerequisites: PM 401, PM 409
+
+Description:
+This course provides an overview of people and communication factors in managing projects. Topics include human resource planning; how teams work; managing conflict; social and relationship capital in the context of projects; managing behaviors; diversity; leadership pitfalls; and communication factors within a project environment.
+
+Outcomes:
+None

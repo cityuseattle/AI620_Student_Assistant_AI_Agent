@@ -1,0 +1,14 @@
+Course Code: PM508
+Title: PM 508 Managing Risks: Project and Business
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/500/pm-508
+Credits: 3
+Prerequisites: None
+
+Description:
+This course explores the principles and practices of risk management in project and business contexts. Students learn to identify and assess risk, develop and implement risk management plans, and monitor and control risk throughout the project or business life cycle. A range of risk management techniques, including qualitative and quantitative risk analysis, risk mitigation strategies, and risk response planning, are covered. In addition, students learn about risk communication and reporting, stakeholder engagement, and contingency planning. Through case studies, simulations, and real-world examples, students develop practical skills and knowledge that can be applied to various project and business contexts.
+
+Outcomes:
+This course will prepare students to:
+1. Evaluate identified risks in a project.
+2. Analyze appropriate risk response strategies and mitigation techniques in traditional, agile, and adaptive environments/projects.
+3. Develop a risk management plan.

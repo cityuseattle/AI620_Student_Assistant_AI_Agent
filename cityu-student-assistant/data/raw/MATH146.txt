@@ -1,0 +1,16 @@
+Course Code: MATH146
+Title: MATH 146 Foundational Statistics (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/math-mathematics-_mat_-mth/100/math-146
+Credits: 5
+Prerequisites: None
+
+Description:
+This course introduces students to the study of basic probability, descriptive and inferential statistics, and decision-making. Through various learning activities, students will explore concepts such as measures of central tendency and dispersion, correlation, regression, discrete and continuous probability distributions, and hypothesis testing. Upon completion of this course, students should be able to describe important characteristics of a set of data and draw inferences about a population from sample data.
+
+Outcomes:
+This course will prepare students to:
+Calculate and interpret measures of central tendency and measure of dispersion.
+Present interpretation of data and summarize statistical findings.
+Evaluate statistical data.
+Use Regression Analysis to test correlation of data.
+Test hypothesis using appropriate statistical test.

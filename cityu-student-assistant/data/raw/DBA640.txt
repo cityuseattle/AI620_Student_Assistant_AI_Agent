@@ -1,0 +1,14 @@
+Course Code: DBA640
+Title: DBA 640 Quantitative Research for Business Administration
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dba-doctor-business-administration/600/dba-640
+Credits: 3
+Prerequisites: None
+
+Description:
+This course covers quantitative methodology and design.  Equal emphasis will be placed on the fundamental elements of: (1) quantitative design including variable identification, research question and hypothesis creation; and (2) quantitative data collection and analysis including sampling methods, data collection instruments, and an introduction to statistical tests.
+
+Outcomes:
+As a result of this course, students will know or be able to do the following:
+1. Explain the fundamental elements of quantitative methodology and design.
+2. Critically evaluate the purpose, design, data analysis methods, and findings of quantitative studies in published articles.
+3. Develop a quantitative research proposal.

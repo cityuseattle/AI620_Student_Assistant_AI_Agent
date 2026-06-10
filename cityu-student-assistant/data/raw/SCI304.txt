@@ -1,0 +1,14 @@
+Course Code: SCI304
+Title: SCI 304 Meteorology (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/sci-science/300/sci-304
+Credits: 5
+Prerequisites: None
+
+Description:
+This course explores the scientific field of meteorology through the study of the Earth’s atmosphere, with emphasis on weather observations and forecasting. Topics investigated in this course include physical processes involved in weather, such as highs, lows, fronts, clouds, storms, jet streams, and air pollution. In addition, the course examines how weather can have extreme economic, political, and social effects. With knowledge of these phenomena, students will better understand how weather and climate can influence their professional and personal lives.
+
+Outcomes:
+This course will prepare students to:
+Illustrate how climate and weather impact local and global societies and economies.
+Describe the relationship between meteorology, climate, and weather.
+Explain how the study of meteorology can influence human behavior and impact climate change and sustainability of life on earth.

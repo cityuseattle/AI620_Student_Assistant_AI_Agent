@@ -1,0 +1,16 @@
+Course Code: DIT615
+Title: DIT 615
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-615
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This course examines management fundamentals of information technology (IT) projects. Emphasis is placed on applying management tools and techniques to plan IT projects, enlist the support of key stakeholders, and ensure project stay within budget, timing, and deliverables. Students will advance their understanding in knowledge management and requirements management by applying best practices within IT projects.
+
+Outcomes:
+As a result of this course, students will know or be able to do the following:
+1. Apply broadly used project management tools and techniques.
+2. Analyze factors that are critical to the successful implementation of the project.
+3. Evaluate frameworks of the latest development in IT project management in the context of business strategy.
+4. Evaluate related issues facing an IT project and develop a project plan using an appropriate framework.
+5. Create an effective IT project plan using the best practices and current technology tools.

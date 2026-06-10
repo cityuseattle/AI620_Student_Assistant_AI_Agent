@@ -1,0 +1,11 @@
+Course Code: ISEC616
+Title: ISEC 616 Breaking and Securing Applications II *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/isec-information-security/600/isec-616
+Credits: 3
+Prerequisites: ISEC 614
+
+Description:
+This course continues the study into concepts and techniques for breaking and securing application programs. Students practice applying more advanced tools for static and dynamic code analysis and learn to apply advanced techniques for developing more secure code. Students will continue to reverse engineer malware and examine how it is constructed.
+
+Outcomes:
+None

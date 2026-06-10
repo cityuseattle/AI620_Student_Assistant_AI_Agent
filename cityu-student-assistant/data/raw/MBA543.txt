@@ -1,0 +1,17 @@
+Course Code: MBA543
+Title: MBA 543 Data-Driven Decision Making
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-543
+Credits: 3
+Prerequisites: None
+
+Description:
+In this course, students are introduced to data analytics and artificial intelligence (AI) in making effective business decisions efficiently. Key topics include data analysis technologies for business decision making, leveraging principles and techniques of statistical inference and artificial intelligence for business problem solving, and building a foundation of data-driven regression and time series analytics. Students will learn why data is important and how it has evolved, how to outperform competition using AI-assisted data-driven insights and decisions, and ways to leverage data with AI applications to gain deeper business insights.
+
+Outcomes:
+This course will prepare students to:
+1. Analyze the principles of business analytics, data science, and artificial intelligence to apply them in solving complex business problems.
+2. Develop statistical reasoning and decision-making skills for data-driven analysis.
+3. Apply analytical models to solve business problems and achieve goals.
+4. Analyze data to draw actionable conclusions and business insights.
+5. Present data clearly and compellingly using GenAI applications.
+6. Evaluate the effectiveness of AI tools compared to manual data analysis and visualization methods.

@@ -1,0 +1,17 @@
+Course Code: EDU329
+Title: EDU 329 Science, Technology, Engineering and Math
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/edu-education/300/edu-329
+Credits: 4
+Prerequisites: None
+
+Description:
+This course guides candidates to implement student-centered approaches to STEM instruction. Candidates learn to integrate STEM with other content areas to increase relevance and accessibility to students. Social justice is a focus in both the selection of anchoring phenomena to guide instruction and the use of equitable classroom practices. Candidates will reflect upon their past experiences with STEM and their current experiences in the course in order to identify benefits and challenges of STEM instruction to PK-12 students.
+
+Outcomes:
+This course will prepare students to:
+1. Identify and describe the three dimensions of the Next Generation Science Standards.
+2. Apply understanding of the NGSS by designing multi-dimensional learning opportunities and assessment.
+3. Describe and integrate student-centered techniques into instruction.
+4. Facilitate productive and equitable student discourse.
+5. Facilitate students’ awareness of social justice connections in STEM instruction.
+6. Reflect upon their own strengths and growth areas in STEM instruction.

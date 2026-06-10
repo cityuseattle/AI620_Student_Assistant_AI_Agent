@@ -1,0 +1,11 @@
+Course Code: CS430
+Title: CS 430 Health Information Systems *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-430
+Credits: 5
+Prerequisites: CS 310
+
+Description:
+This course introduces the student to the health care informatics. The purpose of the course is to give students a foundational understanding of the information systems used to support healthcare delivery and the technology employed to facilitate it. The course covers hardware, software, clinical decision support systems, modern communication mechanisms, clinical physician order entry (CPOE) and future technologies. The course also familiarizes the student with medical terminology and the health information nomenclature. At the end of the course the student will be able to identify the key elements of a modern healthcare information system.
+
+Outcomes:
+None

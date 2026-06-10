@@ -1,0 +1,11 @@
+Course Code: CS622
+Title: CS 622 Discrete Math and Algorithms for Computing
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-622
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces a comprehensive study of discrete mathematics, data structures, and algorithms. Students study how algorithm design, selection, and implementation have on the efficiency and effectiveness of programs.  Students learn the efficiency of algorithms focusing primarily on searches and sorts. Students study data structures such as lists, stacks, queues, and trees. Students also study the mathematical bases of the data structures and algorithms. As a result of this course, students will be able to select and implement effective data structures and algorithms in their programs. .
+
+Outcomes:
+None

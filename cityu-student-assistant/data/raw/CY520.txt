@@ -1,0 +1,16 @@
+Course Code: CY520
+Title: CY 520 Ethical, Legal, and Societal Security
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/500/cy-520
+Credits: 3
+Prerequisites: None
+
+Description:
+This course focuses on aspects of cybersecurity that broadly affect society as a whole for better or for worse. Cybercrime, law, ethics, policy, privacy, and their relation to each other are the key concepts of this knowledge area. The threat of cybercrime across global society is incredibly severe and growing. Laws, ethics, and policies are vital to the security of corporate and government secrets and assets, as well as to the protection of individual privacy and identity. Topics include cybercrime, cyber law, cyber ethics, cyber policy, and privacy.
+
+Outcomes:
+This course will prepare students to:
+1. Understand confidentiality, availability, and integrity as the lens to legal, ethical, and policy issues.
+2. Apply national and international laws and standards to policy and privacy protocols.
+3. Analyze responses to cybercrime from legal and ethical perspectives.
+4. Evaluate the impact of cybercrime on governments, organizations, and global economy and society.
+5. Create an organization privacy plan.

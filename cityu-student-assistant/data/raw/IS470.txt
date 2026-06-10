@@ -1,0 +1,15 @@
+Course Code: IS470
+Title: IS 470 IT Service Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-470
+Credits: 5
+Prerequisites: None
+
+Description:
+This course focuses on Information Technology Service Management (ITSM) best practices as defined by Information Technology Infrastructure Library (ITIL), Capability Maturity Model Integration (CMMI), Six Sigma, and Total Quality Management (TQM).  Emphasis is placed on ITSM drivers of processes and strategies to create a viable IT organization. Students will learn the foundation, values, policies, procedures, and operations of ITSM. Several exercises and hands-on activities will focus on service support and service delivery.
+
+Outcomes:
+Analyze and evaluate expectation levels of a service between customer and client.
+Assess the value of different integrated service approaches in ITSM.
+Deduce business needs and opportunities for process improvement.
+Evaluate IT processes and their importance to ITSM efficiency and effectiveness.
+Collaborate, evaluate, and plan projects on a team.

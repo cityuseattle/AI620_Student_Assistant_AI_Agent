@@ -1,0 +1,16 @@
+Course Code: BUS455
+Title: BUS 455 Marketing Analytics
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-455
+Credits: 5
+Prerequisites: None
+
+Description:
+This course explores the foundational aspects of marketing analytics, including optimization strategies, decision-making techniques, and customer lifetime analysis. Students interpret campaign performance as they examine the tactical tools and action steps for gathering marketing insights from quantitative data. Learners develop the in-demand skills to make intelligent marketing recommendations and business decisions by analyzing currently-relevant channels for optimizing marketing efforts, including social media, search, display, video, and mobile marketing. In addition, this course provides the analytical techniques to explore customer targeting, incremental consent, and the ethical implications of data collection. Emphasis is placed on increasing the results of marketing campaigns by learning to calculate and measure return on investment (ROI), which culminates in a real-world strategic marketing optimization project that can be added to a portfolio.
+
+Outcomes:
+This course will prepare students to:
+1. Explore relevant channels that are utilized to gather consumer data, make campaign decisions, and optimize efforts.
+2. Calculate and measure marketing return on investment (ROI) while identifying the various optimization strategies.
+3. Conduct a customer behavioral analysis comparing user interactions.
+4. Examine the critical nature of ethics in marketing analytics by exploring customer data and consent.
+5. Develop a strategic digital marketing plan using real-world data and decision-making that focuses on improving campaign results while increasing return on investment.

@@ -1,0 +1,16 @@
+Course Code: DA550
+Title: DA 550 Analytic Problem Definition
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/da-data-analytics/500/da-550
+Credits: 3
+Prerequisites: None
+
+Description:
+This course focuses on framing and defining the analytics problem or challenge. Students will clearly define the scope, resources, and stakeholders of the analytics problem. They will also learn how to identify research questions, analytics hypotheses and potential sources of data. At the end of this course, students will have a full understanding of the steps that must be successfully completed for any analytics problem prior to gathering data.
+
+Outcomes:
+This course will prepare students to:
+1. Reframe a business problem statement as an analytics problem.
+2. Determine stakeholders and evaluate a business problem.
+3. Evaluate whether a problem is amenable to a business solution.
+4. Influence stakeholder agreement and formulate key metrics of success.
+5. Iteratively improve a problem statement and delineate constraints.

@@ -1,0 +1,17 @@
+Course Code: CY545
+Title: CY 545 Data Privacy and Security
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/500/cy-545
+Credits: 3
+Prerequisites: None
+
+Description:
+Technology professionals consider data privacy and security issues throughout the data life cycle process which includes when to acquire, process and produce data. This course covers how domestic and international privacy rights impact a company’s responsibilities for all phases of data management and how to share and protect sensitive information. Upon completing this course students engage with advanced concepts, strategies, and ethical considerations related to safeguarding data at rest, during processing, and in transit.
+
+Outcomes:
+This course will prepare students to:
+1. Apply security assessment protocols to data acquisition, processing, and production.
+2. Apply advanced cryptography, digital forensics and incident response concepts, end-to-end communications in a cloud/hybrid environment.
+3. Utilize the Risk Management Framework to assess data security and privacy implementation.
+4. Analyze authentication and data integrity using information storage security protocols in a cloud environment.
+5. Evaluate data privacy in the context of national and international standards and regulations.
+6. Create a strategic end-to-end information storage security plan in a cloud environment.

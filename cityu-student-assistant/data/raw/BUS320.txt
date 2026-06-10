@@ -1,0 +1,16 @@
+Course Code: BUS320
+Title: BUS 320 Technology and Operations Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/300/bus-320
+Credits: 5
+Prerequisites: None
+
+Description:
+“Efficiency is doing things right; effectiveness is doing the right things.” ~ Peter Drucker “The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.” ~ Bill Gates How can companies in a variety of industries from manufacturing to services implement their strategic plans successfully and transform this exemplary execution into a competitive advantage? How do firms such as Amazon make decisions under uncertainty related to cost, time, and quality to create customer value and compete? Concepts, tools, and techniques in “Technology and Operations Management” are the central themes in responses to the above questions. Technology and Operations Management is focused on transforming inputs (e.g., materials, equipment, technology, and human resources) into outputs (e.g., goods, services, decisions and information) in an efficient and effective manner. Accordingly, this course is designed to help students gain an in-depth understanding of the key decision points, systems and processes, tools, and methods that facilitate the above transformation. Primary topics include developing operations strategy, manufacturing and service flows, supply chain processes, and technology management. The cohesive body of knowledge that is presented in this class constructs the foundation that students need for the effective planning, organizing, and controlling of the many value-creating activities of the firm (i.e., operations management). Furthermore, the materials covered within the Technology component provide an introduction to emerging technologies and relevant methods, such as Big Data Analytics, Artificial Intelligence, and the Internet of Things, which enable firms to analyze and improve their processes and to pinpoint problems or opportunities to create value.
+
+Outcomes:
+This course will prepare students to:
+1. Explain the trade-offs in operations strategies of cost, quality, and customer service.
+2. Assess alignment between operations strategies and the firm’s overall strategic plan.
+3. Explain how companies create operations strategies for competitive advantage.
+4. Discuss primary types of operations strategy decisions related to product design, process design, production control systems, facility location, facility layout, purchasing, logistics, quality, inventory, and customer service.
+5. Explain and evaluate integrating processes along the supply chain.

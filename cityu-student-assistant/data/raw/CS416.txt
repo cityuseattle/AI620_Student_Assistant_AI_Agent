@@ -1,0 +1,11 @@
+Course Code: CS416
+Title: CS 416 Database Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-416
+Credits: 5
+Prerequisites: None
+
+Description:
+This course covers the design, deployment and management of databases. Topics include database normalization and denormalization, indexing, cooked and raw partitioning, distributed data access, ODBC, and basic SQL. In addition the course looks at how database administrators grant and manage privileges, control access to data elements, and ensure data integrity.
+
+Outcomes:
+None

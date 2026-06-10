@@ -1,0 +1,17 @@
+Course Code: CS440
+Title: CS 440 Software Quality Assurance *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-440
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 132, IS 350, and IS 360 are required pre-requisites.
+
+Description:
+This course covers software testing throughout the development lifecycle. Topics include requirements definition, software design, best practices in coding, code reviews, source code control, software configuration management, testing, release management, and product integration. Students will learn how to practice different methods of current testing standards, demonstrate various components of usability testing, and express different ways to execute and evaluate an acceptance test.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the fundamental component of the secure software life cycle, software testing, software quality, and software assurance.
+2. Utilize software test optimization, automation, and risk-based testing techniques.
+3. Analyze the ISO 9000 standards.
+4. Compare software quality assurance plans and processes.
+5. Criticize alternative standards, models and techniques designed to achieve quality assurance.
+6. Simulate a secure software testing project including software testing quality, lifecycle phases, and a test plan.

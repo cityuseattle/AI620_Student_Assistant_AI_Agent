@@ -1,0 +1,16 @@
+Course Code: DIT600
+Title: DIT 600
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-600
+Credits: 0
+Prerequisites: None
+
+Description:
+In this course, students will become familiar with the CityU Doctor of Information Technology (DIT) program, online success tips, and academic writing resources. Tutorials and short quizzes or exercises in scholastic honesty, writing conventions, and APA citations will help prepare students for doctoral-level work.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the DIT program, industry codes of ethics, and industry standards.
+2. Apply the fundamentals of the DIT program to the individual degree plan.
+3. Analyze doctoral dissertation and publication standards.
+4. Evaluate fundamental technologies for course work and research.
+5. Create a doctoral degree plan.

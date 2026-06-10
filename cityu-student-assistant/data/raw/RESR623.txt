@@ -1,0 +1,14 @@
+Course Code: RESR623
+Title: RESR 623 Research Design *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/resr-research/600/resr-623
+Credits: 3
+Prerequisites: RESR 619, RESR 621
+
+Description:
+In this course students will apply quantitative, qualitative, and mixed mode methodologies to research design. Emphasis will be placed on collecting, analyzing, interpreting, and reporting data in research studies. Upon completion of this course, students will be able to outline the requirements for a research study and write a methods section of an article, dissertation, or grant proposal.
+
+Outcomes:
+This course will prepare students to:
+Analyze multiple research design methods.
+Construct a research design plan.
+Evaluate research design plans for a given research situation.

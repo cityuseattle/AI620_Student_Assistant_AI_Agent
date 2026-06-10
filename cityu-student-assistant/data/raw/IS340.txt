@@ -1,0 +1,11 @@
+Course Code: IS340
+Title: IS 340 Operating Systems
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-340
+Credits: 5
+Prerequisites: None
+
+Description:
+An operating system defines an abstraction of hardware and manages resource sharing among computer users. The topics in this area explain the basic knowledge of operating systems in the sense of interfacing an operating system to networks, teaching the difference between the kernel and user modes, and developing key approaches to operating system design and implementation.
+
+Outcomes:
+None

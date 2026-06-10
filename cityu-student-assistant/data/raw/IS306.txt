@@ -1,0 +1,11 @@
+Course Code: IS306
+Title: IS 306 Data Management Communications and Networking
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-306
+Credits: 5
+Prerequisites: None
+
+Description:
+This course develops student understanding of a model of Information Systems composed of data acquisition, data transport, data manipulation, data storage and data display. The use of data to develop business intelligence, competitive advantage, and support business operations through lean supply chains, delivery, and oversight has become an increasingly critical component in business success. Students will learn how modern computer systems work with data across multiple systems to deliver relevant time critical information to managers and workers. Students will gain an insight into networked communications in support of business operations. This course prepares the student for working with data in a modern highly connected organization anywhere in the world.
+
+Outcomes:
+None

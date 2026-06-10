@@ -1,0 +1,11 @@
+Course Code: CS306
+Title: CS 306 Information Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-306
+Credits: 5
+Prerequisites: None
+
+Description:
+This course develops an understanding of the concepts underlying Information Management . A broad list of topics related to information management are introduced including data acquisition, data transport, data manipulation, data storage, data quality, metadata, data modeling, databases, database management systems, and data communications. Modern businesses rely on sharing and storage of high quality business data to support strategic business objectives. Such systems must be carefully designed to satisfy user and business needs while being robust enough to handle unplanned changes and disturbances. Ultimately, these systems must be flexible enough to accommodate increased complexity as the amount of accumulated corporate data grows. This course prepares to the student to work in a managed information environment.
+
+Outcomes:
+None

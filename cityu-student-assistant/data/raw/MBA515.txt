@@ -1,0 +1,15 @@
+Course Code: MBA515
+Title: MBA 515 Project Management and Prioritization *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-515
+Credits: 3
+Prerequisites: MBA 500, MBA 501
+
+Description:
+In this course students develop relationships between the project management Process Groups (Initiating, Planning, Executing, Monitoring and Controlling, Closing) and the PMBOK Knowledge Areas. Students exercise the critical tasks associated with managing a single project to best meet project success criteria and stakeholders expectations. Throughout the course, students gain practical experience by developing project deliverables utilizing Microsoft Project software and applying several project management tools and techniques including project charter, work breakdown structure, network diagrams and critical path.
+
+Outcomes:
+This course will prepare students to:
+Assess project risk and integrate risk mitigation plans into the project plan.
+Assess individual projects based on their performance and/or potential performance against organization priorities.
+Create a project plan that includes effective resource allocation, use of technology and cross-functional awareness to solve a specific problem.
+Create a project plan that maximizes talent and work effort by effectively managing human resources.

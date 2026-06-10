@@ -1,0 +1,14 @@
+Course Code: EML482
+Title: EML 482 Algebra and Functions (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/eml-education-middle-level/400/eml-482
+Credits: 3
+Prerequisites: None
+
+Description:
+Candidates develop conceptual understanding of and procedural fluency with algebra concepts emphasizing functions. Candidates learn to incorporate the standards of math practice within algebra and functions. Topics include operations, solution, and graphical representation of real life and mathematical problems using numerical and algebraic expressions, equations, and inequalities; proportional relationships, lines, and linear equations; functional notation and their models (linear, quadratic, simple rational, and exponential); algebraic expressions and functions (polynomials, rationals, roots); arithmetic properties and their proofs, equivalent forms; analysis and modeling of functions (linear, quadratic, exponential); and relationships between various representations of a function (graphs, tables, algebraic expressions, concrete models, contexts).  Upon successful completion of this course, candidates will have the knowledge and skills to help K-12 students become college and career ready in algebra and functions.
+
+Outcomes:
+This course will prepare students to:
+1. Develop conceptual understanding of and procedural facility with algebra and functions.
+2. Apply standards of mathematical practice in algebra and functions.
+3. Anticipate and plan for student misconceptions and common errors.

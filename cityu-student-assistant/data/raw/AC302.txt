@@ -1,0 +1,11 @@
+Course Code: AC302
+Title: AC 302 Intermediate Accounting II *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ac-accounting/300/ac-302
+Credits: 5
+Prerequisites: AC 215 Fundamentals of Accounting or the equivalent
+
+Description:
+Intermediate Accounting II provides an in-depth examination of the theory and practice of financial accounting. This course concentrates on time value of money concepts and applications, cash and receivables, inventories, property plant and equipment, depreciation and impairments, intangible assets, investments, and the treatment of accounting changes and error corrections. Students will learn to account for these items through researching and applying both US and international accounting principles and frameworks.
+
+Outcomes:
+None

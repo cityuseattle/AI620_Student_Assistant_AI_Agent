@@ -1,0 +1,15 @@
+Course Code: EAD527
+Title: EAD 527 Program Design, Assessment and Evaluation
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ead-education-adult-education/500/ead-527
+Credits: 6
+Prerequisites: None
+
+Description:
+Developing educational or training programs for adults requires higher level skills, which include identifying needs, establishing objectives, and critically evaluating outcomes. Evidence of student development or learning must then be assessed based on the outcomes and then be evaluated for quality.  This course examines theories and techniques associated with the evaluation of educational or training programs, along with an overview of various models for evaluating courses and programs in education, industry, and adult training environments. Additionally, students will learn how program evaluation ties into accreditation or certification and provides evidence to support the assertions made in the program plan.
+
+Outcomes:
+This course will prepare students to:
+1. Assess a program for its current needs.
+2. Develop a program model that summarizes the program design.
+3. Identify the components of an effective assessment system.
+4. Design a program plan that includes modeling, assessment, and evaluation.

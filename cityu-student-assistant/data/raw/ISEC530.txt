@@ -1,0 +1,11 @@
+Course Code: ISEC530
+Title: ISEC 530 Cybercrime
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/isec-information-security/500/isec-530
+Credits: 3
+Prerequisites: None
+
+Description:
+Cyber crime has become a pervasive reality in society. Students in this course investigate the forms that cyber crimes can take, and examine the factors that make victims vulnerable to cyber crimes. The course also looks at theories of criminology and how they are impacted by trends in the cyber environment. Understanding cyber crime allows students to avoid and detect it, as well as minimize the impact of cyber crime on its victims and contribute to the investigation of cyber crimes.
+
+Outcomes:
+None

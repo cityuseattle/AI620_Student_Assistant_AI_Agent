@@ -1,0 +1,14 @@
+Course Code: RESR643
+Title: RESR 643 Advanced Quantitative Methods *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/resr-research/600/resr-643
+Credits: 3
+Prerequisites: RESR 619
+
+Description:
+This advanced quantitative methods course provides opportunities to apply advanced statistical tools used to analyze data in a variety of disciplines, advancing candidates’ experience in assessing the quality of quantitative designs. This course emphasizes teaching skills required to conduct quantitative analysis including how to: organize data; determine which statistical tools to apply based on the research question and nature of the data; calculate effect size and power; read outputs; translate statistical results; and communicate findings. Doctoral candidates apply skills learned in this course to competently design and implement the analytical section of their quantitative or mixed methods research projects and dissertations.
+
+Outcomes:
+This course will prepare students to:
+1. Test Null and Alternative Hypotheses using inferential statistical tools.
+2. Evaluate results derived from quantitative methods using statistical metrics.
+3. Defend a quantitative research proposal.

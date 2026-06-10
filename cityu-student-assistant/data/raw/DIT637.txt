@@ -1,0 +1,16 @@
+Course Code: DIT637
+Title: DIT 637
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-637
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This course will focus on three critical elements of building smart and secure systems – cloud computing, software security, and artificial intelligence. Cloud computing represents a novel way of implementing applications as services in a way that increases the agility of the organization while decreasing costs and speed of deployment. The security of a system, and of the data it stores and manages, depends in large part on the security of its software. Artificial Intelligence (AI) includes the methodologies for modeling and simulating several human abilities that are widely accepted as representing intelligence. This class will show IT leaders how to apply cloud computing, cybersecurity, and AI to make a system secure and smart.
+
+Outcomes:
+This course will prepare students to:
+1. Apply principles and concepts of cloud computing, software security, and artificial intelligence (AI) for smart and secure systems.
+2. Analyze the role of cloud computing, software security, and AI on business strategy.
+3. Evaluate emerging trends of technology in relation to smart and secure systems.
+4. Evaluate the cost and benefit of adopting cloud computing, software security, and AI for smart and secure systems.
+5. Create a roadmap to deliver business value through the strategic use of cloud computing, software security, and AI.

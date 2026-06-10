@@ -1,0 +1,16 @@
+Course Code: PM480
+Title: PM 480 Project Integration Action Learning Project *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-480
+Credits: 5
+Prerequisites: PM 401, PM 409, PM 410, PM 404, PM 406, PM 408, PM 413, PM 414
+
+Description:
+This capstone course is a cumulative assessment of project management knowledge areas, skills, tools, and technology. The student will construct elements of a Project Management Notebook (PMNB/e-portfolio) as a final capstone project.
+
+Outcomes:
+This course will prepare students to:
+Construct and demonstrate communication practices to stakeholders.
+Apply project management fundamentals to differing industries.
+Design lessons learned into lifelong learning practices.
+Evaluate the implications of project management to organizational effectiveness.
+Acquire a foundation of fundamental project management knowledge areas via the Project Management Body of Knowledge (PMBOK® Guide).

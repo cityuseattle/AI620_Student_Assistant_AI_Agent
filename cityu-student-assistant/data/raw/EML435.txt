@@ -1,0 +1,14 @@
+Course Code: EML435
+Title: EML 435 Mathematics: Number Sense and Theory (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/eml-education-middle-level/400/eml-435
+Credits: 3
+Prerequisites: None
+
+Description:
+Candidates develop a conceptual understanding of and procedural fluency with operations, number systems, ratios, and proportional relationships. Candidates learn to incorporate the standards of math practice within number sense and theory. Topics include the structure, properties, characteristics of and relationships between number systems including whole numbers, integers, rational, real, and complex numbers; operations of different number systems and their properties; representation, modeling, properties, and operations of vectors and matrices; the progressions of learning in base-ten number system and operations, fractions and rational numbers, and real numbers; ratios and proportional relationships, and additive and multiplicative perspectives; ratios, rates, and proportions; representation and analysis of proportional relationships using tables, graphs, equations, diagrams, concrete and mathematical models.  Upon successful completion, candidates will have the knowledge and skills needed to help K-12 students become college and career ready in number sense and theory.
+
+Outcomes:
+This course will prepare students to:
+1. Develop conceptual understanding of and procedural facility with number sense and theory.
+2. Apply standards of mathematical practice in number sense and theory.
+3. Anticipate and plan for student misconceptions and common errors.

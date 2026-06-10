@@ -1,0 +1,11 @@
+Course Code: IS430
+Title: IS 430 Web Programming *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-430
+Credits: 5
+Prerequisites: CS 225
+
+Description:
+The course brings together student skills in web development, programming and databases to create dynamic websites which incorporate the use of databases, web services, and mash-ups. The course builds on programming concepts learned in IS 410 using PHP, Javascript, Ajax, MySql, API’s and other tools to teach techniques for web programming. Students will apply development paradigms learned in previous courses to a team project. Students completing this course will have an understanding of how to create effective web-based applications.
+
+Outcomes:
+None

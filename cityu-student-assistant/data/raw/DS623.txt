@@ -1,0 +1,16 @@
+Course Code: DS623
+Title: DS 623 Math & Statistics for Data Science
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/600/ds-623
+Credits: 3
+Prerequisites: None
+
+Description:
+This course is designed to provide mathematics concepts and applied statistics useful for data science with a statistical programming language. The fundamental mathematical tools needed to understand machine learning include linear algebra, analytic geometry, matrix decompositions, vector calculus, optimization, probability, and statistics. Topics of applied statistics range from syntax basics of the chosen statistical programming language, descriptive statistics, and data visualizations to inferential statistics and regressions. Students completing this course will have an understanding of building intuition and practical experience with applying mathematical and statistical concepts to data science.
+
+Outcomes:
+This course will prepare students to:
+1. Understand fundamental mathematical concepts used in data science.
+2. Apply machine learning algorithms to real-world models using a programming language.
+3. Analyze machine learning models and algorithms using mathematical and statistical concepts.
+4. Evaluate and interpret probabilistic and statistical models in data science.
+5. Create a positive and informed perspective on the role of mathematics and statistics in data science.

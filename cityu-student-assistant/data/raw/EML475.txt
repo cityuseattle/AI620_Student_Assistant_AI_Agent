@@ -1,0 +1,17 @@
+Course Code: EML475
+Title: EML 475 Mathematics: Discrete Mathematics (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/eml-education-middle-level/400/eml-475
+Credits: 3
+Prerequisites: None
+
+Description:
+Math endorsement candidates develop conceptual understanding of a procedural facility with fundamental ideas of discrete mathematics in the formulation and solution of problems. Topics include mathematical proofs (direct, contradiction, contrapositive, induction); graph theory, recurrence relations, finite difference approaches, combinatronics); and application of discrete mathematics to formulate and solve real world problems. Upon successful completion of this course, candidates have content knowledge to help secondary students become college and career ready in discrete mathematics.
+
+Outcomes:
+General Education Courses
+Transfer Credit Toward Advanced Standing
+Financial Policies and Financial Assistance
+Academic Policies
+Degree Requirements
+Commencement Exercises
+Program Information

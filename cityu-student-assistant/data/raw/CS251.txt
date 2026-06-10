@@ -1,0 +1,17 @@
+Course Code: CS251
+Title: CS 251 Statistical Computing (NS) *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/200/cs-251
+Credits: 5
+Prerequisites: For students to succeed in this course, MATH 138 or MATH 141 are required pre-requisites.
+
+Description:
+This course is designed to provide the applied statistics useful for data exploration and analysis in data science and data mining with a statistical programming language. This course covers topics ranging from syntax basics of the chosen statistical programming language, descriptive statistics, and data visualizations to inferential statistics and regressions. After learning R’s syntax, the course will work through data visualizations such as histograms and boxplot charting, descriptive statistics, and inferential statistics such as t-test, chi-square test, analysis of variance (ANOVA), non-parametric test, and linear regressions.
+
+Outcomes:
+This course will prepare students to:
+1. Understand statistical concepts for data analysis.
+2. Understand the basic syntax of R for statistical programming.
+3. Apply statistical methods in different types of data.
+4. Analyze data in R using appropriate statistical tools.
+5. Evaluate data and draw conclusions based on statistical concepts.
+6. Create informative graphs and data visualizations with R.

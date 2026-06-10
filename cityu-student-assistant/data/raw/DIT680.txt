@@ -1,0 +1,11 @@
+Course Code: DIT680
+Title: DIT 680
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-680
+Credits: 3
+Prerequisites: Students must have completed the 24 credits of the DIT Core; must be currently enrolled in a graduate program at City University of Seattle with a cumulative GPA of 3.25 or higher.
+
+Description:
+As a part of the City University Program, there is the option of using a professional internship to enhance the graduate school experience. Within this option, a student will be involved in designing, participating in, and reflecting upon the internship experience. An internship is a planned new learning activity, which provides the student with a business-related learning experience designed to enhance competency while integrating theory and practice within a given field. Students can repeat their internship for the second quarter in sequence.
+
+Outcomes:
+None

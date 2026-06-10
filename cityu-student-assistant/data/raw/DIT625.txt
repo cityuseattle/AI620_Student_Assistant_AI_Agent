@@ -1,0 +1,16 @@
+Course Code: DIT625
+Title: DIT 625
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-625
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This course will focus on the critical elements of cybersecurity and information assurance involving technology, people, information, and processes to enable assured operations in the context of adversaries. Students will analyze, synthesize, and evaluate security in data, software, component, connection, system, human, organization, and society as well as information assurance in confidentiality, integrity, availability, risk, adversarial thinking, and systems thinking. This class will show IT leaders how to understand and implement the professional responsibilities associated with cybersecurity and information assurance.
+
+Outcomes:
+This course will prepare students to:
+1. Apply a risk-based approach to cybersecurity.
+2. Analyze security techniques and policies to protect IT infrastructure and information repository.
+3. Analyze best practices of organizational and cultural support systems in cybersecurity.
+4. Evaluate a business continuity plan for security incidents.
+5. Create a comprehensive cybersecurity plan for an organization.

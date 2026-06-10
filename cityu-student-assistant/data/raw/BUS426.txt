@@ -1,0 +1,16 @@
+Course Code: BUS426
+Title: BUS 426 Business Analytics for Decision Making (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-426
+Credits: 5
+Prerequisites: None
+
+Description:
+Today’s business professionals need to be skilled in the acquisition and analysis of relevant data sets that can be utilized to drive business strategy. An emphasis is placed on the process of gathering, analyzing, and presenting data in a way that can drive strategic decision-making in modern organizations. This course examines current trends in transactional and dynamic data generation and draws upon quantitative tools to make sense of the data for market and managerial purposes. Students will learn to use common analysis methods to summarize and interpret results for the benefit of internal and external consumers.
+
+Outcomes:
+This course will prepare students to:
+1. Critically analyze the quality of data analysis results as they relate to business opportunities.
+2. Clarify the current state of an organization through descriptive analytics.
+3. Apply data analytic tools including regression, classification, optimization and clustering.
+4. Identify useful data sources that can inform and support innovative management decisions.
+5. Formulate and communicate business recommendations that are supported by data analysis and that incorporate common visualization methods.

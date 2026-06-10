@@ -1,0 +1,16 @@
+Course Code: HUM230
+Title: HUM 230 Korean Culture, Technology, and Language 3 (HU)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/hum-humanities/200/hum-230
+Credits: 5
+Prerequisites: Students must successfully complete HUM 131 or have instructor's permission to take this course.
+
+Description:
+In this course, students develop Korean language skills while exploring culture and technology. Students enhance their reading and writing proficiency through vocabulary development and grammar practice and foster aural comprehension and speaking skills through conversations in Korean related to culture and technology. Students apply their understanding of Korean culture and language skills to intermediate concepts of website development, administration, and functions of a web Content Management System (CMS).
+
+Outcomes:
+This course will prepare students to:
+1. Demonstrate proficiency in the Korean language through structured and unstructured conversations on topics covered in the course.
+2. Describe major and advanced elements of Korean culture, including language, norms, rituals and ceremonies, values and beliefs, and artifacts.
+3. Demonstrate skills in website design.
+4. Analyze advanced features of a web content management system.
+5. Apply advanced website design techniques to showcase their Korean language and technology skills.

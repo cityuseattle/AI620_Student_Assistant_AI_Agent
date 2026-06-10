@@ -1,0 +1,11 @@
+Course Code: BSM412
+Title: BSM 412 International Financial Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bsm-business-major/400/bsm-412
+Credits: 5
+Prerequisites: None
+
+Description:
+In this course, students will learn how to manage the finances of companies that operate internationally. Looking at particular geopolitical regions of the world, they will investigate how financial managers of firms, subsidiaries, or operations across national borders need special knowledge and techniques to cope with a variety of economic and political risks, regulations, and business practices. The course will also cover currency exchange rates and their associated risks, financing alternatives for different types of cross-border entities, and how distinct methods for capital budgeting and the valuation and management of assets may be required for international operations.
+
+Outcomes:
+None

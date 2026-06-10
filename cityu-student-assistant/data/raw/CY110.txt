@@ -1,0 +1,17 @@
+Course Code: CY110
+Title: CY 110 Introduction to Cybersecurity
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/100/cy-110
+Credits: 5
+Prerequisites: None
+
+Description:
+In this course, cybersecurity foundational principles are introduced. Topics include foundational concepts, practices, and techniques for protecting data, securing technical and human systems, and protecting society from cyberattacks. Students learn about various career paths related to cyber security and develop fundamental cyber defense skills.
+
+Outcomes:
+This course will prepare students to:
+1. Demonstrate how to secure technical and human systems and the basics of protecting our society from cyberattacks.
+2. Discuss major elements of cyber ethics.
+3. Describe cyberwar, cybercrime, and network security.
+4. Analyze features of cybersecurity systems.
+5. Develop a basic cyber defense showcasing their technology skills.
+6. Analyze the foundational practices of cybersecurity activities.

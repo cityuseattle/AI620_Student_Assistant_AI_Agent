@@ -1,0 +1,11 @@
+Course Code: AC301
+Title: AC 301 Intermediate Accounting I *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ac-accounting/300/ac-301
+Credits: 5
+Prerequisites: AC 215 Fundamentals of Accounting or the equivalent
+
+Description:
+AC 301 provides an in-depth examination of the theory and practice of financial accounting, including the accounting environment and underlying conceptual framework. Students will learn about US and International accounting principles and frameworks. Students will develop skills to apply these principles in the preparation of financial information. This course includes a detailed study of the four major financial statements, accounting information systems, revenue recognition, current liabilities and contingencies, and basic financial statement analysis.
+
+Outcomes:
+None

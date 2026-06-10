@@ -1,0 +1,16 @@
+Course Code: PM422
+Title: PM 422 Communicating with Data
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-422
+Credits: 5
+Prerequisites: None
+
+Description:
+This course introduces students to data visualization competency within the domain of project management. Project managers dedicate a considerable amount of their time to communicating various dimensions of projects and exchanging relevant insights with the members of virtual and global teams. The dynamics of communication on a global scale in parallel with the growing complexity and uncertainty of the business landscape collectively present a wide range of challenges to project managers related to exchanging data on project scope, time, cost, risk, change, and other critical factors. Informed by these challenges, this course is centered on best practices in data visualization that enhance project communications. In addition, students gain insights in incorporating various data points for project management analysis as well as those related to the Internet of Things (IoT).
+
+Outcomes:
+This course will prepare students to:
+Understand the complexity of IoT and other disparate data sources of project management data leveraged for analysis.
+Interpret information about project data in terms of its usefulness in project management decisions.
+Present data and analyses to project stakeholders in a format that is clear and informative.
+Apply visualization best practices related to leveraging the appropriate charts, graphs, and data context.
+Build project dashboards that project managers can utilize to evaluate project performance and make data-driven decisions.

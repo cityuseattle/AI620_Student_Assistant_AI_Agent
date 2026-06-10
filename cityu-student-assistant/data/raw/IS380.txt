@@ -1,0 +1,11 @@
+Course Code: IS380
+Title: IS 380 C# Introduction *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-380
+Credits: 5
+Prerequisites: IS 306
+
+Description:
+This course covers the fundamentals of programming concepts in C# including conditional statements, methods, program structure, variables and iteration statements. This course also discusses basic object oriented concepts including structures, arrays, class, objects, properties, inheritance, exception handling, and collections. The student will learn the basics of modern programming in C# including programming for Windows and Dot Net (.Net). The student will be able to write, compile, debug and execute an application written in C#.
+
+Outcomes:
+None

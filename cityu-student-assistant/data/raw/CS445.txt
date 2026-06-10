@@ -1,0 +1,17 @@
+Course Code: CS445
+Title: CS 445 Software Process Management *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-445
+Credits: 5
+Prerequisites: For students to succeed in this course, IS 350 is a required pre-requisite.
+
+Description:
+This course provides students with an understanding of different software process models and software project management. Topics include Agile and Technical Project Management, Continuous Quality Improvement (CQI), Capability Maturity Model Integration (CMMI) and People Capability Maturity Model (PCMM). Students will learn how to manage the software lifecycle using the suitable software process  model and relevant tools.
+
+Outcomes:
+This course will prepare students to:
+1. Understand key elements of common software development methodologies and process models.
+2. Apply agile software development practices to manage, organize, and control the changes during the Software Development Life Cycle (SDLC).
+3. Plan the results of requirements engineering to design architectures.
+4. Analyze processes in terms of the capability maturity model (CMM) and capability maturity model integrated (CMMI) types, uses, and expected content of common software documentation.
+5. Interpret the application of software process improvement modules and metrics to measure and estimate aspects of software engineering.
+6. Develop the testing, quality assurance, and traceability requirements of a software project.

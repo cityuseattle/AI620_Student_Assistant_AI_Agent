@@ -1,0 +1,14 @@
+Course Code: RESR619
+Title: RESR 619 Quantitative Research Methods
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/resr-research/600/resr-619
+Credits: 3
+Prerequisites: None
+
+Description:
+This course covers quantitative methodology and design. Equal emphasis will be placed on the fundamental elements of: (1) quantitative design including variable identification, research question and hypothesis creation; and (2) quantitative data collection and analysis including sampling methods, data collection instruments, and an introduction to statistical tests.
+
+Outcomes:
+This course will prepare students to:
+1. Explain the fundamental elements of quantitative methodology and design.
+2. Critically evaluate the purpose, design, data analysis methods, and findings of quantitative studies in published articles.
+3. Develop a quantitative research proposal.

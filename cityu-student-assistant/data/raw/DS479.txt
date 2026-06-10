@@ -1,0 +1,17 @@
+Course Code: DS479
+Title: DS 479 Data Mining and Machine Learning *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/400/ds-479
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 251 and IS 360 are required pre-requisites.
+
+Description:
+Data mining involves the processing, analysis, and presentation of data to gain valuable information. Machine learning refers to a broad set of algorithms for identifying patterns in data to build models that might then be possibly productized. Students completing this course will develop an understanding of data mining concepts such as proximity measurement, data preparation, cluster analysis, classification and regression and apply machine learning algorithms such as supervised learning, unsupervised learning, and deep learning.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the bias-variance tradeoff in supervised learning.
+2. Understand the importance of feature selection for clustering, classification, and regression.
+3. Apply clustering, classification, and regression algorithms to small and medium data sets.
+4. Analyze the performance of supervised and unsupervised algorithms using various metrics.
+5. Evaluate criteria that might lead to selection of one method over another in supervised learning.
+6. Create a data mining and machine learning deliverable using appropriate algorithms.

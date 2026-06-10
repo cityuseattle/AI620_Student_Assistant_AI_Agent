@@ -1,0 +1,11 @@
+Course Code: DS483
+Title: DS 483 Mathematics and Statistics for Machine Learning (NS) *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/400/ds-483
+Credits: 5
+Prerequisites: For students to succeed in this course, IS 201 and CS 351 are required pre-requisites.
+
+Description:
+The fundamental mathematical tools needed to understand machine learning include linear algebra, analytic geometry, matrix decompositions, vector calculus, optimization, probability, and statistics. These topics are connected to four central machine learning methods: linear regression, dimension reduction, density estimation, and classification.  Students completing this course will have an understanding of building intuition and practical experience with applying mathematical concepts to machine learning.
+
+Outcomes:
+None

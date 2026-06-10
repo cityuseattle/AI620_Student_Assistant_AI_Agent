@@ -1,0 +1,17 @@
+Course Code: CS142
+Title: CS 142 Web Programming - TypeScript/JavaScript
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/100/cs-142
+Credits: 5
+Prerequisites: None
+
+Description:
+This course introduces students to foundational script programming concepts. It guides students to put these concepts in practice by mastering skills in TypeScript through a mix of lectures, knowledge checks, reflective exercises, and hands-on practice.  Students learn TypeScript concepts, object-oriented programming, master script programming skills, and develop abilities to implement the same problems in TypeScript.
+
+Outcomes:
+General Education Courses
+Transfer Credit Toward Advanced Standing
+Financial Policies and Financial Assistance
+Academic Policies
+Degree Requirements
+Commencement Exercises
+Program Information

@@ -1,0 +1,17 @@
+Course Code: DS510
+Title: DS 510 Artificial Intelligence for Data Science
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/500/ds-510
+Credits: 3
+Prerequisites: None
+
+Description:
+Artificial Intelligence (AI) includes the methodologies for modeling and simulating several human abilities that are widely accepted as representing intelligence. Perceiving, representing, learning, planning, and reasoning with knowledge and evidence are key themes. Concepts and methods developed for building AI systems are useful in Data Science and Data Science methods are applied extensively in AI systems. This course provides a broad overview of general AI concepts, logic- and probability-based knowledge representation and reasoning, and planning and search strategies in a Data Science context. Students will develop a foundational understanding of AI systems to apply their work to AI.
+
+Outcomes:
+As a result of this course, students will know or be able to do the following:
+1. Understand the logic-based representations of knowledge.
+2. Understand how heuristics can be used to speed up graph/state space search.
+3. Apply probabilistic reasoning to a small- or medium-sized problem.
+4. Analyze the performance of selected AI techniques.
+5. Evaluate basic AI techniques in a number of applications.
+Create a system that makes an intelligent decision based on learning.

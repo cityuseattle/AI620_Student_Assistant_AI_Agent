@@ -1,0 +1,16 @@
+Course Code: CY488
+Title: CY 488 Software Security *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/400/cy-488
+Credits: 5
+Prerequisites: None
+
+Description:
+This course focuses on identifying and resolving the most significant errors in software. Acquire a strong comprehension of fundamental concepts and terms about software security. Notably, the OWASP Top Ten Project, which outlines the most critical risks in web application security, is presented as the CWE (Common Weakness Enumeration), a comprehensive catalog of common software weaknesses and vulnerabilities are examined. Evaluate the tools that assist in identifying, analyzing, and resolving software security vulnerabilities, which are presented to integrate relevant security controls into the entire software development lifecycle.
+
+Outcomes:
+This course will prepare students to:
+1. Articulate the fundamental concepts and terminologies related to software security.
+2. Analyze the OWASP Top Ten Project to address the most critical risks in web application security.
+3. Analyze the CWE, a list of common software weaknesses and vulnerabilities.
+4. Evaluate tools that assist in identifying, analyzing, and resolving software security vulnerabilities.
+5. Design a secure software systems project incorporating relevant security controls throughout the software development lifecycle.

@@ -1,0 +1,17 @@
+Course Code: CY468
+Title: CY 468 Ethical Hacking *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/400/cy-468
+Credits: 5
+Prerequisites: For students to succeed in this course, IS 345 and IS 471 are required pre-requisites.
+
+Description:
+This course covers the tools and techniques that security professionals use to implement, monitor, and evaluate security on computer systems.  Students will lock down and monitor computer systems and gain hands-on experience in collecting information about an organization's vulnerabilities.  Based on their experiences in this course, students will be prepared to conduct penetration testing on authorized systems.
+
+Outcomes:
+This course will prepare students to:
+1. Understand basic vulnerabilities, threats and risks as it applies to software and hardware.
+2. Understand penetration test and its applications, and the difference between penetrations testing and unethical hacking.
+3. Apply penetration-testing tools to identify a system vulnerability.
+4. Analyze options for enterprise malware detection.
+5. Evaluate the cost of defense, recovery, and remediation for a small organization and a large-scale enterprise.
+6. Create a thorough security analysis of vulnerabilities by using ethical hacking methods.

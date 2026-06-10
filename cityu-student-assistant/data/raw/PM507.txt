@@ -1,0 +1,16 @@
+Course Code: PM507
+Title: PM 507 Project Financial Management *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/500/pm-507
+Credits: 3
+Prerequisites: PM 504
+
+Description:
+Project financial planning and management fall under the cost triad of project management. This course is a continuation of PM 504 and focuses on project activity-based financial principles, including planning resource management, cost estimating methods, earned schedule management, procurement management, and project budgeting. Students continue to build out their project plan by completing the financial management portion of the plan.
+
+Outcomes:
+This course will prepare students to:
+Calculate estimated costs for a project utilizing various methods of estimation.
+Justify the budget for a project to the appropriate stakeholders.
+Create a resource management plan employing a variety of resource management methods.
+Develop a procurement plan for a project.
+Generate a budget for a project.

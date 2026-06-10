@@ -1,0 +1,16 @@
+Course Code: DA555
+Title: DA 555 Data and Methodology
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/da-data-analytics/500/da-555
+Credits: 3
+Prerequisites: None
+
+Description:
+In this course, students will learn how to acquire and properly analyze data sets. The course begins with a full review of the steps involved in data acquisition, preparation and visualization. These steps, combined with stakeholder needs, will help define the methods that will be used to determine further analysis. At the end of this course, students will be able to load, prepare, and analyze data sets as they prepare to construct models.
+
+Outcomes:
+This course will prepare students to:
+1. Evaluate and prioritize data needs, resources, and means of collecting data.
+2. Determine the documentation and reporting of findings.
+3. Explain how and why to harmonize, rescale, clean, and share data.
+4. Reframe problem statements using data analysis results.
+5. Discover relationships in data.

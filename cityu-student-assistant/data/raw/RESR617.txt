@@ -1,0 +1,14 @@
+Course Code: RESR617
+Title: RESR 617 Research Fundamentals
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/resr-research/600/resr-617
+Credits: 3
+Prerequisites: None
+
+Description:
+This course will review the elements essential to a dissertation or research article. Students will evaluate research articles for design and statistical analyses, as well as summarize and critique resources in their field of study.
+
+Outcomes:
+This course will prepare students to:
+Develop an understanding of the culture and process of research.
+Critically evaluate purpose, design, data analysis, and findings of research articles.
+Summarize and evaluate a collection of literature relevant to a specific research topic.

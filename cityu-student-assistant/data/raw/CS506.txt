@@ -1,0 +1,16 @@
+Course Code: CS506
+Title: CS 506 Programming for Computing
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-506
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces different programming paradigms. Students learn the fundamental programming concepts of process, iteration, and decision-making as well as using functions, classes, and modules to structure programs. Students learn to apply critical data structures and algorithms in their programs. Throughout the course, students work in an immersive environment creating numerous programs to exercise their knowledge. At the end of the course, students can apply programming to many common problems and a solid foundation for more advanced programming concepts and challenges.
+
+Outcomes:
+This course will prepare students to:
+1. Understand advanced programming with different programming paradigms - object-oriented, functional, and modular programming.
+2. Apply advanced programming interfaces (APIs) to applications in Data Science (DS) and Artificial Intelligence (AI).
+3. Analyze critical data structures and algorithms with the advanced programming.
+4. Evaluate advanced programming for the applications in DS and AI.
+5. Create applications using advanced programming paradigms and APIs.

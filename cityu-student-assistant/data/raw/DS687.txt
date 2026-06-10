@@ -1,0 +1,11 @@
+Course Code: DS687
+Title: DS 687 Data Science Capstone *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/600/ds-687
+Credits: 3
+Prerequisites: Must be in final term of study.
+
+Description:
+The Computer Science Capstone is the capstone course for the Master of Science in Data Science (MSDS) program. Students will demonstrate their ability to apply data science principles, tools, and techniques to a specific problem or research study, and to acquire and/or apply additional knowledge in a unique domain. This course integrates knowledge gained from previous coursework in the MSDS program.
+
+Outcomes:
+None

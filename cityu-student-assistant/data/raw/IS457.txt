@@ -1,0 +1,17 @@
+Course Code: IS457
+Title: IS 457 Enterprise Systems
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-457
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 330 and IS 360 are required pre-requisite
+
+Description:
+This course is designed to provide students with an understanding of the theoretical and practical issues related to the application of enterprise systems within organizations. Enterprise systems, by their multi-dimensional integrative nature, offer the depth of functionality and breadth of integration to demonstrate how global operations of organizations are managed. Students investigate design, selection, implementation, and management of enterprise IT solutions focusing on applications and infrastructure and their fit with the business and how enterprise systems integrate information and organizational processes across functional areas utilizing shared reporting tools.
+
+Outcomes:
+This course will prepare students to:
+1. Explain the theoretical and practical issues related to the application of enterprise systems within organizations.
+2. Describe how Customer Relationship Management (CRM) systems act as an enterprise system.
+3. Examine the design, selection, implementation, and management of enterprise IT solutions to cloud services.
+4. Analyze how enterprise systems integrate information and organizational processes across functional areas with a unified system.
+5. Evaluate cloud-based storage and database systems.
+6. Design an enterprise system in the cloud using current industry CRM systems.

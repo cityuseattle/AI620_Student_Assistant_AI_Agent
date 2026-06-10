@@ -1,0 +1,11 @@
+Course Code: SSC220
+Title: SSC 220 Principles of Microeconomics (SS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ssc-social-science/200/ssc-220
+Credits: 5
+Prerequisites: None
+
+Description:
+This course is an introduction of microeconomic theory with real world applications. Topics include: How households, firms, and governments make decisions of what goods and services to produce, how to produce the goods and for whom to produce them. This course will help you apply the skills and tools learned from theory to current world events.
+
+Outcomes:
+None

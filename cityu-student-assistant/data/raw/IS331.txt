@@ -1,0 +1,11 @@
+Course Code: IS331
+Title: IS 331 Understanding Technology for Communication
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-331
+Credits: 5
+Prerequisites: None
+
+Description:
+This course covers the technology behind social media and digital communications, including such topics as html, CSS, Javascript, XML, widgets, metadata, and platforms. Students in this course will understand the behind-the-scenes functioning of social networking, mobile devices, and social media. This will give them a greater appreciation of the capabilities and limitations of the technologies as they apply them to communication strategies.
+
+Outcomes:
+None

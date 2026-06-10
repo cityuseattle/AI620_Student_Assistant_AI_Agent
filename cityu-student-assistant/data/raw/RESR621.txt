@@ -1,0 +1,14 @@
+Course Code: RESR621
+Title: RESR 621 Qualitative Research Methods *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/resr-research/600/resr-621
+Credits: 3
+Prerequisites: RESR 617
+
+Description:
+Several types of qualitative methods of data collection will be covered in this course, including various types of interviews, content analysis and case studies. Students will be able to evaluate different methodologies for validity and reliability as well as to determine which is/are most appropriate for different types of research questions.
+
+Outcomes:
+This course will prepare students to:
+Analyze qualitative data and create a research report from the data.
+Evaluate different qualitative strategies examining underpinnings, data collection methods, and methods of analysis.
+Generate a research proposal by aligning the topic to research questions then the research questions to the appropriate methodological strategy.

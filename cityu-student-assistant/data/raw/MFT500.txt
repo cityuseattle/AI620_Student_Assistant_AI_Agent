@@ -1,0 +1,15 @@
+Course Code: MFT500
+Title: MFT 500 Foundations of Systemic Practice
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mft-marriage-and-family-therapy/500/mft-500
+Credits: 3
+Prerequisites: None
+
+Description:
+The students will have a comprehensive introduction to relational systems theory, focusing on its historical development, foundational concepts, and practical application within marriage and family therapy. Students will explore key principles of family systems theory, including interaction patterns, roles, and dynamics, while integrating multicultural perspectives to ensure culturally competent and inclusive practices. Through lectures, case reviews, and discussions, students will develop the skills to assess and intervene in complex relational systems, preparing them to design therapeutic interventions tailored to the unique needs of diverse individuals, couples, and families.
+
+Outcomes:
+This course will prepare students to:
+1. Gain a foundational understanding of relational systems theory, including its historical development and key concepts.
+2. Apply family systems theory to analyze and assess relational dynamics and mental health issues within clinical settings.
+3. Integrate multicultural perspectives into relational systems assessments and interventions, respecting diverse relational structures and values.
+4. Design and implement therapeutic interventions based on systems theory to address relational and mental health issues.

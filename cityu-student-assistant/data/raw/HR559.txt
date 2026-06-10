@@ -1,0 +1,11 @@
+Course Code: HR559
+Title: HR 559 People Analytics
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/hr-human-resources/500/hr-559
+Credits: 3
+Prerequisites: None
+
+Description:
+This course provides an overview of people analytics opportunities in today’s organizations. For the first time in history, business leaders can make decisions about their people based on deep analysis of data rather than the traditional methods of personal relationships, decision making based on experience, and risk avoidance. Designed for non-technical professionals and leaders, People Analytics focuses on emerging practices and techniques used to acquire data, analyze, predict, and finally solve questions and challenges confronting organizations of all sizes and sectors today. Students will learn how to optimize talent sourcing in the era of big data and social media. They will learn how to leverage predictive models to retain top performers and build employee lifetime value and cost modeling for better performance management and recognition. Finally, students will learn how big data applies to talent management and staffing and allows HR professionals to create a competitive edge for their organization.
+
+Outcomes:
+None

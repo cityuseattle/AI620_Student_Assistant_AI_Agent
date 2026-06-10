@@ -1,0 +1,15 @@
+Course Code: BUS442
+Title: BUS 442 Advanced Tools in Business Analytics *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-442
+Credits: 5
+Prerequisites: BUS 426
+
+Description:
+In a global digital economy, customer-centric strategies drive business innovations. The web allows businesses to tap into a wealth of customer behavior in order to analyze and answer key questions such as "Which category of our customers continue to buy our products and why?" and "Who in our customers’ network is likely to adopt our product?" This course assumes that the tools to data mining and business analytics must be accessible to people within business domains. The course is self-contained and demands no background in programming. It is designed to take student over a series of introductory materials with an emphasis on the practical aspects of applying this knowledge to real-world business analytics problems. After taking this course, students can apply the tools provided to deliver business analytics solutions for date-driven decision making in a variety of business scenarios, such as pricing, marketing, and advertisement.
+
+Outcomes:
+This course will prepare students to:
+1. Assess and improve key performance indicators using a suite of business analytics tools.
+2. Use regression to accurately anticipate future performance.
+3. Implement linear optimization tools to guide business decisions.
+4. Build trending and forecasting models to project key performance indicators.

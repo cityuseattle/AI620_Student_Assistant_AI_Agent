@@ -1,0 +1,17 @@
+Course Code: CY665
+Title: CY 665 Cybersecurity Capstone *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/600/cy-665
+Credits: 3
+Prerequisites: This course is to be taken in the final quarter of study.
+
+Description:
+This course creates a Cyber Security capstone project based on knowledge and skills gained from previous coursework in the MSCY program. Topics include a capstone project management methodology, article search, and capstone project components such as problem identification, annotated bibliography, background, related work, approach, use case, design, implementation, data collection, data analysis, findings, conclusions, future work, references, and abstract. Candidates demonstrate their ability to apply cybersecurity principles, tools, and techniques to a specific problem or research study and acquire additional knowledge in a unique domain.
+
+Outcomes:
+This course will prepare students to:
+1. Integrate a foundational knowledge of all areas of advanced cybersecurity (General Cybersecurity Knowledge).
+2. Apply fundamental principles and practices of advanced cybersecurity (Cybersecurity Principles and Practices).
+3. Apply critical and ethical thinking to solve problems in advanced cybersecurity (Critical and Ethical Thinking).
+4. Evaluate data to inform decisions and solve problems in advanced cybersecurity (Quantitative Literacy).
+5. Create the ability to develop and express ideas while applying a variety of delivery models, genres, and styles (Communication).
+6. Collaborate effectively on diverse teams to accomplish a common goal (Collaboration).

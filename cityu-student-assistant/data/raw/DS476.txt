@@ -1,0 +1,17 @@
+Course Code: DS476
+Title: DS 476 Data Analysis and Presentation *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/400/ds-476
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 251 and IS 360 are required pre-requisites.
+
+Description:
+The human-computer interface provides the means whereby users interact with computer systems. The quality of that interface significantly affects usability in all its forms and encompasses a vast range of technologies: animation, visualization, simulation, speech, video, recognition, and graphics. For the data scientist, it is crucial to be aware of the range of options and possibilities and to be able to deploy them appropriately. With graphs and other forms of diagrams, visualization can be used in providing readily understood summaries but can also greatly assist in guiding such activities as clustering and classification. Students completing this course will have an understanding of foundational considerations, visualization, user-centered design, interaction design, and interface design and development.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the various roles visualization plays in Data Science.
+2. Understand effective approaches to visualization given data sets for a specific purpose.
+3. Apply visualization tools in support of analysis and presentation.
+4. Analyze famous examples of visualization in common use.
+5. Evaluate the adoption of a user-centered approach to analysis and presentation.
+6. Create data visualization for effective communication.

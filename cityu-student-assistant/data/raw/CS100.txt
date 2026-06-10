@@ -1,0 +1,15 @@
+Course Code: CS100
+Title: CS 100 STC BS Orientation to Bachelor Programs
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/100/cs-100
+Credits: 0
+Prerequisites: None
+
+Description:
+This is a four-part self-paced series. Students explore School of Technology & Computing’s (STC) culture, bachelor’s degree programs, course structure, teaching philosophy, and the STC’s Brightspace structure. Students assess strengths, learning styles, and work styles, in the context of and career and professional development opportunities. By the end of the workshop series, the student understands the STC culture, mindset, and career building opportunities available at STC. Note: A student takes this course in the first quarter of enrollment. Another program requirement can be taken concurrently.
+
+Outcomes:
+This course will prepare students to:
+1. Explain the STC culture, academic, and professional supports available within the School of Computing & Technology.
+2. Maneuver through the STC course structure.
+3. Analyze their personal/professional strengths, career profile, and individual work style and environmental work preferences.
+4. Identify their individualized professional career pathway leveraging STC resources and the professional network relevant to their chosen field.

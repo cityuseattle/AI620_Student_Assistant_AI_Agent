@@ -1,0 +1,11 @@
+Course Code: ISEC618
+Title: ISEC 618 Breaking and Securing the Enterprise *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/isec-information-security/600/isec-618
+Credits: 3
+Prerequisites: ISEC 614
+
+Description:
+In this course students will examine techniques to break and secure enterprise systems. The course covers significant areas of vulnerabilities, including the cloud, files and databases, and mobile clients. Students will learn to integrate security practices into the enterprise software development lifecycle.
+
+Outcomes:
+None

@@ -1,0 +1,11 @@
+Course Code: PM407
+Title: PM 407 Intro to Cost Management in Projects *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-407
+Credits: 5
+Prerequisites: PM 401
+
+Description:
+Introduction to Cost Management in Projects introduces the basic processes associated with cost management, from the establishment of budgets and cost accounts to the monitoring, interpretation, and use of cost data throughout the life cycle of the project. Since projects are implemented in companies to improve their overall financial performance, emphasis is placed on viewing cost management as supporting projects in their developmental stage; establishment of budgets and cost accounts; the monitoring and recording of cost data; and the relationships between cost, schedule and performance data. Students will learn how project costs extend beyond project boundaries to include consideration of additional processes and management techniques such as return-on-investment, discounted cash flow, payback analysis and the concept of project life cycle cost.
+
+Outcomes:
+None

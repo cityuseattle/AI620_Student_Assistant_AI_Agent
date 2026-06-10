@@ -1,0 +1,15 @@
+Course Code: CS500
+Title: CS 500 STC MS Orientation to Master's Programs *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-500
+Credits: 0
+Prerequisites: Students must take CS 500 in the first quarter of enrollment. The MS Orientation can be taken concurrently with prep or other courses.
+
+Description:
+This four part self-paced series allows students to explore School of Technology & Computing’s (STC) culture and opportunities. Additional topic cover master’s degree programs, course structure, teaching philosophy, and STC’s Brightspace. Students assess strengths, learning styles, and work styles. By the end of the workshop series, the student understands the STC culture, professional development mindset, and career building opportunities available at STC.
+
+Outcomes:
+This course will prepare students to:
+1. Explain the STC culture, academic, and professional supports available within the School of Computing & Technology.
+2. Maneuver through the STC course structure.
+3. Analyze their personal/professional strengths, career profile, and individual work style and environmental work preferences.
+4. Identify their individualized professional career pathway leveraging STC resources and the professional network relevant to their chosen field.

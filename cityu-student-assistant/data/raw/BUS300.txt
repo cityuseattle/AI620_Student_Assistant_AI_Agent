@@ -1,0 +1,17 @@
+Course Code: BUS300
+Title: BUS 300 Business Dynamics
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/300/bus-300
+Credits: 5
+Prerequisites: None
+
+Description:
+This course is designed to help students develop an in-depth understanding of the external environment, its building blocks, characteristics (VUCA), behaviors, and impacts on organizations. The distinct design of this class is informed by the fundamental principle that strategic success results from matching the complexity of the company with the complexity of its external environment. Accordingly, a manager’s knowledge and analysis of the external forces and variables (e.g., economic, social, cultural, political, legal, technological, and competitive forces) represent a key component of strategic decision making. In this class, the external environment is recognized as a complex system; therefore, students will be equipped with proper analytical perspectives and tools from Complexity Science to make sense of the market’s behaviors and take a step towards designing strong business models that enable the company to effectively respond to external demands. Primary topics include the external environment as a complex system, the role of the external analysis in strategic planning and decision making, and external forces, variables, and their effects on business.
+
+Outcomes:
+This course will prepare students to:
+1. Explain the role of the external audit in the formulation of strategy.
+2. Develop an External Factor Evaluation (EFE) Matrix to summarize and evaluate economic, social, cultural, demographic, environmental, political, governmental, legal, technological, and competitive information.
+3. Identify and discuss key external forces that must be examined in formulating strategies.
+4. Determine an appropriate management style and organizational structure based on the nature and dynamics of the external environment and its demands.
+5. Design business models using principles of Complexity Science.
+6. Develop a multiscale perspective by combining reductionism and systems thinking to analyze the external environment in relation to the company.

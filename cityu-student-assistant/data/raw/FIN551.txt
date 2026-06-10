@@ -1,0 +1,17 @@
+Course Code: FIN551
+Title: FIN 551 Quantitative Methods and Economics for Finance *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/fin-finance/500/fin-551
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This is the first course in a series of four that will introduce topics relevant to finance and at the same time, prepare students to sit for the Chartered Financial Analyst (CFA) Level I exam. The course provides a rigorous introduction to quantitative methods for finance, statistics, monetary policy, and business cycles for students intending to study economics and other quantitative fields. Lessons are drawn from time value of money, probability concepts, and common probability distributions. Introductory statistics are reviewed and applied to new applications and advanced modeling techniques.
+
+Outcomes:
+This course will prepare students to:
+Analyze fiscal and economic information to guide strategic financial decision making.
+Demonstrate the ability to make investment and trading decisions.
+Justify investment recommendations based on portfolio analysis.
+Evaluate micro and macro economic topics as related to financial analysis.
+Compute expected return and variance in portfolio management.
+Analyze types of sampling and estimation methods.

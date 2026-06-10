@@ -1,0 +1,16 @@
+Course Code: MG175
+Title: MG 175 Information Technology for Managers
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mg-management/100/mg-175
+Credits: 5
+Prerequisites: None
+
+Description:
+In this course, students learn what future business managers must know about information technology. Students define what information technology is and examine how it can be used to benefit an organization. Students are also provided with a framework for understanding their future roles as managers in implementing and overseeing information technology platforms.  Finally, students navigate complex issues such as privacy and security when working with information systems in an organizational setting.
+
+Outcomes:
+This course will prepare students to:
+1. Identify different information systems used for managing business operations.
+2. Describe how technology is used in the business environment.
+3. Explain benefits and risks of adopting information systems to manage specific business operations.
+4. Apply current technology trends to meet organizational needs.
+5. Analyze ethical and social issues associated with the use of technology.

@@ -1,0 +1,14 @@
+Course Code: DBA600
+Title: DBA 600 Introduction to Doctoral Program
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dba-doctor-business-administration/600/dba-600
+Credits: 1
+Prerequisites: None
+
+Description:
+In this course, students are introduced to essential aspects of the CityU DBA program. The topics covered in this course helps them prepare for doctoral-level course work. Emphasis is placed on recognizing the structure of the DBA program, familiarizing students with CityU academic policies, discovering successful online learning approaches, developing doctoral written and oral communications, and understanding effective research strategies. Successfully completing this course is a requirement to pursue the DBA program.
+
+Outcomes:
+This course will prepare students to:
+1. Understand DBA program essentials to formulate successful doctoral study strategies.
+2. Develop strategies for online learning and doctoral writing.
+3. Practice the iteration research process to refine a researchable topic.

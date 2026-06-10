@@ -1,0 +1,17 @@
+Course Code: BUS330
+Title: BUS 330 Economic Analysis for Business Decisions (SS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/300/bus-330
+Credits: 5
+Prerequisites: None
+
+Description:
+This course applies microeconomics and macroeconomics theories to real world scenarios. The primary objective of the course is to teach students how to utilize analytical tools that help to gain an in-depth understanding of the business environment; make sense of the strategic interactions of enterprises; and facilitate effective economic decision making. The concepts familiarize students with the market structure, dynamics, and behaviors including how producers and consumers interact with one another and shape market behaviors. Key topics include consumer theory, intertemporal decisions, market structure, decisions under risk, externalities and market failures, economic forces, and business cycles. Upon completion of this course students will possess sufficient knowledge and skills to make proper judgements regarding the likely consequences of various economic events.
+
+Outcomes:
+This course will prepare students to:
+1. Discuss the effects of business cycles on the economy, market, and enterprises.
+2. Extend consumer behavior theory to “intertemporal decisions” (i.e. decisions that involve a trade-off between the present and the future).
+3. Explain how consumers make choices based on given restraints, such as income and the prices of goods and services.
+4. Interpret the effects of economic forces on the enterprise performance.
+5. Determine economies of scale including firm interactions in a competitive market in the short-run and the long-run.
+6. Explain how the market structure can affect the nature of competition and pricing.

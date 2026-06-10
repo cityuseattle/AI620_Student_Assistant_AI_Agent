@@ -1,0 +1,17 @@
+Course Code: BUS317
+Title: BUS 317 Finance *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/300/bus-317
+Credits: 5
+Prerequisites: MATH 138 is a pre-requisite for this course.
+
+Description:
+Finance is a way of thinking about economic problems that involve uncertainty over time. This course is designed to provide an introductory framework for understanding how financiers think, how they break down components of a financial problem, and how they make decisions as investors and corporations in the financial market. Core concepts include the flow of cash between the financial statements, financial statement analysis, time value of money, valuation, working capital management, intermediate and long- term financing, the cost of capital, capital budgeting, and securitization. In addition, this course will touch on advanced concepts including the latest issues in FinTech, such as robo-advisors, big data, blockchain technology, goal- based investing, gamification and behavioral finance.
+
+Outcomes:
+This course will prepare students to:
+1. Analyze the overall financial health of a firm through the computation of liquidity, solvency, and profitability ratios.
+2. Make informed decisions with regards to capital allocation and financial management of an organization based on current financial theories and best practices.
+3. Improve the corporate working capital position through cash and current asset management.
+4. Describe the element of long-term debt financing decisions, including bond yields and prices, and bond ratings.
+5. Apply the concepts of operating and financial leverage to product and financing decisions.
+6. Explore the future of finance using Fintech.

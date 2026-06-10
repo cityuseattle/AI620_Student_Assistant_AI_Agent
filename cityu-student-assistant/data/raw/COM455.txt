@@ -1,0 +1,16 @@
+Course Code: COM455
+Title: COM 455 Wonders of the Web: Communicating in the Digital Age (HU)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/com-communications-revised/400/com-455
+Credits: 5
+Prerequisites: None
+
+Description:
+New media technologies have changed the activities of writing and communicating. This course will critically examine the organization, design, and writing conventions for communication in the digital age. Students will analyze and apply effective design, identity, and writing styles and skills as they are introduced to hands-on writing situations and the communication demands of Web sites and other forms of digital media.
+
+Outcomes:
+This course will prepare students to:
+1. Analyze websites for design, content, style, and argument.
+2. Find, evaluate, and apply information in digital media.
+3. Compose compelling content for specific audiences, situations, and contexts through the use of digital technologies.
+4. Conceptually design website.
+5. Evaluate the purpose and audience of websites.

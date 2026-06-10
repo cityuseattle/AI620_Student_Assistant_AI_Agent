@@ -1,0 +1,17 @@
+Course Code: CS302
+Title: CS 302 Human Computer Interaction
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-302
+Credits: 5
+Prerequisites: None
+
+Description:
+This course provides an introduction to the fields of human computer interaction (HCI), software design and computer supported cooperative work (CSCW). These fields draw from many others including neurobiology, psychology and sociology, as well as computer science. Students will learn to apply concepts from these fields via user inquiry, use case narration, prototype design and usability studies. At the end of the course, students will be able to identify and analyze user needs and take them into account in the selection, creation, evaluation and administration of computer-based systems.
+
+Outcomes:
+As a result of this course, students will know or be able to do the following:
+1. Understand the relationship between user experience (UX), user interaction (UI), and usability.
+2. Apply computer-based prototyping tools used for visualization and communication to support project requirements ensuring user-centric design is applied.
+3. Analyze data collected with systematic user-centric methodologies using HCI principles to assess the quality of interaction design.
+4. Evaluate the design cycle within a team environment to redesign interfaces and build prototypes based on the results prioritization of user feedback.
+5. Evaluate user interaction and user experience through observation, interview, and experiment for usability testing.
+6. Create a prototype app interface that improves UX by applying the concepts of human-computer interaction (HCI).

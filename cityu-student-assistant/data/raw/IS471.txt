@@ -1,0 +1,16 @@
+Course Code: IS471
+Title: IS 471 Cyber Ethics (SS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-471
+Credits: 5
+Prerequisites: None
+
+Description:
+Cyber Ethics introduces students to the social, ethical, and policy dimensions of technology in organizations, schools, and society. This course examines access and equity issues, censorship, privacy, piracy, hacking, commercialization, literacy, online communication, intellectual property, crime, civil liberties, social media, and developing a "global community" through the Internet. It covers the students' understanding of professional and ethical responsibilities and awareness of ethical issues facing IT professionals is emphasized. It explores the analysis of situations involving ethical conflicts and the ability to make decisions based on professional codes of ethics and conduct is explored. Note: Name changed from Information Technology Ethics 7/1/2020.
+
+Outcomes:
+As a result of this course students will acquire course outcomes and demonstrate them through their assignments:
+1. Explain concepts, principles, and framework of ethics in technology.
+2. Apply ethical concepts, principles, skills, and tasks to maintain ethical environments in multiple organizations and societal settings.
+3. Analyze the impact of unethical, illegal behavior in cyber space.
+4. Evaluate professional responsibilities in terms of ethical principles.
+5. Create an ethics program for an organization utilizing professional code ethics and guidelines.

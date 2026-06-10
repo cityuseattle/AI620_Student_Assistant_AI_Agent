@@ -1,0 +1,11 @@
+Course Code: CS570
+Title: CS 570 Software Testing
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-570
+Credits: 3
+Prerequisites: None
+
+Description:
+This course looks at the theories and practical tools and techniques for the testing and validation of software. Testing includes unit, integration, regression and user acceptance testing using both black-box and white-box techniques. The course also covers developing and writing test cases, creating error reports, and tracking test status. Upon completion of the course the student should be comfortable designing and applying requirements to software systems testing.
+
+Outcomes:
+None

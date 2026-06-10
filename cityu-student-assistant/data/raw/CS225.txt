@@ -1,0 +1,11 @@
+Course Code: CS225
+Title: CS 225 Introduction to Web Design
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/200/cs-225
+Credits: 5
+Prerequisites: None
+
+Description:
+The course develops a student’s understanding and skills in web development and script programming to create dynamic websites. The course is an introductory course and builds a fundamental working knowledge of web technology and the ability to create a website. Students will apply knowledge of computer operation and basic symbolic logic to create a dynamic website. Students completing this course will have an understanding of the operation and construction of a dynamic website.
+
+Outcomes:
+None

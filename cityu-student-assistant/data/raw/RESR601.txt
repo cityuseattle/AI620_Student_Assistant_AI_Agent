@@ -1,0 +1,11 @@
+Course Code: RESR601
+Title: RESR 601 Residency 1
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/resr-research/600/resr-601
+Credits: 1
+Prerequisites: None
+
+Description:
+The first residency will focus on the skills needed to begin development of the Problem Statement, Purpose Statement, and Research Question sections of the Dissertation Prospectus.
+
+Outcomes:
+None

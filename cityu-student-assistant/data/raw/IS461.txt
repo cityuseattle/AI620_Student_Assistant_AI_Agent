@@ -1,0 +1,17 @@
+Course Code: IS461
+Title: IS 461 Information Security Overview *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-461
+Credits: 5
+Prerequisites: IS 306
+
+Description:
+This course introduces the student to the world of information security and information assurance. Students are exposed to a broad variety of concepts across the field of security including the triad of Confidentiality, Integrity, and Availability and the conflicts that arise from the processes of trying to simultaneously achieve the ideal. Students are also introduced to the roles and responsibilities for information security in an organization, and how people, culture, politics, regulations and other factors affect those roles. At the end of the course students will be prepared to study Information Security in depth.
+
+Outcomes:
+General Education Courses
+Transfer Credit Toward Advanced Standing
+Financial Policies and Financial Assistance
+Academic Policies
+Degree Requirements
+Commencement Exercises
+Program Information

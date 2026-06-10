@@ -1,0 +1,11 @@
+Course Code: EML465
+Title: EML 465 Mathematics: Calculus (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/eml-education-middle-level/400/eml-465
+Credits: 3
+Prerequisites: None
+
+Description:
+Math endorsement candidates develop conceptual understanding and procedural facility with calculus concepts. Topics include functions and absolute value, open and closed intervals, solutions of inequalities; limits, continuity, differentiation; derivatives, definite integrals, techniques of integration and differential equations; apply concepts of function, geometry, and trigonometry in solving problems involving calculus; use concepts of calculus and modeling to represent and solve problems taken from real world contexts. Upon successful completion of this course, candidates have content knowledge to help secondary students become college and career ready in calculus.
+
+Outcomes:
+None

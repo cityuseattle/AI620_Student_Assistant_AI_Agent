@@ -1,0 +1,11 @@
+Course Code: INT302
+Title: INT 302 International Economics (SS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/int-international-studies/300/int-302
+Credits: 5
+Prerequisites: None
+
+Description:
+An introduction to international economics and trade designed specifically for non-economics majors. Topics addressed include basic theories of trade, foreign exchange markets, balance of payments, tariffs and quotas, trade restrictions, trade balance, and the international debt crisis.
+
+Outcomes:
+None

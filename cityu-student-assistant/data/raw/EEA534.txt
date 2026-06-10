@@ -1,0 +1,16 @@
+Course Code: EEA534
+Title: EEA 534 Technologies for Learning *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/eea-educational-administration/500/eea-534
+Credits: 3
+Prerequisites: ECC 510
+
+Description:
+This course introduces students to both technology literacy and applications. Students learn to use digital tools to gather, evaluate, and use information to plan and conduct quality research, manage projects, solve problems, and make informed decisions. Applications include the electronic portfolio, instructional and curricular decisions, research and assessment, assistance to teachers, and the impact of technology on school and societal change.
+
+Outcomes:
+This course will prepare students to:
+1. Apply ethical practice in technology use.
+2. Apply technology skills.
+3. Evaluate responsible citizenship and contributions to community.
+4. Evaluate data for school improvement.
+5. Interpret individual differences in decisions and actions; demonstrate ability to negotiate across these differences.

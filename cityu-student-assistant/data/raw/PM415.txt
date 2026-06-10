@@ -1,0 +1,11 @@
+Course Code: PM415
+Title: PM 415 Agile/Scrum Methodologies *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-415
+Credits: 5
+Prerequisites: PM 406
+
+Description:
+This course provides an introduction and overview of agile methodologies as applied within project management. Topics include the development of a product backlog, determining how to calculate the optimal sprint capacity, determining priorities, building a sprint backlog, executing sprint development, reporting sprint progress to management, delivering value and retrospection. Students will learn and apply basic agile/scrum methodologies.
+
+Outcomes:
+None

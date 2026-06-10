@@ -1,0 +1,11 @@
+Course Code: CS131
+Title: CS 131 Computer Science I - C++
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/100/cs-131
+Credits: 5
+Prerequisites: None
+
+Description:
+This course provides an introduction to programming using the Standard C++ programming language. Students learn the basic concepts of assignment, iteration, and looping. The course includes extensive coverage of objects and the concepts of object-oriented programming. In addition, students will learn how to effectively structure a program.
+
+Outcomes:
+None

@@ -1,0 +1,15 @@
+Course Code: CS330
+Title: CS 330 Network Communications *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-330
+Credits: 5
+Prerequisites: For students to succeed in this course, CS132 or IS201 are required pre-requisites.
+
+Description:
+The Internet and computer networks are now ubiquitous, and a growing number of computing activities strongly depend on the correct operation of the underlying network. Networks, both fixed and mobile, are a key part of the computing environment of today and tomorrow. This course introduces students to foundational networking concepts, the Open Systems Interconnection (OSI), Internet Protocol (IP) networking models, and networking protocols. Students are introduced to tools and techniques for analyzing networks.
+
+Outcomes:
+1. Understand different network standards, components, and requirements of network protocols within a distributed computing setting.
+2. Apply the characteristics of various communication protocols to application requirements within a telecommunication system.
+3. Analyze several networking topologies in terms of robustness, expandability, and throughput used within a cloud enterprise.
+4. Evaluate different main issues related to network management and security.
+5. Create a network analysis report using diverse communication protocols to explain how the protocols are implemented.

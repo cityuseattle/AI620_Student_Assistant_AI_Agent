@@ -1,0 +1,16 @@
+Course Code: DA560
+Title: DA 560 Model Building and Deployment
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/da-data-analytics/500/da-560
+Credits: 3
+Prerequisites: None
+
+Description:
+In this course, students will construct and refine data models that address stakeholder questions and analytical hypotheses. Initial model construction will lead to quality assessment steps that drive model refinements until a suitable model is finalized. Once complete, the models will be deployed and tested to ensure that they perform as expected. At the end of this course, students will know how to build, refine, and deploy a number of different analytics models.
+
+Outcomes:
+This course will prepare students to:
+1. Assess various approaches to model development and select appropriate software tools.
+2. Evaluate and calibrate models and data.
+3. Integrate new models into existing model environments.
+4. Model and select testing approaches.
+5. Explain various model structures, their applications, and their benefits and drawbacks.

@@ -1,0 +1,11 @@
+Course Code: GSCM540
+Title: GSCM 540 Global Supply Network Design, Execution and Cost Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/gscm-global-supply-chain-management/500/gscm-540
+Credits: 3
+Prerequisites: None
+
+Description:
+This class focuses on global supply chain network design with emphasis on cost management and execution. Students learn and apply models and processes to design an optimum supply chain network based upon real-world scenarios, challenges, and dynamics. The network design incorporates end-to-end supply chain cost including purchase, production, warehousing, inventory, and transportation. The study of supply chain execution enhances students’ ability to optimize the use of all available supply chain assets, control costs, and deliver items to customers on time. Mastery of course concepts and skills enable students to help organizations maximize their return on investment while ensuring reliable supply and maintaining customer satisfaction.
+
+Outcomes:
+None

@@ -1,0 +1,11 @@
+Course Code: EMBA615
+Title: EMBA 615 Mergers and Acquisitions
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/emba-executive-mba/600/emba-615
+Credits: 3
+Prerequisites: None
+
+Description:
+In the mergers and acquisitions class, EMBA 615, students study concepts and methods related to combining two or more companies into a single entity. M&A basics, due diligence, valuation, integration planning, deal structuring, legal and regulatory issues, and post-merger management are introduced and evaluated.  Students will develop methods on how to research and evaluate potential target companies, determine their fair value, negotiate and finalize M&A deals, manage cultural differences, and achieve performance targets. The class will also cover the legal and regulatory requirements involved in M&A, including anti-trust regulations and SEC reporting requirements.
+
+Outcomes:
+None

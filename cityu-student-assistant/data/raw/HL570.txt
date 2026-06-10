@@ -1,0 +1,16 @@
+Course Code: HL570
+Title: HL 570 Operations Analysis in Healthcare
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/hl-healthcare/500/hl-570
+Credits: 3
+Prerequisites: None
+
+Description:
+In this course, students examine the factors that affect performance outcomes within healthcare organizations; methods to monitor, adjust, and improve performance; and techniques and tools of quantitative analysis of operations and decision support that assist in management of capacity issues, re-engineering, staffing, scheduling, productivity, and supply chain. Students examine other important concepts including operational assessment; patient care and related support care process improvement; a systems perspective on the organization and delivery of services; problem identification and improvement opportunities using analytical techniques; and performance data monitoring to identify trends and variation based on current operations.
+
+Outcomes:
+This course will prepare students to:
+Analyze evidence-based medicine.
+Analyze the tools used in Lean management.
+Compose a project management scope and work schedule.
+Explain the history of performance improvement in healthcare.
+Link balanced scorecard measures to quality.

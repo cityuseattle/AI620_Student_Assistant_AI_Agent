@@ -1,0 +1,15 @@
+Course Code: BUS440
+Title: BUS 440 Introduction to Data Science *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-440
+Credits: 5
+Prerequisites: BUS 426
+
+Description:
+The Dot-Com boom has enabled a fast transition into digitized business processes and customer relations. This transition has given organizations access to essential data to drive innovation and to adapt to rapid market changes. Organizations can utilize data science for collecting and analyzing large volumes of data generated across multiple sources to optimize business processes, improve productivity, and provide more value to their customers. A key challenge for the adoption of data science is that most resources are not easily accessible to business professionals who are a primary beneficiary of this data revolution. In this course, students pursue a "business- friendly" approach to data science. This course introduces key concepts of data science including data management, building and testing models, visualization, and real-world setup.
+
+Outcomes:
+This course will prepare students to:
+1. Differentiate between supervised and unsupervised machine learning methods and apply both methods to solve business problems.
+2. Build regression models, clusters, and classifiers using R.
+3. Explain the role of the data scientist in the business analytics process.
+4. Apply descriptive and inferential statistical tools to enhance strategic decision making.

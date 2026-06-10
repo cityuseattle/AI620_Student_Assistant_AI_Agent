@@ -1,0 +1,17 @@
+Course Code: AI520
+Title: AI 520 Natural Language Processing for Artificial Intelligence
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ai-artificial-intelligence/500/ai-520
+Credits: 3
+Prerequisites: None
+
+Description:
+This course is designed to provide students with foundational knowledge and understanding of natural language processing (NLP) methods and strategies. Students acquire knowledge to evaluate the strengths and weaknesses of various NLP technologies and frameworks utilizing NLP toolkits to create practical applications. Topics include text classification, language modeling, speech tagging, parsing, semantics, text summarization, and machine translation. Students research the core principles of natural language processing and its use in current and emerging technologies; they investigate new research initiatives that try to solve difficult issues organizations are confronted with.
+
+Outcomes:
+This course will prepare students to:
+1. Explain fundamental NLP concepts.
+2. Integrate researched current, and future uses of conversational AI.
+3. Apply current tools for text classification.
+4. Evaluate deep learning algorithms used in NLP.
+5. Evaluate tools and services for common use cases for text analysis and conversational AI.
+6. Design and implement an AI solution using NLP.

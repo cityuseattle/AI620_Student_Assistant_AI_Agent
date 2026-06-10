@@ -1,0 +1,17 @@
+Course Code: CY489
+Title: CY 489 Component Security *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/400/cy-489
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 330 and IS 345 are required pre-requisite
+
+Description:
+This course provides an in-depth examination of component security in cloud computing environments. Drawing on guidelines and best practices outlined by the Cloud Security Alliance, students gain competencies in secure software development, identity management, encryption methods, and other critical cloud security topics. Students build expertise in assessing and mitigating vulnerabilities in cloud components like operating systems, hypervisors, orchestration engines, and more. Upon successful completion of this course, students will be prepared to sit for the Certificate of Cloud Security Knowledge certification exam.
+
+Outcomes:
+This course will prepare students to:
+1. Explain component security in cloud service models, component lifecycle, and supply chain management security.
+2. Describe Governance and Enterprise Risk Management, Contracts and Electronic Discovery, legal, compliance and audit management frameworks in the cloud environment.
+3. Analyze secure component development for a software application.
+4. Evaluate secure cloud structures, processes, and services.
+5. Evaluate a software application using secure components in the cloud.
+6. Create a secure cloud architecture plan.

@@ -1,0 +1,16 @@
+Course Code: CY510
+Title: CY 510 Human and Organizational Security
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/500/cy-510
+Credits: 3
+Prerequisites: None
+
+Description:
+Protecting human and organization security requires studies of human behavior from the individual’s perspective and the organizations responsible for protecting individuals. Topics impacting individuals, identity management, social engineering, awareness and understanding, and data privacy expand to organization’s management of risk and defense against cyber-attacks. Students learn to align governance and policy, laws, ethics, compliance, and planning strategies to protect individuals.
+
+Outcomes:
+This course will prepare students to:
+1. Analyze organizational cultural and resources available to effectively support cybersecurity initiatives.
+2. Analyze the threat environment specific to an organization.
+3. Evaluate how the organizational cultural supports system or process, internal or external, will operate at the proposed level of trust.
+4. Create Cybersecurity policies, plans, and attitudes throughout an organization.
+5. Create a strategic approach to cybersecurity for an organization.

@@ -1,0 +1,16 @@
+Course Code: CY605
+Title: CY 605 Cybersecurity Auditing
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/600/cy-605
+Credits: 3
+Prerequisites: None
+
+Description:
+This course focuses on the methodology for auditing cybersecurity system controls and exploring the roles and responsibilities of information system auditors.  Topics cover the technology and auditing involved with securing modern computer systems, as well as providing an understanding of risks, control objectives, and standards. This course examines how companies ensure cybersecurity auditors protect their information assets.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the technical infrastructure and its influence on management and control procedures.
+2. Apply on-prem and cloud-based tools utilized in industry when conducting risk-based plans for information security programs.
+3. Analyze an information security audit plan for application development and its implementation in projects.
+4. Evaluate an information technology audit of a business continuity program plan.
+5. Create an information technology audit plan based on selected industry standards.

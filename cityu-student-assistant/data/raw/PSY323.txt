@@ -1,0 +1,15 @@
+Course Code: PSY323
+Title: PSY 323 Psychological Testing (SS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/psy-psychology/300/psy-323
+Credits: 5
+Prerequisites: None
+
+Description:
+This course presents a survey of assessment techniques and instruments for intelligence, personality, cognitive and special abilities, achievement, aptitude, and vocational interest. Students learn to evaluate tests, their uses and limitations.
+
+Outcomes:
+This course will prepare students to:
+Describe commonly used psychological, educational, and vocational testing instruments.
+Evaluate the major functions, strengths, and limitations of psychological testing.
+Assess the legal, cultural, professional, and ethical guidelines related to testing.
+Integrate the statistical concepts of reliability, validity, and errors of measurement in testing.

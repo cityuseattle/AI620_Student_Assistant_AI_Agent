@@ -1,0 +1,11 @@
+Course Code: ISEC614
+Title: ISEC 614 Breaking and Securing Applications I *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/isec-information-security/600/isec-614
+Credits: 3
+Prerequisites: ISEC 612
+
+Description:
+This course studies concepts and techniques for breaking and securing application programs. Students examine common security issues found in applications and how those are manifested in code and in some popular programming languages. Students take a hands-on approach to examining and fixing security issues. In addition, students will examine malware to understand how it specifically harms and propagates.
+
+Outcomes:
+None

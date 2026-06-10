@@ -1,0 +1,11 @@
+Course Code: CS687
+Title: CS 687 Computer Science Capstone *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-687
+Credits: 3
+Prerequisites: Final quarter of study except for elective courses.
+
+Description:
+The Computer Science Capstone is the capstone course for the Master of Science in Computer Science (MSCS) program. Students will demonstrate their ability to apply computer systems principles, tools, and techniques to a specific problem or research study, and to acquire and/or apply additional knowledge in a unique domain. This course integrates knowledge gained from previous coursework in the MSCS program.
+
+Outcomes:
+None

@@ -1,0 +1,16 @@
+Course Code: GSCM400
+Title: GSCM 400 Managing Global Operations and Value Chains
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/gscm-global-supply-chain-management/400/gscm-400
+Credits: 5
+Prerequisites: None
+
+Description:
+This class helps students understand the role of operations within the supply chain in both goods-producing and service-providing organizations. Three major components cultivate students’ foundation in relevant areas: (1) Basic concepts, terminology, and models of operations and supply chain management; (2) design of goods and services to support business strategy and the global value chains and processes that create and deliver them to customers; and (3) more tactical and day-to-day management issues of operating systems and supply chains. The cohesive body of knowledge that students gain in this course enables them to achieve competitive advantage in the growing field of supply chain management.
+
+Outcomes:
+This course will prepare students to:
+Describe the key trade-offs that managers must consider in designing supply chains.
+Identify, explain, and evaluate the integrated processes along the supply chain.
+Understand and apply the SCOR model to analyze and describe an organization’s supply chain and provide a basis for relevant improvements.
+Apply analytical concepts and frameworks to operations and supply chain management scenarios and develop relevant solution(s), recommendation(s), and/or action plan(s).
+Utilize critical thinking skills in operations and supply chain management to structure, analyze, and solve practical qualitative and/or quantitative problems.

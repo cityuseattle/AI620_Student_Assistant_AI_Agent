@@ -1,0 +1,11 @@
+Course Code: ISEC540
+Title: ISEC 540 Cyber Warfare
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/isec-information-security/500/isec-540
+Credits: 3
+Prerequisites: None
+
+Description:
+Cyber Space has joined air, land, sea and space as the latest domain of warfare. This course examines warfare in the cyber domain beginning with an understanding of how it fits within the context of traditional theory of war. The course examines how countries prepare and apply capabilities and strategies, the impacts of non-state actors, and the future development of cyber warfare. Students participate in a Cyber Warfare Strategic Exercise (CWSX). Students are prepared to understand the impact of the extension of warfare into the cyber domain.
+
+Outcomes:
+None

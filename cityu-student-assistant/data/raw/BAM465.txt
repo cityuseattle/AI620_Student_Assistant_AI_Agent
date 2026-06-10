@@ -1,0 +1,11 @@
+Course Code: BAM465
+Title: BAM 465 Manufacturing Operations
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bam-bachelor-of-arts-management/400/bam-465
+Credits: 20
+Prerequisites: None
+
+Description:
+This course is designed to meet the needs of students who want to move into supervisory and management roles in the manufacturing industry. Students will learn manufacturing operations management tools and techniques, and apply them to solve problems in the manufacturing industry. The course addresses the skills and knowledge in a wide range of key manufacturing technical and business areas including processes, systems and layout, quality control, cost control and regulation, and supply chain management. Emphasis is on the development of the critical thinking skills that are required for a successful career in a manufacturing management role.
+
+Outcomes:
+None

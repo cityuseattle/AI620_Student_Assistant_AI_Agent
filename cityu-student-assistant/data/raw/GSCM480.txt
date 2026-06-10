@@ -1,0 +1,11 @@
+Course Code: GSCM480
+Title: GSCM 480 Applied Research
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/gscm-global-supply-chain-management/400/gscm-480
+Credits: 5
+Prerequisites: None
+
+Description:
+This class grants students the opportunity to synthesize their coursework and field experiences in global supply chain management. The generative context of this course is designed to cultivate and enhance students’ technical and analytical skills, global vision, leadership, and project management, systems thinking, and engagement with professional organizations, communities, and supply chain practitioners. Students acquire this highly practical cohesive body of knowledge and skills through engaging in the following project options: (1) a comprehensive report in which they solve a supply chain issue in a specific area, (2) analyzing and solving a live case, or (3) completing an internship program.
+
+Outcomes:
+None

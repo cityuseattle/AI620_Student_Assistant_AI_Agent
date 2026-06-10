@@ -1,0 +1,11 @@
+Course Code: BSM205
+Title: BSM 205 Introduction to Operations *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bsm-business-major/200/bsm-205
+Credits: 5
+Prerequisites: MATH 107 or MATH 138 or MATH 141 or their equivalent or higher
+
+Description:
+This course provides an introduction to important concepts associated with business operations. The key operational issues that concern a business include market categories; tactical and strategic planning characteristics; consumer demand and pricing, employee staffing and scheduling concepts; inventory control and management; the business economic concepts of revenue, costs, and their relationships relative to meeting consumer demand and profit maximization. The relational operational distinctions between the basic financial elements of revenue, cost, profit, and business economics are also examined. At the completion of the course, students will have an understanding of workplace operational issues and a foundation for upper division management courses.
+
+Outcomes:
+None

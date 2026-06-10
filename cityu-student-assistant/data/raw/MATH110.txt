@@ -1,0 +1,17 @@
+Course Code: MATH110
+Title: MATH 110 Introduction to Data and Statistics (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/math-mathematics-_mat_-mth/100/math-110
+Credits: 5
+Prerequisites: None
+
+Description:
+This course is an introduction to the fundamental topics of statistics through real-world examples via qualitative approach for learning how to reason using data and statistics, incorporating quantitative methods to enhance understanding. Topics cover both descriptive and inferential statistics, including data types and measurements, visual displays of data, measures of central tendency and variation, types of distributions, probability, correlation, and hypothesis testing of differences, frequencies, and variations. Students need no prior knowledge of statistics but should have some knowledge of prealgebra mathematics.
+
+Outcomes:
+This course will prepare students to:
+Explain basic data ethics.
+Critically evaluate statistical data.
+Construct graphical interpretations of data.
+Present interpretation of data and summarize statistical findings.
+Apply statistical problem-solving techniques.
+Test hypotheses using appropriate statistical tests.

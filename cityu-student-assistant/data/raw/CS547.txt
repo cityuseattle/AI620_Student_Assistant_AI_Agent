@@ -1,0 +1,17 @@
+Course Code: CS547
+Title: CS 547 Secure Systems and Programs
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-547
+Credits: 3
+Prerequisites: None
+
+Description:
+This course covers the principles and practices of secure programming. The course covers coding practices which avoid introducing vulnerabilities which could be exploited. The course also covers the incorporation of security features and services such as encryption, authentication, and access control which allow the creation of a secure system. Virtual labs are included to provide students with “hands-on” experience in configuring, hardening and deploying virtual devices, such as web servers, to understand and combat common exploits. Students must be familiar with basic programming concepts such as syntax, structure, control-of-flow, program problem solving, as well as computing resources.
+
+Outcomes:
+General Education Courses
+Transfer Credit Toward Advanced Standing
+Financial Policies and Financial Assistance
+Academic Policies
+Degree Requirements
+Commencement Exercises
+Program Information

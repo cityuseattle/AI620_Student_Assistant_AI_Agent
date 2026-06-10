@@ -1,0 +1,17 @@
+Course Code: GS300
+Title: GS 300 Introduction to Data Interpretation
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/gs-general-studies/300/gs-300
+Credits: 5
+Prerequisites: None
+
+Description:
+In this course, students are introduced to  fundamental topics of data interpretation.  The topics covered in this course build on fundamentals of descriptive and inferential statistics, including data types and measurements, visual displays of data, and measures of central tendency and variation. By completing this course, students develop skills in qualitative research to learn how to reason using data and statistics, with emphasis on data-driven decisions. Students need no prior knowledge of statistics but should have some knowledge of prealgebra mathematics.
+
+Outcomes:
+This course will prepare students to:
+Explain the importance of data ethics.
+Demonstrate ability to use off-the-shelf programs/software for visualizing data.
+Critically evaluate statistical data and its visual representations.
+Present interpretations of data and summarize statistical findings.
+Present data-driven insights using data visualizations.
+Formulate projections and recommendations based on statistical analyses.

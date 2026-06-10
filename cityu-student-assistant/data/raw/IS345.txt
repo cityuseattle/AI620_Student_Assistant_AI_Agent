@@ -1,0 +1,17 @@
+Course Code: IS345
+Title: IS 345 Cybersecurity *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-345
+Credits: 5
+Prerequisites: For students to succeed in this course, IS 201 is a required pre-requisite.
+
+Description:
+Cybersecurity is an increasingly vital concern in today's highly networked digital world. This course provides an overview of the field, including the objectives of cybersecurity - Confidentiality, Integrity, and Availability (CIA), and the inherent conflicts in these objectives. Students will look at common threats and vulnerabilities and examine the risk management techniques and controls used to address them. Upon completing this course, students will have a solid foundation to study cybersecurity in more depth and be aware of the demands of cybersecurity consideration in all technology efforts. Note:  Name changed from Information Security 7/1/2020.
+
+Outcomes:
+This course will prepare students to:
+1. Understand a fundamental knowledge of cybersecurity principles, Confidentiality, 1. Integrity, and Availability, in the context of cybersecurity technical, organizational, and human systems.
+2. Understand adversarial thinking in relationship to threats, countermeasures, and strategies.
+3. Apply critical and ethical thinking to assess physical and cyber systems and components.
+4. Analyze physical and cyber systems in terms of data, software, network, component, system, human, organizational, and societal security.
+5. Evaluate the organizational cybersecurity elements of risk management, governance, and policy, law, ethics, and compliance by quantitative and qualitative thinking.
+6. Create solutions to solve cybersecurity problems related to systems maintenance, auditing, and vulnerability scanning.

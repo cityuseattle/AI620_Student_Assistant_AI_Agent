@@ -1,0 +1,17 @@
+Course Code: CY487
+Title: CY 487 Data Security *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/400/cy-487
+Credits: 5
+Prerequisites: For students to succeed in this course, IS 360 and IS 345 are required pre-requisites.
+
+Description:
+The course focuses on the protection of data at rest, during processing, and in transit. This course requires the application of mathematical and analytical algorithms to fully implement. Students completing this course will have an understanding of basic cryptography concepts, digital forensics, end-to-end secure communications, data integrity and authentication, and information storage security.
+
+Outcomes:
+As a result of this course students will acquire course outcomes and demonstrate them through their assignments:
+1. Explain the core principles and concepts of data security, including the CIA triad (confidentiality, integrity, availability).
+2. Manage symmetric and asymmetric encryption methods to protect sensitive data.
+3. Acquire practical experience using data security tools and techniques simulating real-world data security challenges.
+4. Respond to potential data threats, implement preventative measures, and effectively address data breaches to minimize impact.
+5. Evaluate the requirements of major data protection laws and regulations (e.g., GDPR, HIPAA) with corresponding compliance measures.
+6. Create access control strategies with embedded evaluation benchmarks to ensure that only authorized individuals can access specific data.

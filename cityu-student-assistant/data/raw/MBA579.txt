@@ -1,0 +1,17 @@
+Course Code: MBA579
+Title: MBA 579 Green Belt 01: Define and Measure
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-579
+Credits: 3
+Prerequisites: None
+
+Description:
+This course covers the first part of a two-phase learning plan for Six Sigma Green Belt. In this preliminary section, learners will be introduced to Define and Measure phases of the Define, Measure, Analyze, Improve, and Control (DMAIC) process. The cohesive body of knowledge that is presented in this class constructs the foundation that students need for effective identification and measurement of organizational opportunities. This course is designed to help students gain an in-depth understanding of the key decision points, systems and processes, tools, and methods that facilitate Define and Measure phases of Six Sigma projects.
+
+Outcomes:
+This course will prepare students to:
+Define, select, and calculate process capability indices.
+Describe and analyze sampling concepts including their bias, accuracy, and precision.
+Utilize gauge repeatability and reproducibility study to analyze measurement system capability.
+Develop a problem statement and evaluate it in relation to baseline performance.
+Select and apply Six Sigma tools and techniques to define an opportunity for improvement and measure process performance .
+Determine when to apply the Six Sigma methodology as opposed to other problem-solving approaches.

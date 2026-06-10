@@ -1,0 +1,11 @@
+Course Code: CS495
+Title: CS 495 Capstone I - Project Initiation *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-495
+Credits: 5
+Prerequisites: Substantial completion of the BSCS/BSIS program including the majority of emphasis courses.
+
+Description:
+The Capstone Project is a multi-disciplinary team project where the students have the opportunity to apply the concepts learned in their college experience to a real-world problem. In the first course of the sequence, students will identify their project, gather requirements, perform needed background research, create a project plan, develop designs, and begin development of their project.
+
+Outcomes:
+None

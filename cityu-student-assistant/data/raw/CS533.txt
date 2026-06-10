@@ -1,0 +1,11 @@
+Course Code: CS533
+Title: CS 533 Computer Architecture
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-533
+Credits: 3
+Prerequisites: None
+
+Description:
+This course provides students with a fundamental understanding of computer architecture and components including the ALU, registers, busses, i/o, memory and caches. Students gain an appreciation for machine and assembly languages and how different architectures are used to address challenges in computing. Students who have completed this course will understand how to use the hardware of a computer effectively.
+
+Outcomes:
+None

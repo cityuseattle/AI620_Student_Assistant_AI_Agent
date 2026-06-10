@@ -1,0 +1,11 @@
+Course Code: CS370
+Title: CS 370 Computer Organization and Architecture *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-370
+Credits: 5
+Prerequisites: CS 131, IS 340, and "Topics in Discrete Mathematics"
+
+Description:
+This course provides an introduction into the design of the digital computer. Topics include the design and implementation of logic circuits, data representation, assembly language programming, exception flow control and basic processor architecture. Students obtain a solid understanding of the hardware executing their programs and how to make efficient use of hardware capabilities.
+
+Outcomes:
+None

@@ -1,0 +1,16 @@
+Course Code: DS410
+Title: DS 410 Programming in Data Analytics *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/400/ds-410
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 251 and IS 360 are required pre-requisites.
+
+Description:
+This course introduces programming in data analytics. Topics include fundamental concepts of process automation, decision making, and programming concepts such as functions, modules, and classes. Upon completion of the course, students will have the ability to apply programming skills to solve common problems and build a solid foundation for more advanced programming concepts applied to data analysis.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the need for programming in data analytics in today’s business environment.
+2. Implement the fundamental concepts of programming in data analytics to build line-of-business applications.
+3. Analyze workflows across processes with programming in data analytics.
+4. Assess analytical results through visualizations and journey maps.
+5. Formulate solutions with programming in data analytics that multiply productivity.

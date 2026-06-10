@@ -1,0 +1,17 @@
+Course Code: FIN553
+Title: FIN 553 Capital Management and Fixed Income *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/fin-finance/500/fin-553
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This is the second course in a series of four that will introduce topics relevant to finance and at the same time, prepare students to sit for the Chartered Financial Analyst (CFA) Level I exam. Students will learn about corporate governance systems and processes, capital management, as well as aspects of working capital, including measures of leverage. Corporate fixed income markets, securities, and valuation are also covered.
+
+Outcomes:
+This course will prepare students to:
+Analyze the capital needs of companies in different stages of development.
+Compute asset allocation percentages based on firms portfolio management.
+Describe the comprehensive equity asset valuation models.
+Evaluate business plans for venture or angel investment.
+Evaluate investment and trading decisions.
+Evaluate the performance of capital management companies.

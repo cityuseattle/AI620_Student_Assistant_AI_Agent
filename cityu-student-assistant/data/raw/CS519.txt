@@ -1,0 +1,16 @@
+Course Code: CS519
+Title: CS 519 Cloud Computing
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-519
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces students to developing applications in a cloud environment. Students will explore the potential benefits of cloud computing, the paradigms, tools, and techniques used to create cloud applications, and how cloud services are managed. Students will develop their cloud applications. After taking this course, students will be prepared to create cloud applications, to evaluate the performance of cloud applications, and to explore emerging and advanced cloud computing techniques.
+
+Outcomes:
+As a result of this course, students will know or be able to do the following:
+1. Understand emerging and advanced cloud computing technologies.
+2. Apply paradigms, tools, and techniques for cloud computing.
+3. Analyze implementation and management of cloud services.
+4. Evaluate the potential benefits of cloud computing.
+5. Create an application using diverse cloud services.

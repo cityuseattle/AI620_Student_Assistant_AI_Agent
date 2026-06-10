@@ -1,0 +1,17 @@
+Course Code: PM406
+Title: PM 406 Project Risk and Change Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-406
+Credits: 5
+Prerequisites: None
+
+Description:
+This course utilizes a simulated project to teach students how to manage risk and crisis occurrence through a project’s life cycle. Strong emphasis is placed on integrating SWOT, Risk Breakdown Structure, and Risk Mitigation into the overarching project life cycle. Project leadership is explored in the context of building effective project teams and maintaining stakeholder relationships, especially in times of uncertainty and crisis. Students will learn and apply basic project management concepts related to identifying, classifying, and mitigating risk.
+
+Outcomes:
+This course will prepare students to:
+1. Develop and implement appropriate risk identification and mitigation plans for both anticipated and emergent risks.
+2. Demonstrate and ability to effectively work in a team environment.
+3. Establish the importance of projects as it relates to implementing and affecting organizational strategy and priority.
+4. Apply the following PM tools: SWOT, RBS, Risk Mitigation, and schedule control.
+5. Implement project control system to manage project change, communications, procurement, risk, quality and human resources.
+6. Demonstrate reflection and critical thinking as applied to high-stress risk and change management.

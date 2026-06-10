@@ -1,0 +1,11 @@
+Course Code: CS653
+Title: CS 653 Computer Systems Capstone - Analyze & Report *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-653
+Credits: 3
+Prerequisites: CS 652
+
+Description:
+In the Capstone, the student will demonstrate their abilities to apply Computer Systems principles, tools and techniques to a specific problem, and to acquire and/or apply additional knowledge in a unique problem domain. The Capstone should include elements related to specific emphasis area(s) of the student. In the third course in the sequence, Analyze and Report, the student will complete final validations and verifications, analyze and report on the outcomes of their research, development or other project efforts. The end product will be a thesis or written project report and an oral or video presentation in a public forum.
+
+Outcomes:
+None

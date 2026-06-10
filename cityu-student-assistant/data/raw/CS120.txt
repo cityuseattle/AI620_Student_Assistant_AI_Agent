@@ -1,0 +1,17 @@
+Course Code: CS120
+Title: CS 120 Fundamentals of Linux Operating Systems I
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/100/cs-120
+Credits: 5
+Prerequisites: None
+
+Description:
+This course introduces students to foundational operating systems and system administration concepts. It guides students to put these concepts in practice by mastering skills in a Linux environment through a mix of lectures, knowledge checks, reflective exercises, virtual labs, and hands-on practice.  Students learn Linux operating system concepts, master shell programming skills, and develop abilities to address both routine and exceptional administrative issues in a Linux environment. This course focuses on a beginning level of Linux operating systems.
+
+Outcomes:
+General Education Courses
+Transfer Credit Toward Advanced Standing
+Financial Policies and Financial Assistance
+Academic Policies
+Degree Requirements
+Commencement Exercises
+Program Information

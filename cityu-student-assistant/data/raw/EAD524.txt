@@ -1,0 +1,14 @@
+Course Code: EAD524
+Title: EAD 524 Instructional Design Technology
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ead-education-adult-education/500/ead-524
+Credits: 6
+Prerequisites: None
+
+Description:
+This course focuses on how learning professionals effectively incorporate technology, enhance the learning process, and improve outcomes for the diverse learning styles and needs of adult learners both in-person and online. This course covers the design, development, and integration of digital media to enhance the learning experience with emphasis placed on how media, emerging and mobile tools, and online applications influence technology-mediated learning environments. Students will learn how technology is transforming adult education by removing traditional barriers to learning in both online and in-person classrooms.
+
+Outcomes:
+This course will prepare students to:
+1. Explore the advent of online education and its implications.
+2. Evaluate current educational technologies for diversity, engagement, sustainability and to reduce barriers.
+3. Create a sample course using instructional design technology.

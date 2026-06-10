@@ -1,0 +1,11 @@
+Course Code: IS469
+Title: IS 469 Information Security Capstone *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-469
+Credits: 5
+Prerequisites: CS 481, IS 464, IS 468. Any exceptions must have special permission from the IS Program Director.
+
+Description:
+This is the final course in the BSIS Information Security Major. This course focuses on the comprehensive understanding of both technical and management skills learned throughout the Information Security major. The technical skills involve identifying, repairing, testing, and reporting on security vulnerabilities in networks. Management-oriented skills involve interpreting and possibly critiquing policy to insure adequate mitigation of security risks and compliance with policy requirements. Students will review a series of real world code sets, and apply their knowledge to ensuring that the recommendations to fix those code sets are reasonable and cost effective. Students will also discuss several case studies to reinforce and integrate the concepts that they learned in the previous courses and will investigate emerging trends such Web 2.0 and cloud computing and explore policy issues involved in these areas. After finishing this course, students will have an understanding of the technical and organizational complexity of information security. Students will also appreciate that information security is a continually evolving field and that keeping up with developments in the field will require a plan for lifelong learning.
+
+Outcomes:
+None

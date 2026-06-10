@@ -1,0 +1,11 @@
+Course Code: EDU350
+Title: EDU 350 Introduction to Field Experience
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/edu-education/300/edu-350
+Credits: 1
+Prerequisites: None
+
+Description:
+This course focuses on acquainting students with the resources, documents and peer interaction skills they will use during the course of their educational program. Emphasis is placed on becoming familiar with available professional resources, essential professional dispositions and collaboration skills. Practical application of this knowledge will assist students in successfully accessing needed resources during their educational program and developing professional competency.
+
+Outcomes:
+None

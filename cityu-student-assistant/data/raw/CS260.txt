@@ -1,0 +1,17 @@
+Course Code: CS260
+Title: CS 260 Full Stack Web Development - Python
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/200/cs-260
+Credits: 5
+Prerequisites: None
+
+Description:
+The course is currently under development.
+
+Outcomes:
+General Education Courses
+Transfer Credit Toward Advanced Standing
+Financial Policies and Financial Assistance
+Academic Policies
+Degree Requirements
+Commencement Exercises
+Program Information

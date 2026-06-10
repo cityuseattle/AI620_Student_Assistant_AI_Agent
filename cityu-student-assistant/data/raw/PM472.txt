@@ -1,0 +1,16 @@
+Course Code: PM472
+Title: PM 472 Emerging Topics in Project Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-472
+Credits: 5
+Prerequisites: None
+
+Description:
+This class is designed to familiarize students with a series of emerging trends that will evolve the discipline of project management and potentially shape its future. A key objective involves enhancing students’ understanding of developing concepts, methods, tools, and techniques in project management to help them create value for their organizations by properly selecting, customizing, and implementing novel solutions. The primary topics in this class include the VUCA environment, a shift toward Agile and Hybrid Project Management approaches, the remote work trend, emotional intelligence for project managers, Artificial Intelligence (AI) and its role in evolving project management, the Internet of Things, Blockchain, and trending project management tools and solutions. Emphasis will be placed on equipping students with practical knowledge and skills related to digital transformation and the adoption of proper technologies to enhance various dimensions of an organization’s project management function.
+
+Outcomes:
+This course will prepare students to:
+Devise an Artificial Intelligence-Project Management strategy and implementation plan.
+Assess an organization’s existing culture and value system to generate solutions for building an AI-ready culture.
+Identify risks and challenges associated with the adoption of a new technology.
+Select proper project management approaches for managing various types of projects.
+Develop an Internet of Things (IoT) solution for an organization’s project management function.

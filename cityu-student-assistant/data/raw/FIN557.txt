@@ -1,0 +1,17 @@
+Course Code: FIN557
+Title: FIN 557 Ethics and Portfolio Management *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/fin-finance/500/fin-557
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This is the fourth course in a series of four that will introduce topics relevant to finance and at the same time, prepare students to sit for the Chartered Financial Analyst (CFA) Level I exam. In this course, students will learn about the code of ethics and trust in the investment profession, global investment performance standards (GIPS), portfolio management, including portfolio risk and return, as well as technical analysis and topics around fintech investment management.
+
+Outcomes:
+This course will prepare students to:
+Explain the Code of Ethics and Standards of Professional Conduct.
+Explain the purpose of ethics and trust in the investment profession.
+Summarize the Global Investment Performance Standards (GIPS).
+Describe the Guidance of Standards I-VII for portfolio planning.
+Produce a strategy of portfolio management to assess a holistic picture in a corporation.
+Outline the process of portfolio planning and construction.

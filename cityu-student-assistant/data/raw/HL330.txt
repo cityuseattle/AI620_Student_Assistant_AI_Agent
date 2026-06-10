@@ -1,0 +1,16 @@
+Course Code: HL330
+Title: HL 330 Health Informatics
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/hl-healthcare/300/hl-330
+Credits: 5
+Prerequisites: None
+
+Description:
+Health informatics covers the use of information technology to support operational, management, and clinical decision making in a healthcare organization. This course provides students with an understanding of informatics and its healthcare applications. Emphasis is placed on the importance of security, privacy, and confidentiality of patient data. Students will gain knowledge of electronic medical records and their requirements of integration and interoperability. Students will become familiar with the use of mobile health technology, telemedicine, and wearable mobile devices.
+
+Outcomes:
+This course will prepare students to:
+Analyze the balance between cost, quality, and access when implementing new technology.
+Describe the ethical and legislative aspects associated with health informatics.
+Investigate how health informatics and technology support the operational, managerial, and clinical decision making in a healthcare organization.
+Outline the technology trends in healthcare information systems.
+Understand the concept of meaningful use of an electronic health record (EHR), and describe some of the criteria that both individual providers and hospitals need to achieve to earn incentives for meaningfully using an EHR.

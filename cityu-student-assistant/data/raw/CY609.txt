@@ -1,0 +1,16 @@
+Course Code: CY609
+Title: CY 609 Software Security
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/600/cy-609
+Credits: 3
+Prerequisites: None
+
+Description:
+This course practices the development and use of software that reliably preserves the security properties of the information and systems it protects. Topics include fundamental and advanced security and software design principles, documentation, and systems requirements. Candidates apply information learned in this course to assess and embed systems and software security into an enterprise environment.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the fundamentals of design principles and secure life cycle development,
+2. Apply security metrics to design, implementation, testing, deployment, and maintenance.
+3. Analyze tools and techniques used to test software security.
+4. Evaluate systems architecture that supports the Continuous integration/Continuous development (CICD) lifecycle.
+5. Create a CICD project in a cloud environment.

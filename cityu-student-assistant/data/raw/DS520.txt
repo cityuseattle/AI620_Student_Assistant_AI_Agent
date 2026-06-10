@@ -1,0 +1,17 @@
+Course Code: DS520
+Title: DS 520 Data Mining
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/500/ds-520
+Credits: 3
+Prerequisites: None
+
+Description:
+Data mining involves the processing, analysis, and presentation of data to gain valuable information. Emphasis is placed on preparing high-quality, appropriate data that is relevant to the problem being assessed. Topics include clustering, classification, regression, pattern mining, prediction, association, and outlier detection, with attention being given to various forms of data, including time-series data and web data. Students will develop an understanding that many of these concepts depend on the notion of data proximity.
+
+Outcomes:
+As a result of this course, students will know or be able to do the following:
+1. Understand the metrics appropriate for comparing various kinds of data.
+2. Understand the importance of feature selection for clustering, classification, and regression.
+3. Apply the Apriori algorithm to a range of applications for pattern mining.
+4. Analyze the data that may benefit from the use of regression and classification models.
+5. Evaluate the criteria that might lead to the selection of one method over another.
+6. Create a data mining deliverable using appropriate algorithms.

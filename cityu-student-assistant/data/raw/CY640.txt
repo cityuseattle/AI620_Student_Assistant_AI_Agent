@@ -1,0 +1,16 @@
+Course Code: CY640
+Title: CY 640 Software Reverse Engineering
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/600/cy-640
+Credits: 3
+Prerequisites: None
+
+Description:
+This course provides the ability to deduce the design of a software component, to determine how something works (i.e., recover the software specification), discover data used by software, and to aid in the analysis of software via disassembly and/or decompilation. Topics include malware analysis and auditing of closed source software. The ability to understand the software of unknown origin or software for which source code is unavailable is a critical skill within the cyber operations field. Covered the following topics: reverse engineering techniques; reverse engineering for software specification recovery; reverse engineering for malware analysis; reverse engineering communications (to uncover communications protocols) deobfuscation of obfuscated code; common tools for reverse engineering such as disassemblers, debuggers, virtualization-based sandbox environments, process and file activity monitors, and network activity monitors
+
+Outcomes:
+This course will prepare students to:
+1. Understand fundamental concepts of software reverse engineering.
+2. Apply fundamentals, tools and techniques across multiple operating systems.
+3. Analyze software construction, deconstruction, code analysis.
+4. Evaluate common tools, programs, reverse engineering scenarios.
+5. Create and execute a full-cycle reverse engineering procedure / process.

@@ -1,0 +1,11 @@
+Course Code: INT304
+Title: INT 304 International Law
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/int-international-studies/300/int-304
+Credits: 5
+Prerequisites: None
+
+Description:
+An examination and analysis of the fundamental concepts of international law. Topics examined include the development of a body of international law; rights of individuals and sovereign states within the international arena; territorial questions; international transactions; and the legal issues surrounding armed conflicts.
+
+Outcomes:
+None

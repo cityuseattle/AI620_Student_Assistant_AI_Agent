@@ -1,0 +1,11 @@
+Course Code: EMBA570
+Title: EMBA 570 Global Operations and Enablement
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/emba-executive-mba/500/emba-570
+Credits: 3
+Prerequisites: None
+
+Description:
+Our class on Global Operations and Enablement, EMBA 570, provides students with a comprehensive understanding of the challenges and opportunities associated with operating in a global environment. The course covers key topics such as global supply chain management, logistics, global operations management, cross-cultural management, global technology management, global risk management, and sustainability in global operations. Students will learn about the principles and practices of managing operations and supply chains in a global setting, as well as the cultural, technological, and risk factors that must be considered. Additionally students will explore the use of technology, including information systems, e-commerce, and digital transformation, to support and enhance global operations.
+
+Outcomes:
+None

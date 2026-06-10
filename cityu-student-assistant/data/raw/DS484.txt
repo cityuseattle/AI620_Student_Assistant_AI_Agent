@@ -1,0 +1,11 @@
+Course Code: DS484
+Title: DS 484 Big Data Systems *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/400/ds-484
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 340 and IS 360 are required pre-requisite
+
+Description:
+The term 'Big Data' has been coined to describe large systems; these might include, for instance, files of videos, images, handwriting, etc. that cannot be accommodated on a single server. Such systems introduce problems of scale: how to store vast quantities of data, how to be sure the data is of high quality, how to process that in efficient ways, and how to derive insights that prove useful. Students completing this course will understand the problems of scale, big data computing architectures, parallel computing frameworks, distributed data storage, parallel programming, and techniques for big data applications.
+
+Outcomes:
+None

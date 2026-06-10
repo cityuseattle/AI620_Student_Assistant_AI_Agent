@@ -1,0 +1,15 @@
+Course Code: IS360
+Title: IS 360 Database Technologies *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-360
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 132 or IS 201 are required pre-requisites.
+
+Description:
+This course covers relational (SQL) and non-relational (NoSQL) data models. Advantages and disadvantages of the different data models are discussed. The emphasis is on understanding why information resources using different data models are of critical importance and how to manage them. Topics include foundational concepts of SQL and NoSQL data models such as information management, perspectives and impact, data-information concepts, data modeling, database query languages, data organization architecture, special-purpose databases, and managing the database environment. The course concludes with a discussion of the future directions of database technologies.
+
+Outcomes:
+1. Express how the growth of the internet and demands for information have changed data handling and transactional and analytical processing, and lead to the creation of NoSQL databases. (Requirements).
+2. Design and implement a physical model based on appropriate organization rules for a given scenario including the impact of SQL and NoSQL data models. (Requirements and Development).
+3. Create working SQL and NoSQL statements for simple and intermediate queries to create and modify data and database objects to store, manipulate and analyze enterprise data. (Testing and Performance).
+4. Analyze ways data fragmentation, replication, and allocation affect SQL and NoSQL database performance in an enterprise environment. (Integration and Evaluation).
+5. Perform major database administration tasks such as create and manage database users, roles and privileges, backup, and restore database objects to ensure organizational efficiency, continuity, and information security. (Testing and performance).

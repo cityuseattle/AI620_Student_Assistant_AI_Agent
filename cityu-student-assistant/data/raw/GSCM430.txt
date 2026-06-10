@@ -1,0 +1,16 @@
+Course Code: GSCM430
+Title: GSCM 430 Optimizing Global Logistics and Supply Chain
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/gscm-global-supply-chain-management/400/gscm-430
+Credits: 5
+Prerequisites: None
+
+Description:
+This class equips students with the necessary knowledge and skills to examine how information, materials, products, and services flow across the public and private sectors and around the world. Addressing both practical and strategic perspectives, this course offers students a balanced and integrated presentation of global Logistics and Supply Chain Management (LSCM) concepts, practices, technologies, and applications. Students gain real-world insights on supply chain relationships, transport security, inventory management, supply chain designs and optimization, the challenges inherent to globalization and international trade, and more. Through analyzing examples of LSCM in international corporations and challenging their practical knowledge of relevant concepts using detailed case studies in a wide range of contexts, students acquire the highly valued competencies that suppliers, manufacturers, and retail buyers of goods demand across the globe.
+
+Outcomes:
+This course will prepare students to:
+Understand and apply key concepts, methods, and strategies in global logistics and supply chain management.
+Analyze, assess, and solve design issues and challenges in global logistics and supply chain management.
+Explore opportunities to create a competitive advantage with substantiality.
+Identify the sources and types of supply chain risks and propose relevant mitigation strategies.
+Optimize global logistics and supply chain through management science applications.

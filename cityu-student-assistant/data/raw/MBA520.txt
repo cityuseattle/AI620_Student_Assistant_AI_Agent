@@ -1,0 +1,16 @@
+Course Code: MBA520
+Title: MBA 520 Managing with Technology *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-520
+Credits: 3
+Prerequisites: MBA 500, MBA 501
+
+Description:
+Information systems and technology have become the key to running effective businesses. Students and future business leaders will learn: how to co-evolve new and innovative business and IT strategies in the face of emerging and disruptive technologies, how technology is applied in their particular industry, and how to assess and measure the business value of technology. In addition, this course will help business leaders develop strategies for collaborating with technologists and manage business risk from technical vulnerabilities.
+
+Outcomes:
+This course will prepare students to:
+Explore how, in the face of technical innovation and disruptive technologies, business and technology strategies co-evolve to create new capabilities.
+Develop a capacity to effectively collaborate with technology and technologists.
+Analyze governance, financial and risk mitigation considerations in information technology.
+Research and evaluate how technology, information systems and applications contribute to business success.
+Recognize the interplay among technology, business, legal, cultural and ethical issues.

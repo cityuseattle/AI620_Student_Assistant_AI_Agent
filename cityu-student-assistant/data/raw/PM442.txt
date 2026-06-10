@@ -1,0 +1,17 @@
+Course Code: PM442
+Title: PM 442 Introduction to System Dynamics
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-442
+Credits: 5
+Prerequisites: None
+
+Description:
+This course encourages a transition in student’s’ managerial perspective from linear into nonlinear and holistic, which helps to develop a more realistic understanding of organizational systems. Equipped with proper system dynamics modeling tools and techniques, students will learn to visualize a business organization in terms of the structures and policies that create dynamics and regulate performance. In addition, students will learn about simulation methods that enable them to experience the long-term side effects of decisions, systematically explore new strategies, and develop an understanding of complex systems, within a low-risk environment.
+
+Outcomes:
+This course will prepare students to:
+Demonstrate the importance of system dynamics and development in order to meet user requirements.
+Explain how IT supports business requirements in today’s intensely competitive environment, and describe major IT developments and trends.
+Explain the project life cycle and the activities within each phase of the cycle.
+Use of various software engineering analysis and design tools and techniques.
+Trace the evolution of system architecture.
+Apply database concepts to solve the real-world problems.

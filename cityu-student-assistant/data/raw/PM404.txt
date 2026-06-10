@@ -1,0 +1,16 @@
+Course Code: PM404
+Title: PM 404 Project Scheduling and Cost Management *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-404
+Credits: 5
+Prerequisites: PM 401
+
+Description:
+This course exposes students to the techniques and tools for project scheduling and cost management. It includes detailed discussions and a series of related learning exercises on the sequence of project activities, including creating work breakdown structures, creating integrated networks, scheduling, and project cost and schedule controls. Cost management introduces the basic approaches and methods associated with cost management, from the establishment of budgets and cost accounts to the monitoring, interpretation, and use of cost data throughout the life cycle of the project.
+
+Outcomes:
+This course will prepare students to:
+Analyze and refine project time and cost estimates to define project baseline, schedule and budget.
+Communicate project status and summary based on project analysis.
+Define and document project schedule, budget, resources, and quality.
+Analyze project progress by applying performance reporting, cost management, cost control analysis, identifying problems, recommending and justifying potential solutions using project management techniques to ensure activities are executed as planned.
+Demonstrate the importance of a work breakdown structure (WBS) to the management of a project and how it serves as a tool for project planning and control.

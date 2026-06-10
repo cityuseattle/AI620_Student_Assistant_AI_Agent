@@ -1,0 +1,11 @@
+Course Code: IS375
+Title: IS 375 C++ Intermediate *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-375
+Credits: 5
+Prerequisites: CS 131 and IS 360
+
+Description:
+In this course students further their understanding of the C++ programming language, applying it to the managed code environment, databases and Windows programming. In the first part of the course students use C++/CLI to create managed code. The course then covers designing, implementing and accessing databases to store large data sets. Students then implement Windows based programs using the Microsoft Foundation Classes (MFC). Students will learn the concepts of event-driven programming, message processing, and Windows program structure.
+
+Outcomes:
+None

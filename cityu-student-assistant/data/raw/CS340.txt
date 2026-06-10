@@ -1,0 +1,16 @@
+Course Code: CS340
+Title: CS 340 Operating Systems *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-340
+Credits: 5
+Prerequisites: For students to succeed in this course, CS132 or IS201 are required pre-requisites.
+
+Description:
+An operating system defines an abstraction of hardware and manages resource sharing among computer users. The topics in this area explain the basic knowledge of operating systems in the sense of interfacing an operating system to networks, teaching the difference between the kernel and user modes, and developing key approaches to operating system design and implementation.
+
+Outcomes:
+This course will prepare students to:
+1. Outline how an operating system functions and how it manages the operation of a computing device.
+2. Execute system administration principles to activities associated with the system administration.
+3. Analyze complex system administration problems.
+4. Evaluate professional responsibilities and informed judgments in system administration practices based on system security and ethical principles.
+5. Design a system administration solution to meet a given set of Linux system administration requirements.

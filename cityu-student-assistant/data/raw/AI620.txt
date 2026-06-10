@@ -1,0 +1,17 @@
+Course Code: AI620
+Title: AI 620 Emerging Topics in Artificial Intelligence
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ai-artificial-intelligence/600/ai-620
+Credits: 3
+Prerequisites: None
+
+Description:
+As AI innovations continue to bring new solutions, students need to understand the speed of AI adaptation. This course provides students opportunities to explore AI trends and solutions in depth, building on the concepts learned. Topics such as implementing computer vision solutions, NPL solutions, knowledge mining, conversational AI, robotics, ethical AI frameworks, and security configuration for various AI services in a virtual network will be covered.  Candidates will research innovative strategies to plan for future workforce and implement a project focusing on a specific problem and solution.
+
+Outcomes:
+This course will prepare students to:
+1. Explain current AI research topics and their future applications.
+2. Examine current uses of AI technologies and their advances.
+3. Apply use cases from research findings and identify AI solutions and potential problems in technological and social context.
+4. Analyze technological needs, methods, and tools for future AI applications.
+5. Evaluate the state of AI in ‘4IR’ (fourth industry revolution) / ‘Industry 4.0’ in medicine, entertainment, transportation, cybersecurity, and home market/vital tasks.
+6. Design industry solution to address 4IR and implement a prototype application using a cloud AI framework and services.

@@ -1,0 +1,15 @@
+Course Code: MATH107
+Title: MATH 107 Mathematical Reasoning and Its Applications (QSR or NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/math-mathematics-_mat_-mth/100/math-107
+Credits: 5
+Prerequisites: None
+
+Description:
+As an introduction to college mathematics, this course provides students with a solid foundation in prealgebra mathematics, providing essential mathematical knowledge and skills for real-world applications. Topics include real numbers, ratio and proportion, percent, practical geometry, evaluating algebraic expressions, graphing in the rectangular coordinate system, absolute value, measurement conversion between units, basic geometry, and solving algebraic equations. Operations with real numbers are reinforced through application problems. The focus of the curriculum is on enhancing quantitative literacy and empowering students with the mathematical knowledge and skills necessary for success in various disciplines, while emphasizing critical thinking, practical problem-solving, and reasoning. This course fulfills the college mathematics requirements at CityU. Students who need higher-level mathematics courses to fulfill their program requirements should instead take MATH 138.
+
+Outcomes:
+This course will prepare students to:
+1. Apply basic numerical operations accurately and efficiently in a variety of real-world contexts.
+2. Solve practical problems of real-world scenarios using basic algebraic principles, properties, and rules.
+3. Justify mathematical solutions to real-world problems using mathematical reasoning.
+4. Examine real-world applications of mathematical knowledge and skills in different personal and professional contexts.

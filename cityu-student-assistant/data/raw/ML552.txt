@@ -1,0 +1,15 @@
+Course Code: ML552
+Title: ML 552 Data Analytics and Visualization
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ml-managerial-leadership/500/ml-552
+Credits: 6
+Prerequisites: None
+
+Description:
+This course begins with the application of data-oriented analysis techniques for business intelligence and organizational decision-making. Students will examine a range of tools to enhance the managerial and leadership decision-making processes such as pivot tables, descriptive statistics, statistical process control for business process improvement, and data models to predict future trends. Then students will learn the best practices for communicating the results of their data analysis. They will analyze the questions the organization has asked, collect and analyze relevant data sets, and then present the results in a way that addresses the original questions.
+
+Outcomes:
+This course will prepare students to:
+Conduct a critical and descriptive analysis of current operational procedures to identify management and market opportunities.
+Prepare and critique presentations or documents that detail the results of data analysis projects.
+Describe how predictive analytics can be used to implement forward-looking strategies.
+Use prescriptive analytics to develop and drive operational plans that lead to sustainable organizational growth.

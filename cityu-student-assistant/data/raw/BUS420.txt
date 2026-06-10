@@ -1,0 +1,16 @@
+Course Code: BUS420
+Title: BUS 420 Artificial Intelligence (AI) Business Applications
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-420
+Credits: 5
+Prerequisites: None
+
+Description:
+This course is designed to introduce students to the field of Artificial Intelligence (AI) and how AI is applied in the business world. The global AI market is growing rapidly, and organizations will need to understand how to leverage AI strategically to remain competitive. An introduction to basic concepts in AI and the different AI capabilities will be the primary focus in this class. Some examples of these capabilities include computer vision, chatbots, recommender systems, and smart speakers. Students will work on real-world scenarios to identify proper areas for the application of AI to solve business problems and create value.
+
+Outcomes:
+This course will prepare students to:
+1. Understand AI core concepts, strategic role, capabilities, and methods.
+2. Analyze business problems and select the appropriate AI capability and methods to devise customized solutions and create value for the organization.
+3. Integrate complementary AI concepts with respect to the dynamics of the situation of interest to achieve business value.
+4. Identify appropriate situations and opportunities where AI capabilities and methods could enhance performance.
+5. Create a plan on how AI can be applied to solve a business problem.

@@ -1,0 +1,17 @@
+Course Code: BUS402
+Title: BUS 402 Managing Organizational Systems and Complexity *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-402
+Credits: 5
+Prerequisites: Course Entry Requirements: BUS 310, BUS 315, BUS 317, BUS 320, BUS 330, BUS 420, BUS 424, BUS 426, BUS 430, BUS 300, BUS 304
+
+Description:
+This course is designed to enhance students’ analytical skills in strategic thinking and decision-making through the examination of relevant concepts, tools, and techniques in Complexity Science and Strategic Management. A key component of the strategic management process involves “performing an internal audit,” which helps managers to develop an in-depth understanding of the company’s internal resources, operations, and capacities. The outputs of the internal audit represent strengths and weaknesses of the organization. Informed by the properties of complex systems and equipped with analytical perspectives and tools such as systems thinking and system archetypes, students will be able to analyze and gain insight into the firm’s patterns of behavior and dynamics within various sectors (e.g., management, marketing, finance, operations, and R&D). Students will learn to formulate effective strategies by integrating their knowledge of a company’s inner-workings and the external environment.
+
+Outcomes:
+This course will prepare students to:
+1. Describe the nature and role of an internal assessment in formulating strategies.
+2. Develop and use an Internal Factor Evaluation (IFE) Matrix.
+3. Summarize and evaluate the major strengths and weaknesses in the functional areas of a business.
+4. Identify the key components of a learning organization.
+5. Analyze the relationship between the concept of the learning organization and key properties of complex systems.
+6. Apply systems archetypes as diagnostic tools to make sense of a system’s behavior.

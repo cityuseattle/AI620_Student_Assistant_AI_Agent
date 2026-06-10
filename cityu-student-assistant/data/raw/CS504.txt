@@ -1,0 +1,11 @@
+Course Code: CS504
+Title: CS 504 Software Engineering
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-504
+Credits: 3
+Prerequisites: None
+
+Description:
+The Software Engineering discipline covers those activities used to produce and deliver quality code in a consistent manner. This course covers process models, methodologies, and architectures for producing code, as well as the project and configuration management processes to guide the software lifecycle. The course also looks at the critical areas of requirements engineering, documentation, and metrics. Students mastering this course will be prepared to participate in professional software engineering teams.
+
+Outcomes:
+None

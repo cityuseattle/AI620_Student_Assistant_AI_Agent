@@ -1,0 +1,11 @@
+Course Code: CS201
+Title: CS 201 Information Technologies for Managers
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/200/cs-201
+Credits: 5
+Prerequisites: None
+
+Description:
+This course provides an introduction to the world of information technology, including the Internet, software and hardware, telecommunications, databases, and e-commerce. It examines the opportunities, challenges, and ethical questions brought by the digital age. As a preparatory course for the bachelor's degree programs in management, it develops students' skills in commonly used applications.
+
+Outcomes:
+None

@@ -1,0 +1,15 @@
+Course Code: PM501
+Title: PM 501 Introduction to Project Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/500/pm-501
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces the practices that are fundamental to successful project management in a broad range of industry environments. Students are introduced to the knowledge and skills needed to be successful in this fast-growing professional field, including project planning, scheduling, and managing cost, quality, and risk, while monitoring the influences that can affect project scope and eventual project success. The challenges of working with diverse teams of internal and external resources are explored through activities and interaction with distributed teams.
+
+Outcomes:
+This course will prepare students to:
+Apply fundamental project management project initiation practices in the context of a team project.
+Investigate the code of ethics and professional conduct in project management.
+Determine the applicable stakeholders for a project.
+Develop solutions to real-world project management issues.

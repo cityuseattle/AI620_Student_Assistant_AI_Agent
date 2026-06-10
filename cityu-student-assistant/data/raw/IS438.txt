@@ -1,0 +1,11 @@
+Course Code: IS438
+Title: IS 438 Programming Special Topics *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-438
+Credits: 5
+Prerequisites: IS 423 or CS 423
+
+Description:
+This course studies one or more advanced topics in C++ programming. The topics are selected by the instructor based on instructor and student interest and current hot topics in programming. Topics may include: Concurrent Programming of multi-threaded applications, the Windows Run-time environment (WinRT), graphics and game programming, data analytics and visualization, or other topics of current or future interest. The course provides students with an opportunity to develop more advanced C++ programming skills.
+
+Outcomes:
+None

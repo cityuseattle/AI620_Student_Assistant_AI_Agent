@@ -1,0 +1,15 @@
+Course Code: SCI303
+Title: SCI 303 Oceanography (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/sci-science/300/sci-303
+Credits: 5
+Prerequisites: None
+
+Description:
+This course explores the field of oceanography by integrating current information and basic scientific principles used in the study of the oceans. Topics explored in this course cover the physical and ecological properties of oceanic systems and waterways. This includes an understanding of the structure of various ocean depth levels, marine life and ecosystems, and the impact that human activity has on these systems. With knowledge of these systems, students will be better equipped to make sustainable decisions in any professional field.
+
+Outcomes:
+This course will prepare students to:
+1. Describe how oceans influence Earth's processes, such as atmospheric and oceanic circulation, climate, and weather.
+2. Describe the structure and properties of the oceans.
+3. Explain how health of the oceans impacts sustainability of marine and human ecosystems.
+4. Present well-supported solutions to mitigating issues facing the oceans.

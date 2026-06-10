@@ -1,0 +1,11 @@
+Course Code: AC303
+Title: AC 303 Intermediate Accounting III *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ac-accounting/300/ac-303
+Credits: 5
+Prerequisites: AC 215 Fundamentals of Accounting or the equivalent
+
+Description:
+Intermediate Accounting III provides an in-depth examination of theory and practice of financial accounting. This course concentrates on the preparation and analysis of the statement of cash flows, accounting for income taxes, long term liabilities, leases, pensions, and post-retirement benefits, contributed capital, retained earnings, and earnings per share (EPS) calculations. Students will focus on the accounting principles and concepts governing these items according to both US and international accounting principles and frameworks.
+
+Outcomes:
+None

@@ -1,0 +1,17 @@
+Course Code: CS310
+Title: CS 310 Introduction to Medical Organizations, Operations & Terminology *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-310
+Credits: 5
+Prerequisites: IS 306 or CS 306
+
+Description:
+This course introduces the student to the health care industry through an information management viewpoint. The purpose of the course is to give students a foundational understanding of the health care industry to support future work. This course serves as an introduction to medical organizational history, structure and operation. The course covers clinical organizations and processes, as well as structure and processes of allied professions including billing and coding, finance and service providers. The course also familiarizes the student with medical terminology and the health information management profession. At the end of the course the student is ready to study health care information technology.
+
+Outcomes:
+General Education Courses
+Transfer Credit Toward Advanced Standing
+Financial Policies and Financial Assistance
+Academic Policies
+Degree Requirements
+Commencement Exercises
+Program Information

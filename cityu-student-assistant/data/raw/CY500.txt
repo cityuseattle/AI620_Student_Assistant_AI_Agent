@@ -1,0 +1,16 @@
+Course Code: CY500
+Title: CY 500 Cybersecurity Overview
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/500/cy-500
+Credits: 3
+Prerequisites: None
+
+Description:
+This course will provide an overview of cybersecurity management and an understanding of the challenging environment in which it is applied. Students need to understand the entire cybersecurity landscape, including rules, laws, corporate laws and rules, decision-making, working in teams, leadership, and other ways that cybersecurity is changing people and the workplace. The role of technology has also changed about managing and designing a cybersecurity response or policy within a company. The student will learn how to balance technology, risk, risk management, people, and corporate culture to respond to cybersecurity challenges.
+
+Outcomes:
+This course will prepare students to:
+1. Understand foundation and advance principles of cyber and information security.
+2. Apply tools and technologies to threats and controls in the information systems environment - Common Threats & Controls.
+3. Analyze how people, culture, politics, regulations, policy, accreditation, and compliance influence cyber security practices - Influences on Cybersecurity.
+4. Evaluate countermeasures and strategies to address threats and vulnerabilities.
+5. Create a cybersecurity and risk management strategic plan.

@@ -1,0 +1,11 @@
+Course Code: IS477
+Title: IS 477 Network Design and Acquisition *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-477
+Credits: 5
+Prerequisites: CS 300, CS 436
+
+Description:
+Students in this class will work in teams under the guidance of the instructor to develop requirements, analyze and design a network upgrade for a mid-sized company or other appropriate network for a customer. The students will learn to acquire and develop technical and performance requirements, as well as to apply principles of design to the network. The designs will encompass scalability, availability, performance, security, manageability, usability, adaptability and affordability. This course is the Capstone Course for the Networking Emphasis Area.
+
+Outcomes:
+None

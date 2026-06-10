@@ -1,0 +1,11 @@
+Course Code: CS545
+Title: CS 545 Applied Parallel Programming *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-545
+Credits: 3
+Prerequisites: CS 555 or equivalent
+
+Description:
+Computers containing multiple processors are becoming increasingly common in all areas of computing, from the smallest microprocessors with multiple cores, to large super-computers. To effectively use these machines requires an approach to programming which allows sections of the code, or threads, to process independently and concurrently (in parallel) while ensuring the threads are properly controlled and can communicate with each other when necessary. This course studies the basics of concurrency and provides students with hands-on experience in parallel programming.
+
+Outcomes:
+None

@@ -1,0 +1,15 @@
+Course Code: PM513
+Title: PM 513 Project Managers as Change Agents
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/500/pm-513
+Credits: 3
+Prerequisites: None
+
+Description:
+Organizations cannot remain static in today's ever-changing business environments. To do so would result in business failure. Projects and project managers aim to address this concern. With the understanding that projects are change endeavors, project managers are change agents and are looked to for leadership in times of business transition. With focus on diagnosing the root causes and need for organizational change, the personal psychology of change, and why change efforts commonly fail, this course enables the student to be an effective contributor and change agent in a constantly changing organization. To accomplish this aim, various organizational change management and business transition theories, concepts, techniques, and interventions are explored. Each student will define differing change management approaches most effectively applied in varying organizational situations and will create a business transition and change management strategy along with an integrated project plan and schedule that addresses the need for change and its interdependencies in complex business systems of today.
+
+Outcomes:
+This course will prepare students to:
+Demonstrate an understanding of internal and external pressures to change and the role of the project manager relative to organizational change.
+Conduct an organizational diagnosis to determine the need for change and recognize the type of change needed (incremental, revolutionary, discontinuous, continuous, proactive, reactive, etc.) and its implications with organizational performance.
+Demonstrate competencies using various tools and techniques to effectively communicate the change and the organizational value versus capacity to change.
+Understand the power of organizational culture and how it affects (inhibits/enables) change endeavors.

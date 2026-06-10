@@ -1,0 +1,11 @@
+Course Code: ISEC515
+Title: ISEC 515 Privacy and Open Systems
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/isec-information-security/500/isec-515
+Credits: 3
+Prerequisites: None
+
+Description:
+In the highly connected world in which we live, our personal information, classified data, and communications are increasingly vulnerable to interception, attack and abuses ranging from identity theft to restrictions on our freedoms. In this environment it is essential to address issues of privacy and anonymity. This course explores privacy policy, privacy engineering, cryptology, and the use of open systems designed to protect privacy. Students will leave this course with an understanding of how to ensure their organizations support privacy requirements and how to maintain privacy in communications..
+
+Outcomes:
+None

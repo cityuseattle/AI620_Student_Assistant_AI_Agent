@@ -1,0 +1,16 @@
+Course Code: IS456
+Title: IS 456 Database Systems Management *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-456
+Credits: 5
+Prerequisites: For students to succeed in this course, IS 360 is a required pre-requisite.
+
+Description:
+This course provides the students with an introduction to the core concepts in data and information management. It is centered around the core skills of identifying organizational information requirements, modeling them using conceptual data modeling techniques, converting the conceptual data models into logical/physical data models and verifying its structural characteristics, and implementing and utilizing a relational or non-relational database using an industrial-strength database management system. The course will also cover basic database administration tasks and critical concepts of data quality and data security. In addition to developing database applications, the course helps the students understand how large-scale packaged systems are highly dependent on the use of DBMSs. This course introduces data and information management technologies that provide decision support capabilities under the broad business intelligence umbrella.
+
+Outcomes:
+This course will prepare students to:
+1. Understand basic database concepts, including the structure an operation of the relational and non-relational data model, design principles, E-R diagrams, E-R modeling, data warehousing, client/server, and internet database environments
+2. Apply the concept of a database transaction and related database facilities, including concurrency control, journaling, backup and recovery, and data object locking and protocols.
+3. Analyze advanced database topics such as distributed database systems, data modeling techniques and the data warehouse.
+4. Evaluate administration and security issues, and three enterprise database management systems widely used by organizations.
+5. Create a database management and security plan for a database project.

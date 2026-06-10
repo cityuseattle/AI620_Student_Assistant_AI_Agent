@@ -1,0 +1,11 @@
+Course Code: CS223
+Title: CS 223 Fundamentals of Linus Operating Systems II
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/200/cs-223
+Credits: 5
+Prerequisites: None
+
+Description:
+. This course introduces students to foundational operating systems and system administration concepts. It guides students to put these concepts in practice by mastering skills in a Linux environment through a mix of lectures, knowledge checks, reflective exercises, virtual labs, and hands-on practice.  Students learn Linux operating system concepts, master shell programming skills, and develop abilities to address both routine and exceptional administrative issues in a Linux environment. This course focuses on making Linux operating systems work for beginning-level system administrators.
+
+Outcomes:
+None

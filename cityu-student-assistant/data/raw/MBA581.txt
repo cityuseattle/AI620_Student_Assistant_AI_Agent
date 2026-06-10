@@ -1,0 +1,16 @@
+Course Code: MBA581
+Title: MBA 581 Green Belt 02: Analyze, Improve and Control
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-581
+Credits: 3
+Prerequisites: None
+
+Description:
+This course covers the second part of a two-phase learning plan for Six Sigma Green Belt. This second course of Six Sigma Green Belt is focused on the last three phases of the Define, Measure, Analyze, Improve, and Control (DMAIC) process, which are Analyze, Improve and Control. The primary goal of Analyze phase is to identify and assess the root causes of problems and to propose solutions that are focused on the underlying causes. During the Improve phase of DMAIC, project teams implement these proposed solutions and select the best course of action to improve the business performance. When changes are implemented and it is determined that the improvement is achieved, it’s time to sustain the win and to ensure that results will be consistent over long term which is the main goal of the Control phase. Accordingly, this course is designed to help students gain an in-depth understanding of the key decision points, systems and processes, tools, and methods that facilitate Analyze, Improve and Control phases of Six Sigma projects. The cohesive body of knowledge that is presented in this class constructs the foundation that students need for the effective execution of the last three phases of DMAIC strategy.
+
+Outcomes:
+This course will prepare students to:
+Define and apply regression analysis, hypothesis testing and design of experiment (DOE) principles to determine casual relationships among different variables.
+Describe the objectives of statistical process control (SPC) including monitoring process performance and reducing variation within a process.
+Utilize root cause analysis methods to identify causes of problems.
+Apply lean tools and techniques to eliminate the seven-classic wastes.
+Select and apply basic concepts of total productive maintenance during control phase of DMAIC.

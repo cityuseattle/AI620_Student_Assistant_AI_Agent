@@ -1,0 +1,11 @@
+Course Code: ECU514
+Title: ECU 514 Technology for School Leaders
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ecu-education-core-graduate/500/ecu-514
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces candidates to technology literacy and applications in order to find, evaluate, and apply information to inform and improve student learning and teacher pedagogy. Candidates use digital tools to gather, evaluate, and use information in order to plan and conduct quality research, manage projects, solve problems, and make informed decisions. Applications include the electronic portfolio, instructional and curricular decisions, research and assessment, assistance to teachers, and the impact of technology on school and societal change.
+
+Outcomes:
+None

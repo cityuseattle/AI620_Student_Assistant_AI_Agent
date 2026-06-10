@@ -1,0 +1,17 @@
+Course Code: FIN555
+Title: FIN 555 Equity, Derivatives, and Alternatives *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/fin-finance/500/fin-555
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This is the third course in a series of four that will introduce topics relevant to finance and at the same time, prepare students to sit for the Chartered Financial Analyst (CFA) Level I exam. In this course students will learn the role of market organization and structure within companies and industries. This provides details in defining market efficiency, equity securities, derivatives, pricing, valuation, alternative investments, and marketing instruments.
+
+Outcomes:
+This course will prepare students to:
+Outline the possible alternative investments within a company.
+Evaluate the overall role of company structures and financial markets.
+Explain the function of derivatives, pricing, and valuation.
+Analyze the role of market efficiency within the stock market.
+Examine the purpose of equity securities within corporations.
+Provide recommendations to a company based on industry trends.

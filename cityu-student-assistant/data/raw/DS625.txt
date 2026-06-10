@@ -1,0 +1,17 @@
+Course Code: DS625
+Title: DS 625 Big Data Architectures and Systems
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/600/ds-625
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces students to the massive architectures and systems required to manage 'Big Data' effectively. The course focuses on the problems of scale in terms of storage, data integrity, process, insight extraction, and a range of techniques to address them. Students learn different theoretical and methodological issues employed in Big Data and apply their knowledge to simplify programming interfaces in developing Big Data applications.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the problems of managing and processing vast amounts of data.
+2. Understand the role of the storage hierarchy in dealing with Big Data.
+3. Apply appropriate algorithms to harness the processing power of the cluster.
+4. Analyze the benefits and limitations of concurrency and parallelism.
+5. Evaluate techniques to assist with handling Big Data.
+6. Create a Big Data application using cloud services.

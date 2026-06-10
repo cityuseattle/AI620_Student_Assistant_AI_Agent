@@ -1,0 +1,17 @@
+Course Code: AC540
+Title: AC 540 Auditing Techniques
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ac-accounting/500/ac-540
+Credits: 3
+Prerequisites: None
+
+Description:
+This course focuses on the methodology for auditing system controls and provides the fundamental concepts of auditing to help students explore the opportunities and challenges of being an information system auditor. Students will study auditing processes and technology involved with modern computer systems as well as obtain an understanding of risks, control objectives, and standards. The course examines the importance of internal controls and of audit planning to obtain appropriate evidence to prepare an audit report.
+
+Outcomes:
+This course will prepare the students to:
+1. Implement an audit plan to collect sufficient evidence to support audit objectives.
+2. Create a detailed and well-structured audit report including findings, conclusions and follow-up recommendations.
+3. Appraise the major types of risk faced by the IT functions and the internal controls to mitigate these risks.
+4. Assess the auditor’s responsibility to follow the various codes of professional ethics.
+5. Apply the risk-based audit planning process to determine the audit plan.
+6. Evaluate the standards, laws, and regulations governing IT audit.

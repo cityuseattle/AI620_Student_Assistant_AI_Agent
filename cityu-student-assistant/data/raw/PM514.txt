@@ -1,0 +1,17 @@
+Course Code: PM514
+Title: PM 514 Project Integration *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/500/pm-514
+Credits: 3
+Prerequisites: PM 501, PM 504, PM 507
+
+Description:
+The work of a project manager is continually challenging and situational based upon the broader business context in which a project operates. This integration course is conducted using multiple simulations that allow students to apply critical elements of project management in a variety of real-world scenarios and situational contexts. Applying knowledge from prior coursework in simulations will build practical understanding and integration of core project management tools and activities. In concert with the simulations, students are professionally facilitated through a process of reflective learning about the simulations, the project management discipline, and their planned career. The integrative learning summarizes the prior course work while preparing students for the remaining courses in the master's program. Upon completion of this course, the student will be eligible for the Graduate Certificate in Project Management and ready to proceed toward higher levels of learning in the MSPM degree program.
+
+Outcomes:
+This course will prepare students to:
+Demonstrate knowledge of project management frameworks and the role of the project manager.
+Apply project management tools, techniques, and tactics in various situations and business conditions.
+Master methods of conducting scheduling, impact assessment, and other paramount project management activities.
+Appreciate the complexity of project management especially relative to communications through verbal and written form, team development, and timing.
+Integrate project functions and components with organizational goals, strategies, and objectives.
+Apply skills to identify, define, combine, unify, and coordinate project management processes and activities.

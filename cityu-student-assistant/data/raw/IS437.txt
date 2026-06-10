@@ -1,0 +1,11 @@
+Course Code: IS437
+Title: IS 437 C++ Advanced *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-437
+Credits: 5
+Prerequisites: IS 375
+
+Description:
+This course focuses on the advanced concepts of C++ programming such as debugging techniques, creating windows applications, windows programming with Microsoft Foundation Classes (MFC), and working with dialogs and controls. Students also learn about object serialization and deserialization, writing windows forms applications accessing data sources, and creating application graphical user interface. The students will benefit from this class by obtaining a strong foundation to write better code.
+
+Outcomes:
+None

@@ -1,0 +1,17 @@
+Course Code: PM401
+Title: PM 401 Introduction to Project Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-401
+Credits: 5
+Prerequisites: None
+
+Description:
+Introduction to Project Management uses a real team project to manage a project’s life cycle. Emphasis is placed on activity networks, managing resources, and creating control mechanisms that minimize risk. Project leadership is explored in the context of building effective project teams and maintaining stakeholder relationships. Students will learn and apply basic project management concepts including time and resource constraints, planning, scheduling, work breakdown structure, Gantt Charts, network diagrams, and project control.
+
+Outcomes:
+This course will prepare students to:
+Recognize best practices from lessons learned.
+Explain the importance of the code of ethics and professional conduct in project management.
+Develop communication skills involving speech, written and presentation expertise and demonstrate those skills by conveying concepts, strategies, ideas and opinions.
+Explain the project life cycle and the activities within each phase of the cycle.
+Identify and apply fundamental project management practices.
+Demonstrate an ability to effectively work in a team environment.

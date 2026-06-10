@@ -1,0 +1,16 @@
+Course Code: CS368
+Title: CS 368 Object-Oriented Programming *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-368
+Credits: 5
+Prerequisites: Outcomes
+
+Description:
+This course provides students with the fundamental concepts and models of object-oriented programming (OOP) with an emphasis on designing reusable and maintainable software. Students learn topics including the development of object-oriented systems, including classes, objects, inheritance, encapsulation, polymorphism, and composition. Students also explore advanced topics such as abstract classes, error handling, design patterns, and operator overloading to create sophisticated solutions. Students leave understanding the underlying processes related to building robust and scalable object-oriented applications and the complexity of software development using modern, widely used, and sophisticated programming techniques.
+
+Outcomes:
+As a result of this course students will acquire course outcomes and demonstrate them through their assignments:
+1. Understand object-oriented programming principles and architecture.
+2. Apply object-oriented programming concepts to create reusable and maintainable code.
+3. Integrate advanced OOP components, such as inheritance, polymorphism, and composition, in software systems.
+4. Evaluate object-oriented design patterns and techniques for building scalable applications.
+5. Develop a functional application utilizing object-oriented programming principles and best practices.

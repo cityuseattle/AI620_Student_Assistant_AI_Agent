@@ -1,0 +1,17 @@
+Course Code: CS680
+Title: CS 680 Computer Science Internship *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-680
+Credits: 3
+Prerequisites: Student must have completed a minimum of 18 credit hours in the MSCS and be currently enrolled in a graduate program at City University with a cumulative GPA of 3.25 or higher. This class is repeatable for credit.
+
+Description:
+As a part of the City University Program, there is the option of using a professional internship to enhance the graduate school experience. Within this option, a student will be involved in designing, participating in, and reflecting upon the internship experience. An internship is a planned new learning activity, which provides the student with a business-related learning experience designed to enhance competency while integrating theory and practice within a given field. Students can repeat their internship for the second quarter in sequence.
+
+Outcomes:
+This course will prepare students to:
+1. Apply fundamental and advanced principles of computer science during internship.
+2. Apply SCRUM Principles.
+3. Analyze technical contributions and personal performance.
+4. Evaluate project impact and professional growth resulting from internship.
+5. Create an integrated assessment of the internship outcomes.
+6. Create a professional career trajectory based upon internship experience.

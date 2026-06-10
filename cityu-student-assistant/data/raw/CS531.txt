@@ -1,0 +1,11 @@
+Course Code: CS531
+Title: CS 531 Computational Biology
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-531
+Credits: 3
+Prerequisites: None
+
+Description:
+The field of computational and systems biology represents an integration of concepts and ideas from the biological sciences, engineering disciplines, and computer science. Recent advances in biology, including the human genome project and massively parallel approaches to probing biological samples, have created new opportunities to understand biological problems from a systems perspective. This course offers a clear exposition of the algorithmic principles driving advances in bioinformatics. Accessible to students in both biology and computer science, it strikes a unique balance between rigorous mathematics and practical techniques, emphasizing the ideas underlying algorithms rather than offering a collection of apparently unrelated problems. This course introduces biological and algorithmic ideas together, linking issues in computer science to biology and thus capturing the interest of students in both subjects.
+
+Outcomes:
+None

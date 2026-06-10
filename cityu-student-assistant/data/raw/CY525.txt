@@ -1,0 +1,16 @@
+Course Code: CY525
+Title: CY 525 Network and Wireless Security
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/500/cy-525
+Credits: 3
+Prerequisites: None
+
+Description:
+This course focuses on the security of the connections between components, including both physical and logical connections. Every cybersecurity professional must have a basic knowledge of digital communications and networking. Connections are how components interact. Much of this material could be introduced through examples, and then abstracting to the essentials and introducing the appropriate vocabulary. Topics include systems, architecture, models, and standards, physical component interfaces, software component interfaces, connection attacks, and transmission attacks.
+
+Outcomes:
+This course will prepare students to:
+1. Apply methods of wireless network attacks and network vulnerabilities.
+2. Analyze common security failures and encryption algorithms used with Wireless networks.
+3. Evaluate authentication systems.
+4. Create Wireless LAN Security Policies.
+5. Create SSL or Firewall based solutions against security threats, employ access control techniques to the existing computer platforms such as Unix/Linux and Windows.

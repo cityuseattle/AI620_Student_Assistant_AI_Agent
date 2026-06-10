@@ -1,0 +1,21 @@
+Course Code: EML485
+Title: EML 485 Mathematics: Probability and Statistics (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/eml-education-middle-level/400/eml-485
+Credits: 3
+Prerequisites: None
+
+Description:
+Candidates develop conceptual understanding of and procedural fluency with statistics and probability. Candidates learn to incorporate the standards of math practice within statistics and probability. Topics include summarizing, representing, and interpreting categorical and quantitative data; measures of central tendency, distributions, evaluation of random processes, populations and random sampling, randomization; single variable, multivariate, categorical, and continuous data; binomial probability distributions; the principles of probability; probability of compound events using technology to collect, represent, and analyze data; and using rules of probability to model, make predictions, evaluate decisions, and solve real world problems.  Upon successful completion of this course, candidates have the knowledge and skills to help K-12 students become college and career ready in probability and statistics
+
+Outcomes:
+General Education Courses
+Transfer Credit Toward Advanced Standing
+Financial Policies and Financial Assistance
+Academic Policies
+Degree Requirements
+Commencement Exercises
+Program Information
+This course will prepare students to:
+1. Develop conceptual understanding of and procedural facility with probability and statistics.
+2. Apply standards of mathematical practice in probability and statistics.
+3. Anticipate and plan for student misconceptions and common errors.

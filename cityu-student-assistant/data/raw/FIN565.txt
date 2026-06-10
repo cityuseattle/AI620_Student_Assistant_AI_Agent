@@ -1,0 +1,15 @@
+Course Code: FIN565
+Title: FIN 565 Machine Learning, AI, and Big Data Usage in Finance
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/fin-finance/500/fin-565
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces students to the core concepts of generative AI, big data, and large language models (LLMs) within the context of finance. Students explore the transformative applications of these technologies in the financial sector, focusing on both back-office operations and front-office strategies. The curriculum includes advanced topics to deepen understanding and expertise in cutting-edge financial technologies and trends. A significant component of the course involves a major project for which students select a specific financial application area, applying their knowledge to develop innovative, tech-powered solutions that create tangible value. Upon the completion of this course, students will be able to utilize theoretical insights and practical skills to effectively integrate relevant technologies into financial applications, driving innovation and creating substantial value in the finance industry.
+
+Outcomes:
+1. Develop detailed technical solutions for real-world finance-related challenges utilizing knowledge of generative AI, big data, and large language models.
+2. Formulate relevant and impactful project proposals leveraging advanced technologies based on analysis of financial problems and opportunities.
+3. Synthesize diverse information sources to justify the selected solution using appropriate strategic frameworks and conducting comprehensive evaluations of identified problems.
+4. Assess alternative implementation approaches for technology solutions by conducting thorough cost-benefit analyses to inform decision-making and optimize resource allocation.
+5. Evaluate the feasibility and alignment of proposed tech-powered solutions with organizational goals and strategies, considering potential risks and benefits.

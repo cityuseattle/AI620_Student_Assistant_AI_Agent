@@ -1,0 +1,11 @@
+Course Code: CS496
+Title: CS 496 Capstone II - Project Implementation and Validation *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-496
+Credits: 5
+Prerequisites: CS 495
+
+Description:
+The Capstone Project is a multi-disciplinary team project where the students have the opportunity to apply the concepts learned in their college experience to a real-world problem. In the second course of the sequence, students will implement the project they have identified and designed in the first course, validate their implementation, and present the results of their efforts.
+
+Outcomes:
+None

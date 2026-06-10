@@ -1,0 +1,14 @@
+Course Code: MATH151
+Title: MATH 151 Calculus (QSR or NS) *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/math-mathematics-_mat_-mth/100/math-151
+Credits: 5
+Prerequisites: MATH 141
+
+Description:
+This course covers the basic concepts and theory of differential and integral calculus of one variable, with emphasis on applications to business and economics. Additional applications are drawn from the natural and social sciences.
+
+Outcomes:
+This course will prepare students to:
+Identify calculus properties and rules.
+Evaluate calculus functions relating to change, applying limits, and using derivatives and integrals.
+Solve calculus problems to demonstrate understanding of course concepts and professional competency.

@@ -1,0 +1,16 @@
+Course Code: DS515
+Title: DS 515 Data Science Overview
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/500/ds-515
+Credits: 3
+Prerequisites: None
+
+Description:
+This course amalgamates data science and software engineering in a pragmatic manner. This course shows students how to derive value from data for an organization. The course covers project management and communications, as well as methods for data understanding and preparation that professional data scientists use to create and maintain a problem-solving pipeline. The course introduces students to the most useful data science frameworks and tools. This course explains, using many examples, all phases of a data science life cycle model from project initiation to data exploration and retrospection. Specific course topics include problem formulation; data acquisition, cleaning, and integration; feature engineering and extraction; data visualization; project management; teamwork and collaboration; and technical writing and presentations.
+
+Outcomes:
+This course will prepare students to:
+1. Apply data science project life cycle and rules for data acquisition, cleaning, and integration.
+2. Apply visualization tools to analyze data.
+3. Analyze categories of problems solvable with major data science tools.
+4. Evaluate outcomes of the supervised learning technique.
+5. Create a data science deliverable using appropriate frameworks and tools.

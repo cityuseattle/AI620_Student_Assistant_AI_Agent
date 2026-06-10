@@ -1,0 +1,17 @@
+Course Code: CS452
+Title: CS 452 Backend Web Development *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-452
+Credits: 5
+Prerequisites: For students to succeed in this course, CS132, IS 312 and IS 360 are required pre-requisites.
+
+Description:
+This course provides the fundamental concepts and models of backend web application development. Students learn the topics including the development of server-side application systems, server-side controllers, routers, business processes, and access to the database components. Students leave with a foundation in processes related to building functioning applications and the complexity of full-stack web application development using the latest tools and applications in backend frameworks.
+
+Outcomes:
+As a result of this course, students will be able to:
+1. Understand back-end framework, development, and full-stack architecture.
+2. Apply full-stack architecture to backend applications.
+3. Integrate back-end applications as part of full-stack development.
+4. Evaluate technologies for backend applications.
+5. Design a back-end application.
+6. Develop a back-end application utilizing full-stack technologies.

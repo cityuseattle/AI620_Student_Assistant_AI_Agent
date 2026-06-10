@@ -1,0 +1,11 @@
+Course Code: IS308
+Title: IS 308 Internet Technologies *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-308
+Credits: 5
+Prerequisites: CS 225
+
+Description:
+This course covers Internet technology including: physical devices and networks, protocols and services, and common network operating systems. The course focuses on a broad understanding of how to use and implement networks, including an introduction to physical and logical network design. This course will provide students with an understanding of networking and Internet Protocols (IP) they will use to design small- to mid-sized business networks or expand their knowledge in network-based application programming or network security.
+
+Outcomes:
+None

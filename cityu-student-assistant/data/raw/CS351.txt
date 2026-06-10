@@ -1,0 +1,17 @@
+Course Code: CS351
+Title: CS 351 Discrete Mathematics in Computing (NS) *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-351
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 251 is a required pre-requisite
+
+Description:
+Students are introduced to discrete mathematics concepts using a general-purpose programming language. Students walk through basic concepts such as variables, arithmetic sets, functions, algorithms, loops, strings, lists, dictionaries, files, number systems, Boolean algebra, statements, digital circuits, bitwise operators, sequences, sums, parity, invariants, and finite strategy games, counting, probabilities, vectors, matrices, polynomials, recurrence relations, recursion, graphs, number theory, and cryptology. Students complete a series of mathematics and programming exercises designed to build the ability to think with precision about both mathematical algorithms and the logic applied in programming.
+
+Outcomes:
+As a result of this course, students will know or be able to do the following:
+1. Understand basic discrete mathematics concepts such as: terminology of logic, functions, relations, sets programming algorithmic concepts such as loops, strings, etc...
+2. Explain basic properties of graphs and related discrete structures; relate the structures to practical examples.
+3. Apply formal methods of symbolic propositional and predicate logic, such as calculating validity of formulae and computing normal forms.
+4. Apply discrete mathematics concepts to solve problems using a programming language such as Python.
+5. Review a problem to determine underlying recurrence relations.
+6. Evaluate probabilities of events and expectations of random variables for elementary problems such as games of chance.

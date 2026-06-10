@@ -1,0 +1,16 @@
+Course Code: GSCM410
+Title: GSCM 410 Data Analytics for Supply Chain Excellence
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/gscm-global-supply-chain-management/400/gscm-410
+Credits: 5
+Prerequisites: None
+
+Description:
+This course helps students explore the application of data analytics to effectively assess and improve the supply chain processes including strategy, design, execution, and people. Students learn to evaluate the effectiveness of supply chain processes using data and analytical techniques to measure the quality-of-service delivery, decrease short order lead-times, improve ease of adapting to changing market and customer demands, increase efficiency of inventory management, and reduce operating costs. Emphasis is placed on analytic techniques including descriptive, predictive, and prescriptive analytics methodologies. Mastery of relevant concepts enables students to assess organizational processes using supply chain data, establish and evaluate metrics for supply chain solutions, and provide compelling evidence to stakeholders to facilitate decision-making.
+
+Outcomes:
+This course will prepare students to:
+Discuss the role of supply chain analytics in organizational processes.
+Analyze supply chain data using a variety of descriptive, predictive, and/or prescriptive analytics techniques.
+Generate and assess recommendations to improve supply chain process metrics, such as lead time, customer satisfaction, safety, and queuing time.
+Assess supply chain strategy, design, execution, and people processes against the supply chain framework using the SCOR model.
+Justify the results of supply chain analytics analyses to stakeholders to effect organizational change.

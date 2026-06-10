@@ -1,0 +1,17 @@
+Course Code: DS522
+Title: DS 522 Data Acquisition and Analytics
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/500/ds-522
+Credits: 3
+Prerequisites: None
+
+Description:
+As the base of data science, data should be acquired, integrated, pre-processed, analyzed, and visualized. The data acquisition is a crucial step to ensure both the quantity and quality of data and improve the effectiveness of the following steps of data processing. For the data scientist, it is also important to be aware of the range of options and possibilities and to be able to deploy the analyses as appropriate. Thus, a data scientist must understand concepts and approaches of data acquisition, including data shaping, information extraction, information integration, data reduction and compression, data transformation, as well as data cleaning. Through the use of graphs and other forms of diagrams, visualization can be used in providing readily understood summaries but can also greatly assist in guiding such activities as clustering and classification.
+
+Outcomes:
+This course will prepare students to:
+1. Apply the adoption of a user-centered approach to analysis and presentation.
+2. Apply data reduction and compression steps to a given data.
+3. Analyze rules for data cleaning according to the requirement of applications and data semantics.
+4. Evaluate techniques for data acquisition according to the features of data sources and applications.
+5. Evaluate the effectiveness of data transformation.
+6. Create effective approaches to visualization on a set of data.

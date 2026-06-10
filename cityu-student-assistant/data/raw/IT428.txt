@@ -1,0 +1,17 @@
+Course Code: IT428
+Title: IT 428 System Administration
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/it-information-technology/400/it-428
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 340 is a required pre-requisite.
+
+Description:
+This course prepares the student to evaluate integration choices for middleware platforms, demonstrate how these choices affect testing and evaluation within the development of an IT system, and develop and monitor effective and appropriate system administration policies within a government environment. Upon completion of the course, students will have the ability to facilitate the management, integration and security of the systems that support an organization.
+
+Outcomes:
+This course will prepare students to:
+1. Interpret basic concepts of system admin and security.
+2. Apply basic methodologies of System Administration including group policy controls and security.
+3. Analyze strategies for network backup, restoration operations, and incident handling in a digital network.
+4. Evaluate controls to protect digital networks from malware threats.
+5. Develop from the ground up a miniature corporate network.
+6. Create security policies and techniques to protect digital networks and applications from security vulnerabilities.

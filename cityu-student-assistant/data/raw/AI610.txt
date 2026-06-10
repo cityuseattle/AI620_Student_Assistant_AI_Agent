@@ -1,0 +1,17 @@
+Course Code: AI610
+Title: AI 610 Agent Based Systems
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ai-artificial-intelligence/600/ai-610
+Credits: 3
+Prerequisites: None
+
+Description:
+This course provides students with a comprehensive introduction to agents and multi-agent systems. Topics include agent architectures, distributed AI and agents, intelligent agents, multiagent systems, agent interaction, communication, and distributed decision-making models. Students evaluate current trends in intelligent agents and their use cases in business and industry and non-profit organizations. Students illustrate their knowledge designing a real-world application developed in a cloud-based framework SDK.
+
+Outcomes:
+This course will prepare students to:
+1. Explain basic concepts of agents and intelligent agent systems both from theoretical and practical point of view.
+2. Identify basic methodologies of single and multi-agent intelligent systems.
+3. Apply principles and methods of intelligent agents to a small-scale practical problem.
+4. Analyze methods, techniques, and tools for the use of intelligent agent-based systems.
+5. Evaluate current trends in intelligent agents and their use cases in business and industry and non-profit organizations.
+6. Design and implement an application of an agent-based system using cloud AI framework and services.

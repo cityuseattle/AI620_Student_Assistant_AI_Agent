@@ -1,0 +1,11 @@
+Course Code: INT301
+Title: INT 301 International Relations (SS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/int-international-studies/300/int-301
+Credits: 5
+Prerequisites: None
+
+Description:
+This course examines the interactions among states and the impact of international actors and events. It covers the major theoretical perspectives and concepts of international relations, applying them to international security and economic issues such as war and peace, terrorism, weapons of mass destruction, the role of international organizations, globalization, the North-South gap, and international development. Students will learn to analyze the behavior of states and non-state actors in the international arena and evaluate the outcomes of these actions. From this, students will develop tools to interpret and assess current world events for themselves.
+
+Outcomes:
+None

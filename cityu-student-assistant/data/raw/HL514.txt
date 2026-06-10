@@ -1,0 +1,15 @@
+Course Code: HL514
+Title: HL 514 Healthcare Informatics and Technology
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/hl-healthcare/500/hl-514
+Credits: 3
+Prerequisites: None
+
+Description:
+In this class, students will learn how information systems inform decisions that improve the management of patient care through the use of electronic medical records, and computerized physician order entry systems. Students will understand the organization's compliance with government mandates regarding information technology in healthcare organizations. Students will evaluate the use of web-based systems, social media, and mobile devices for increasing consumer knowledge of their healthcare condition.
+
+Outcomes:
+This course will prepare students to:
+Appraise the use of web-based systems for increasing consumer knowledge of healthcare conditions.
+Assess how systems inform decisions that improve care within a healthcare organization.
+Explain confidentiality laws pertaining to patient health information.
+Analyze the use of information systems in healthcare in the area of organizational compliance.

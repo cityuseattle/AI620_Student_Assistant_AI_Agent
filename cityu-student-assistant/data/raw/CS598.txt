@@ -1,0 +1,11 @@
+Course Code: CS598
+Title: CS 598 Computer Systems Graduate Internship *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-598
+Credits: 1 TO 3
+Prerequisites: Completed a minimum of 27 program graduate quarter credit hours at City University of Seattle; currently enrolled in a graduate program at City University with a cumulative GPA of 3.25 or higher.
+
+Description:
+As a part of the City University Program, there is the option of using a professional internship to enhance the graduate school experience. Within this option a student will be involved in designing, participating in, and reflecting upon the internship experience. An internship is a planned new learning activity which provides the student with a business-related learning experience designed to enhance competency while integrating theory and practice within a given field.
+
+Outcomes:
+None

@@ -1,0 +1,15 @@
+Course Code: FIN563
+Title: FIN 563 Crypto Assets, ICOs, and Disruptive Models in Finance
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/fin-finance/500/fin-563
+Credits: 3
+Prerequisites: None
+
+Description:
+In this class, students explore the transformative impact of blockchain technology and digital assets on the financial industry. The course covers the fundamentals of cryptocurrencies, the mechanics of Initial Coin Offerings (ICOs), and the innovative business models that are reshaping traditional financial services. Students analyze case studies of both successful and failed digital currency ventures, gaining a comprehensive understanding of the factors that influence outcomes. Emphasis is placed on an evaluation of the regulatory and ethical considerations surrounding these emerging technologies. Through hands-on projects and interactive discussions, learners will gain practical insights into the opportunities and risks associated with crypto assets.
+
+Outcomes:
+1. Assess regulatory and ethical challenges in the context of digital currencies and ICOs, proposing solutions to enhance market integrity and investor protection.
+2. Compare and contrast the reasons behind the success and failure of different digital currencies and ICOs, drawing insights into common patterns and anomalies.
+3. Evaluate various business models employed by successful ICOs, distinguishing the elements that have driven their viability and growth.
+4. Synthesize findings from case studies to formulate recommendations for future entrepreneurs and investors in the digital currency space.
+5. Analyze the evolution and influential milestones in the digital currency space, aiming to gain insight into the broader context and significant turning points.

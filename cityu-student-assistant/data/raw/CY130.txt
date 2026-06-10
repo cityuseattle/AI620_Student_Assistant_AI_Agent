@@ -1,0 +1,11 @@
+Course Code: CY130
+Title: CY 130 Cybersecurity II *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/100/cy-130
+Credits: 10
+Prerequisites: CY 125 is a pre-requisite for this course.
+
+Description:
+Students will develop fundamental skills in application development security, learning about how applications are built by building a simple web application in Python. Students will develop fundamental skills in reverse engineering, malware analysis, and secure system analysis as well as prepare to serve in the role of risk, governance, and compliance professionals in various cybersecurity disciplines.
+
+Outcomes:
+None

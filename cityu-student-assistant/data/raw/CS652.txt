@@ -1,0 +1,11 @@
+Course Code: CS652
+Title: CS 652 Computer Systems Capstone - Process *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-652
+Credits: 3
+Prerequisites: CS 651
+
+Description:
+In the Capstone, the student will demonstrate their abilities to apply Computer Systems principles, tools and techniques to a specific problem, and to acquire and/or apply additional knowledge in a unique problem domain. The Capstone should include elements related to specific emphasis area(s) of the student. In the second course in the sequence, Process, the student will conduct research, develop software and systems, or complete any other processes appropriate to the thesis or project.
+
+Outcomes:
+None

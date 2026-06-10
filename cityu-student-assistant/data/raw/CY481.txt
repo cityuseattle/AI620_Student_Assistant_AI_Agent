@@ -1,0 +1,17 @@
+Course Code: CY481
+Title: CY 481 Network Security *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/400/cy-481
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 330 and IS 345 are required pre-requisites.
+
+Description:
+This course examines the tools, processes and procedures used to secure computer networks. The course reviews network vulnerabilities, common attack vectors, and methods for preventing, detecting and minimizing the effects of network attacks using such tools as Firewalls and Intrusion Detection Systems. Students completing this course will have an understanding of how to secure and defend networks.
+
+Outcomes:
+This course will prepare students to:
+1. Understand how to secure and defend networks.
+2. Apply techniques to identify network vulnerabilities.
+3. Analyze network defense processes and procedures.
+4. Analyze layer-in-defense approach to network security.
+5. Evaluate firewalls and intrusion detection systems to defend against network attacks.
+6. Create strategies to secure and defend networks.

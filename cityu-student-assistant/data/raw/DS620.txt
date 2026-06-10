@@ -1,0 +1,17 @@
+Course Code: DS620
+Title: DS 620 Machine Learning & Deep Learning
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ds-data-science/600/ds-620
+Credits: 3
+Prerequisites: None
+
+Description:
+Machine Learning (ML), sometimes known as Statistical Learning, refers to a broad set of algorithms for identifying patterns in data to build models that might then be developed into a product. The availability of data, as well as the availability of computational processing power, have led to new and powerful techniques for large-scale learning called Deep Learning (DL). A data scientist should be aware of these types of algorithms, including challenges and methodologies that are unique to this type of learning. These methods are critical for data science. Data scientists should understand the algorithms they apply and make principled decisions about their use. This course will be focused heavily on projects and coding using ML and DL algorithms, with an in-depth description of the theory. Topics include general concepts of ML, supervised learning, unsupervised learning, mixed methods, and deep learning.
+
+Outcomes:
+This course will prepare students to:
+1. Understand foundational concepts in machine learning and deep learning.
+2. Apply machine learning algorithms following appropriate training and testing methodology.
+3. Apply deep learning models to a dataset using a deep learning toolkit.
+4. Analyze the performance of selected machine learning techniques.
+5. Evaluate deep learning approaches and select the most appropriate model for a given data set.
+6. Create a positive and informed perspective on the role of machine learning in Data Science.

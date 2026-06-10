@@ -1,0 +1,16 @@
+Course Code: PM450
+Title: PM 450 Managing Projects under Uncertainty *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-450
+Credits: 5
+Prerequisites: Outcomes
+
+Description:
+This course focuses on decision-making in project management and introduces different methods for leveraging modeling and analytical skills to address uncertainty. Many project aspects can contribute to the area of uncertainty and project managers need tools to proactively identify, clarify, and act to reduce uncertainty. Key topics include application of root cause analysis, problem framing, and agile project techniques and analytical simulation and optimization techniques to minimize uncertainty using tools such as linear programming, probability analysis, Monte Carlo simulation, and decision trees. Gaining knowledge in these areas can facilitate decision-making to reduce project uncertainty.
+
+Outcomes:
+This course will prepare students to:
+Identify and analyze project management problems that involve uncertainty.
+Explain problems through data and perform logical analyses.
+Develop models to enhance decision making under uncertainty.
+Assess model outputs for project management insights and actions.
+Identify value-creating opportunities using simulation and optimization models.

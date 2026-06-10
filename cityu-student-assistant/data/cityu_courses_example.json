@@ -1,0 +1,90 @@
+{
+  "courses": [
+    {
+      "code": "AI600",
+      "title": "Foundations of AI",
+      "credits": 3,
+      "description": "Introduction to AI concepts and history.",
+      "semester": "Fall 2025",
+      "professor": "Dr. Smith",
+      "prerequisites": []
+    },
+    {
+      "code": "AI610",
+      "title": "Machine Learning Fundamentals",
+      "credits": 3,
+      "description": "Core ML algorithms and theory.",
+      "semester": "Fall 2025",
+      "professor": "Dr. Johnson",
+      "prerequisites": [
+        {
+          "code": "AI600",
+          "type": "required",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "code": "AI620",
+      "title": "Machine Learning for AI",
+      "credits": 3,
+      "description": "Advanced ML applications.",
+      "semester": "Spring 2026",
+      "professor": "Dr. Williams",
+      "prerequisites": [
+        {
+          "code": "AI610",
+          "type": "required",
+          "notes": ""
+        },
+        {
+          "code": "MATH500",
+          "type": "recommended",
+          "notes": "Linear algebra helpful but not required"
+        }
+      ]
+    },
+    {
+      "code": "AI630",
+      "title": "Deep Learning",
+      "credits": 3,
+      "description": "Neural networks and deep architectures.",
+      "semester": "Spring 2026",
+      "professor": "Dr. Brown",
+      "prerequisites": [
+        {
+          "code": "AI620",
+          "type": "required",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "degree_requirements": [
+    {
+      "program": "MSAI",
+      "requirement_type": "Core",
+      "course_code": "AI600",
+      "notes": "Foundation course required for all MSAI students."
+    },
+    {
+      "program": "MSAI",
+      "requirement_type": "Core",
+      "course_code": "AI610",
+      "notes": "Foundation course required for all MSAI students."
+    },
+    {
+      "program": "MSAI",
+      "requirement_type": "Core",
+      "course_code": "AI620",
+      "notes": "Core elective - choose 1 of 2 advanced courses."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the prerequisites for AI620?",
+      "answer": "You need to complete AI610 (Machine Learning Fundamentals). Linear algebra (MATH500) is recommended but not required.",
+      "category": "Prerequisites"
+    }
+  ]
+}

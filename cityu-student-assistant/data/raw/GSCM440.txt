@@ -1,0 +1,16 @@
+Course Code: GSCM440
+Title: GSCM 440 Global Supply Network Design, Execution, and Cost Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/gscm-global-supply-chain-management/400/gscm-440
+Credits: 5
+Prerequisites: None
+
+Description:
+This class focuses on global supply chain network design with emphasis on cost management and execution. Students learn and apply models and processes to design an optimum supply chain network based upon real-world scenarios, challenges, and dynamics. The network design incorporates end-to-end supply chain cost including purchase, production, warehousing, inventory, and transportation. This course helps students realize: (1) how cost optimization plays a key role in ensuring supply chain and logistical efficiency; (2) a major cost center and source of cost savings involves supply chain execution, which reflects how companies drive the flow of goods from procurement to delivery; and (3) the study of supply chain execution enhances their ability to optimize the use of all available supply chain assets, control costs, and deliver items to customers on time. Mastery of course concepts and skills enable students to help organizations maximize their return on investment while ensuring reliable supply and maintaining customer satisfaction.
+
+Outcomes:
+This course will prepare students to:
+Understand and apply key concepts, methods, and strategies in global supply network design, cost management, and execution.
+Apply an effective process to design an optimum supply chain network for an organization.
+Analyze, assess, and solve design issues and challenges in global logistics, supply chain planning, and execution.
+Develop a global supply chain implementation plan.
+Assess supply chain strategies with the goal of optimizing total landed cost.

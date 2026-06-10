@@ -1,0 +1,16 @@
+Course Code: DA565
+Title: DA 565 Data Lifecycle Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/da-data-analytics/500/da-565
+Credits: 3
+Prerequisites: None
+
+Description:
+Analytics professionals must not only understand how to build data models, they must know how to deploy models in an enterprise environment. Once deployed, models need to be tested and recalibrated, and analysts must develop training so that others can utilize and understand their models. Finally, analysts need to carry models through their life cycle, evaluating their benefits and sunsetting models which no longer provide accurate results. This course covers domains VI and VII of the Certified Analytics Professional certification exam.
+
+Outcomes:
+This course will prepare students to:
+1. Evaluate the business benefit of an analytical model.
+2. Justify the initial structure of a model and validate model quality.
+3. Develop production models and support deployment of models.
+4. Recalibrate and maintain model and support training activities.
+5. Validate developed solutions and discuss findings.

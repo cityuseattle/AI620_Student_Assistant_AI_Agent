@@ -1,0 +1,11 @@
+Course Code: IS330
+Title: IS 330 Information Systems
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-330
+Credits: 5
+Prerequisites: None
+
+Description:
+Information systems are an integral part of all business activities and careers. This course is designed to introduce students to contemporary information systems and demonstrate how they are used throughout global organizations. The focus of this course will be on the critical components of information systems - people, software, hardware, data, and communication technologies, and how these components can be integrated and managed to create competitive advantage. Through the knowledge of how IS provides a competitive advantage, students will gain an understanding of how information is used in organizations and how IT enables improvement in quality, speed, and agility. This course also provides an introduction to systems and development concepts, technology acquisition, and various types of application software that have become prevalent or are emerging in modern organizations and society.
+
+Outcomes:
+None

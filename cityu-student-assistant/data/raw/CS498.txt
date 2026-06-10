@@ -1,0 +1,11 @@
+Course Code: CS498
+Title: CS 498 Comp Systems Undergraduate Internship
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-498
+Credits: 1 TO 5
+Prerequisites: None
+
+Description:
+As part of the City University of Seattle program, there is the option of using a professional internship to enhance the undergraduate school experience. Within this option, activities include designing, participating in, and reflecting upon the internship experience.
+
+Outcomes:
+None

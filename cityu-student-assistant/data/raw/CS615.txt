@@ -1,0 +1,11 @@
+Course Code: CS615
+Title: CS 615 Programming for Cloud Computing Environment *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-615
+Credits: 3
+Prerequisites: CS 519, CS 555
+
+Description:
+Cloud computing has become a major paradigm shift. It represents a novel way of implementing applications as services in a way that increases the agility of the organization while decreasing costs and speed of deployment. Programming in this new environment requires paying attention to the customer experience, scalability and security. This course prepares the student to be an effective programmer in this environment.
+
+Outcomes:
+None

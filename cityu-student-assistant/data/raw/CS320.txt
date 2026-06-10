@@ -1,0 +1,16 @@
+Course Code: CS320
+Title: CS 320 Fundamentals of Artificial Intelligence *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/300/cs-320
+Credits: 5
+Prerequisites: For students to succeed in this course, IS 201 is required pre-requisites.
+
+Description:
+This course provides a comprehensive introduction to artificial intelligence (AI), covering both traditional and generative AI concepts and techniques. Students gain an understanding of core AI principles, explore traditional AI methods, and investigate generative AI. The course includes hands-on practical applications and discussions on the ethical implications of AI and the societal impact of automation. Upon completing this course, students will be well-prepared to incorporate AI into their major fields of study.
+
+Outcomes:
+As a result of this course, students will acquire course outcomes and demonstrate them through their assignments:
+1. Understand the fundamental principles of traditional AI techniques and their applications across various industries.
+2. Apply programming skills to implement basic AI algorithms and models, utilizing theoretical knowledge to solve practical problems through hands-on projects.
+3. Analyze both traditional and Generative AI techniques.
+4. Evaluate AI techniques' strengths, weaknesses, and ethical implications in the context of applications.
+5. Design and develop a simple AI project incorporating traditional and Generative AI techniques.

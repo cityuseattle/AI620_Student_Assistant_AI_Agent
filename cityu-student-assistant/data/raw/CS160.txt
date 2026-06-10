@@ -1,0 +1,11 @@
+Course Code: CS160
+Title: CS 160 Web Programming - Python
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/100/cs-160
+Credits: 5
+Prerequisites: None
+
+Description:
+The purpose of this module is to help students establish basic competency in Python. Python's diversity, adaptability, and its elegant, easy-to-master basics set it apart from other programming languages, making it popular for use in web development, machine learning, data science, scientific computation, and cloud infrastructure. Students will study the concepts of Python, practice Python programming skills, and apply Python programming to diverse applications in database, web, networking, data science, and AI.
+
+Outcomes:
+None

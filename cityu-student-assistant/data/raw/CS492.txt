@@ -1,0 +1,11 @@
+Course Code: CS492
+Title: CS 492 Network Management *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/400/cs-492
+Credits: 5
+Prerequisites: CS 332
+
+Description:
+This course examines the protocols, tools and proccesses used to manage data communications networks. The students will explore the five domains of network management: fault, performance, configuration, accounting and security management. The course explores how to manage and maintain the networks studied in previous courses.
+
+Outcomes:
+None

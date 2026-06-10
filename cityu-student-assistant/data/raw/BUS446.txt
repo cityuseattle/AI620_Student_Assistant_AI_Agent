@@ -1,0 +1,15 @@
+Course Code: BUS446
+Title: BUS 446 Data Visualization and Dashboards *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-446
+Credits: 5
+Prerequisites: BUS 426
+
+Description:
+Analysis of data sets will be more effective if the information discovered is accurately conveyed to key organizational stakeholders. This class focuses on the best way to communicate the information that the data analysis is trying to tell. The course starts by teaching students best practices for telling stories with data and then turns its focus on using Tableau to set up data visualizations and dashboards. Students will complete the course with a full understanding of how to communicate data using Tableau.
+
+Outcomes:
+This course will prepare students to:
+1. Interpret information about organizational data in terms of its usefulness in strategic process decisions.
+2. Present data and analyses to stakeholders in a format that is clear and informative.
+3. Apply push and pull approaches to analytics reporting.
+4. Build visualizations and dashboards that managers can use to evaluate organizational performance and make strategic decisions.

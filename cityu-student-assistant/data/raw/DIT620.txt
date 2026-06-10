@@ -1,0 +1,16 @@
+Course Code: DIT620
+Title: DIT 620
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/dit-doctor-information-technology/dit-620
+Credits: 3
+Prerequisites: Outcomes
+
+Description:
+This course will focus on the critical elements of an IT innovation and change management strategy to effectively implement and execute IT projects in a complex and global environment. The course will draw on experiences from IT innovations across the globe. Students will examine the ever-increasing need to develop innovative and differentiating approaches to expanding organizational strategy and learning. This class will show IT leaders how to encourage members of their organizations to utilize new and innovative technologies.
+
+Outcomes:
+This course will prepare students to:
+1. Apply core principles and concepts of IT innovation and change management in business strategy.
+2. Analyze successful and failed practices of IT innovation through case studies of global enterprises.
+3. Analyze internal and external environments that foster or inhibit technology innovation and strategic change.
+4. Evaluate an organization’s competitiveness in the perspective of IT innovation and change management.
+5. Create a roadmap for competitive advantage through IT innovation and change management.

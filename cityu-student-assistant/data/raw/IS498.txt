@@ -1,0 +1,11 @@
+Course Code: IS498
+Title: IS 498 Internship *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/400/is-498
+Credits: 1 to 5
+Prerequisites: Completed a minimum of 135 quarter credit hours with at least 9 of those credit hours being completed at City University of Seattle. Currently enrolled at City University with a cumulative GPA of 3.0 or higher.
+
+Description:
+As part of a City University undergraduate degree program, there may be the opportunity of using an internship to enhance the learning experience. Within this option a student will be involved in designing, participating in, and reflecting upon the internship experience. An internship within Information Systems is a planned new learning activity which provides the student with an information systems-related learning experience designed to enhance the understanding of information systems practices in an active business environment.
+
+Outcomes:
+None

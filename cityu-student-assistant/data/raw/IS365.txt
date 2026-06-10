@@ -1,0 +1,11 @@
+Course Code: IS365
+Title: IS 365 C++ Introduction *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-365
+Credits: 5
+Prerequisites: IS 306
+
+Description:
+This course provides an introduction to programming using the Standard C++ programming language. Students learn the basic concepts of assignment, iteration, and looping. The course includes extensive coverage of objects and the concepts of object-oriented programming. In addition, students will learn how to effectively structure a program.
+
+Outcomes:
+None

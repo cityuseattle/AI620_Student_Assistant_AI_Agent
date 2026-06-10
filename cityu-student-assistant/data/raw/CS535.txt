@@ -1,0 +1,11 @@
+Course Code: CS535
+Title: CS 535 The Cloud Environment *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/500/cs-535
+Credits: 3
+Prerequisites: CS 519
+
+Description:
+This course explores the technology, systems and environments that make up the cloud environment. Students will explore how computing clouds are created, managed and monitored. The course will look at the systems, devices and processes used to build computing clouds.
+
+Outcomes:
+None

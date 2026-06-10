@@ -1,0 +1,11 @@
+Course Code: ISEC560
+Title: ISEC 560 Intellectual Property and Espionage
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/isec-information-security/500/isec-560
+Credits: 3
+Prerequisites: None
+
+Description:
+Intellectual property is the core currency of the digital economy. Patents, copyrights, trademarks and trade secrets represent the formal designation and protection of many intellectual properties. Other information is protected through classification and encryption. In this course students study how intellectual property is protected as well as how those protections are circumvented. The course will also study the role of espionage in obtaining trade secrets, classified data, and other valuable information.
+
+Outcomes:
+None

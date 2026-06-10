@@ -1,0 +1,17 @@
+Course Code: CY467
+Title: CY 467 Systems Security *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/400/cy-467
+Credits: 5
+Prerequisites: For students to succeed in this course, CS 340 and IS 345 are required pre-requisites.
+
+Description:
+This course focuses on the security aspects of systems that are composed of components and connections and use the software. Understanding the security of a system requires viewing it not only as a set of components and connections but also as a complete unit in and of itself. Systems security requires a holistic view of the system. Students completing this course will have an understanding of the holistic approach, security policy, authentication, access control, monitoring, recovery, testing, and documentation.
+
+Outcomes:
+This course will prepare students to:
+1. Understand computer and network security threats, classify the threats and develop a security model to prevent, detect and recover from the attacks.
+2. Understand vulnerabilities in source code / websites.
+3. Apply cryptography principles to encrypt and decrypt.
+4. Analyze simple security testing including SAST/DAST scanning and penetration testing.
+5. Analyze existing authentication and key agreement protocols.
+6. Create a threat model for an organization.

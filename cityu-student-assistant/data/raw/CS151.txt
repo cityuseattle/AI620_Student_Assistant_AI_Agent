@@ -1,0 +1,17 @@
+Course Code: CS151
+Title: CS 151 Programming with Python
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/100/cs-151
+Credits: 5
+Prerequisites: None
+
+Description:
+This course provides an introduction to programming using Python. Students learn the fundamental programming concepts of process, iteration, selection, functions, classes, and objects. Students learn to apply key data structures and algorithms in their programs. Throughout the course, students work in an immersive environment creating numerous programs to exercise their knowledge. At the end of the course, students have the ability to apply programming to many common problems and a solid foundation for more advanced programming concepts and challenges.
+
+Outcomes:
+This course will prepare students to:
+1. Explain how to apply the fundamental programming constructs to programming in Python.
+2. Demonstrate the fundamental programming constructs in Python: variables, expressions, assignments, basic computation, I/O.
+3. Describe singleton and collection data types.
+4. Demonstrate the fundamental programming in the flow of logic control using loops and conditional statements, functions and parameter passing.
+5. Describe primitive data types and data structures in Python such as arrays, strings, lists, tuples, dictionaries, and set.
+6. Demonstrate the fundamental problem-solving techniques in applying core components in Python.

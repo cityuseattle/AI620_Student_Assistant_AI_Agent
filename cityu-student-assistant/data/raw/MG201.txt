@@ -1,0 +1,11 @@
+Course Code: MG201
+Title: MG 201 Introduction to Functions of Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mg-management/200/mg-201
+Credits: 5
+Prerequisites: None
+
+Description:
+Introduction to planning, organizing, coordinating, staffing, directing, budgeting, controlling, and evaluating functions of management; leadership roles and styles, and development of individual and group effectiveness; managing conflict and change; and the human aspects of management.
+
+Outcomes:
+None

@@ -1,0 +1,15 @@
+Course Code: PM504
+Title: PM 504 Project Planning and Control
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/500/pm-504
+Credits: 3
+Prerequisites: None
+
+Description:
+Planning is central to project management and the second phase in the cycle of project management. This course will examine the beginning of the planning phase based upon the Project Management Body of Knowledge (PMBOK® Guide). In this course students will begin by reviewing the initiation phase and move into the first steps of the planning phase utilizing project management software. Students will create a project charter, communication matrix, requirements traceability matrix, and work breakdown structure to define and sequence a real-world project, allowing them to apply their knowledge.
+
+Outcomes:
+This course will prepare students to:
+Apply appropriate project management tools and concepts to finalize the initiation a project.
+Apply fundamental project planning practices into a scheduling software.
+Generate appropriate project management planning documentation.
+Produce an inclusive communications plan for project management planning.

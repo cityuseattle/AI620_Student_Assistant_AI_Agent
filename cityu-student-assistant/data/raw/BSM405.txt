@@ -1,0 +1,11 @@
+Course Code: BSM405
+Title: BSM 405 Operations Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bsm-business-major/400/bsm-405
+Credits: 5
+Prerequisites: None
+
+Description:
+In this course, students will explore operations management in the manufacturing and service environments. Topics include: cost accounting information for improving efficiency, product and service quality, total quality management, project management, materials resource planning, value creation, supply chain management and economic value. Students will focus on how to apply these concepts to real world operation functions of both manufacturing and services.
+
+Outcomes:
+None

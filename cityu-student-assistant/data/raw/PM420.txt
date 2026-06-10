@@ -1,0 +1,15 @@
+Course Code: PM420
+Title: PM 420 Strategic Organization Design to Project Initiation
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-420
+Credits: 5
+Prerequisites: None
+
+Description:
+This course expands on the foundation of project management by focusing on a strategy-oriented approach to project implementation within the initiation phase. It will cover important topics such as the role of the project manager, company culture, identification of important stakeholders, and aligning project priority with the organizational portfolio.
+
+Outcomes:
+This course will prepare students to:
+Describe the role of projects as part of strategic role of the organization.
+Demonstrate how to evaluate a project’s viability through various project management tools and techniques.
+Develop a stakeholder management plan that identifies how to determine the needs of key stakeholders in alignment to strategy and project outcomes.
+Translate strategic objective into a manageable project task.

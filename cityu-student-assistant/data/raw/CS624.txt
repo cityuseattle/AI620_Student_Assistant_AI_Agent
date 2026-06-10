@@ -1,0 +1,15 @@
+Course Code: CS624
+Title: CS 624 Full-Stack Development - Mobile App
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/600/cs-624
+Credits: 3
+Prerequisites: None
+
+Description:
+Full-stack consists of a layer of software or web development consisting of the front-end and the back-end portions of an application. Full-stack development is the practice of working on both the front end and back end of a program. The developers are required to understand the concepts and earn stackable skills to design and develop not only what the users will see or interact with on a front-end application but also the logic of the back-end application that the users do not see. In this course, students will focus on the concepts and skills of the front-end stack.
+
+Outcomes:
+This course will prepare students to:
+1. Understand mobile app development using full stack.
+2. Understand mobile apps and full-stack architecture.
+3. Analyze and apply full-stack development to mobile apps.
+4. Create a mobile app by using full-stack.

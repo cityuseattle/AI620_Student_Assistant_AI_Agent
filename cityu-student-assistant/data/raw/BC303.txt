@@ -1,0 +1,11 @@
+Course Code: BC303
+Title: BC 303 Statistics (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bc-business-core/300/bc-303
+Credits: 5
+Prerequisites: None
+
+Description:
+BC303, Statistics focuses on the usefulness and limitations of statistical processes and their present day applications. Topics include: descriptive statistics, probability theory and distributions, sampling, hypothesis testing, regression, and correlation models. Students will focus on problem formulation, technique selection and results interpretation.
+
+Outcomes:
+None

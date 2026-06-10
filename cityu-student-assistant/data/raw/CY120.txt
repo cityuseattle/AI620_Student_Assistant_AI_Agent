@@ -1,0 +1,11 @@
+Course Code: CY120
+Title: CY 120 Foundations of Cybersecurity
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cy-cybersecurity/100/cy-120
+Credits: 10
+Prerequisites: None
+
+Description:
+This course consists of three foundational modules, addressing the core tenants underlying cybersecurity best practices. Students will learn the fundamentals of the Linux operating system, developing key skills, including working in Linux bash command line to automate common administrative and security tasks. Lastly, students will explore the fundamental aspects of Windows operating systems, developing key skills, including working in Windows PowerShell to automate common administrative and security tasks. At the conclusion of the course, students will be able to deploy and configure Linux and Windows systems with foundational security controls based on industry standards.
+
+Outcomes:
+None

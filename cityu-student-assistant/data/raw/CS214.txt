@@ -1,0 +1,11 @@
+Course Code: CS214
+Title: CS 214 Database Technologies - SQL & NoSQL
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/cs-computer-science/200/cs-214
+Credits: 5
+Prerequisites: None
+
+Description:
+This course covers relational (SQL) and non-relational (NoSQL) data models. The advantages and disadvantages of different data models are discussed. The emphasis is on understanding why information resources using different data models are of critical importance and how to manage them. Topics include foundational concepts of SQL and NoSQL data models such as information management, perspectives and impact, data-information concepts, data modeling, database query languages, data organization architecture, special-purpose databases, and managing the database environment. The course concludes with a discussion of the future directions of database technologies.
+
+Outcomes:
+None

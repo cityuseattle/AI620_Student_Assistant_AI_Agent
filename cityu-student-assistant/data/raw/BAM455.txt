@@ -1,0 +1,11 @@
+Course Code: BAM455
+Title: BAM 455 Project and Change Management *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bam-bachelor-of-arts-management/400/bam-455
+Credits: 20
+Prerequisites: BAM 410
+
+Description:
+Students will continue their study of project management by focusing on key areas of projects. The block begins with a review of project leadership and project teams. Students will then explore tools and techniques for project communication, human resource planning, scheduling, cost management, and risk management. Students will complete learning exercises on the sequence of project activities, work breakdown structures, creating integrated networks, scheduling, and project cost and schedule controls. Under the guidance of a mentor, students will work independently to complete the list of assignments associated with this block. Through their coursework, students will be required to demonstrate competence on the outcomes and core concepts, knowledge and skills associated with this block.
+
+Outcomes:
+None

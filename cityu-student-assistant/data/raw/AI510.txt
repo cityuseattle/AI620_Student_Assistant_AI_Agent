@@ -1,0 +1,17 @@
+Course Code: AI510
+Title: AI 510 Artificial Intelligence in Cloud Computing
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/ai-artificial-intelligence/500/ai-510
+Credits: 3
+Prerequisites: None
+
+Description:
+This course introduces Artificial Intelligence (AI) core concepts in cloud computing and AI use cases delivered on shared cloud infrastructure. Topics include identifying core AI workloads, fundamental machine learning principles on the cloud, such as computer vision, natural language processing, and conversational AI workloads. Students explore and identify AI solutions within a shared cloud infrastructure.
+
+Outcomes:
+This course will prepare students to:
+1. Understand the components that make up the cloud AI portfolio of tools, and the available data storage options.
+2. Identify cloud tools and services such as computer vision tasks, conversational AI, no-code ML, and security solutions.
+3. Apply an ML UI utilizing an ML designer.
+4. Integrate a knowledge mining solution.
+5. Evaluate REST (representational state transfer) based APIs and SDKs used to build computer vision, natural language process conversational AI solutions.
+6. Design and implement an AI solution utilizing cloud enterprise AI services.

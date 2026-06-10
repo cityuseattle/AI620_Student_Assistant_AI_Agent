@@ -1,0 +1,15 @@
+Course Code: MATH138
+Title: MATH 138 College Algebra (QSR or NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/math-mathematics-_mat_-mth/100/math-138
+Credits: 5
+Prerequisites: None
+
+Description:
+As a foundation in college mathematics, this course provides students with a solid foundation in the mathematics of college-level algebra, providing essential mathematical knowledge and skills for real-world applications in multiple domains and fields. Topics include equations and inequalities, properties of functions (inverse, linear, quadratic, polynomial, rational, exponential, and logarithmic), graphs with transformations, systems of equations, and matrices. Learning is reinforced through real-world application problems. The focus of the curriculum is on enhancing quantitative literacy and empowering students with the mathematical knowledge and skills necessary for success in various disciplines, while emphasizing critical thinking, practical problem-solving, and reasoning. This course fulfills the college mathematics requirements at CityU. It is essential as preparation for certain degree programs that require higher level mathematics courses. Students should consult their advisors to determine if MATH 138 meets their program requirements. Students needing only to fulfill the university’s general education or college mathematics requirement may take MATH 107 instead of MATH 138.
+
+Outcomes:
+This course will prepare students to:
+1. Apply a variety of problem-solving strategies, including verbal, algebraic, numerical, and graphical techniques, to solve real-world problems involving equations and inequalities.
+2. Interpret quantitative/mathematical information from multiple representations of real-world scenarios.
+3. Construct mathematical models from relevant information extracted from real-world scenarios.
+4. Examine real-world applications of mathematical knowledge and skills in different personal and professional contexts.

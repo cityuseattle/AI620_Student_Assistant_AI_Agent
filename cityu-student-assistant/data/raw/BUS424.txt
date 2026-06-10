@@ -1,0 +1,17 @@
+Course Code: BUS424
+Title: BUS 424 Fundamentals of AI
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/400/bus-424
+Credits: 5
+Prerequisites: None
+
+Description:
+The purpose of this course is to enable students to develop a well-rounded understanding of artificial intelligence and its methods. The key objective is to help students comprehend the history of AI and recent developments and techniques in the field, and in particular, Deep Learning methods. An emphasis is placed on equipping students with a working knowledge of basic Machine Learning and Deep Learning, how they can work, and in what situations they can be most effective and applicable. Key topics include introduction to AI, Machine Learning and optimization, Neural Networks and Deep Learning, Supervised Learning, Unsupervised Learning, and Reinforcement Learning.
+
+Outcomes:
+This course will prepare students to:
+1. Develop a high-level plan for the implementation of an AI initiative.
+2. Select appropriate stakeholders for implementing an AI project and detail their individual roles and responsibilities.
+3. Identify and analyze key business, social, and ethical challenges and potential benefits of AI.
+4. Demonstrate a manager-level understanding of fundamental concepts of AI.
+5. Outline the data acquisition process for an AI project.
+6. Assess alternative approaches to implementing an AI solution (e.g., outsourcing, in-house development, and third-party partners).

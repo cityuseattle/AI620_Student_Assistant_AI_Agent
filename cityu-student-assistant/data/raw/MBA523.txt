@@ -1,0 +1,15 @@
+Course Code: MBA523
+Title: MBA 523 Design Thinking for Innovation
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/mba-master-of-business-administration/500/mba-523
+Credits: 3
+Prerequisites: None
+
+Description:
+This class helps facilitate effective problem-solving and the emergence of innovative solutions. Throughout the course, students learn about the key phases and building blocks of the design thinking process and how these components interact with one another in a synergistic manner to promote innovation. A valuable output of this class involves a highly practical toolbox that equips students with a set of methods, tools, techniques, and templates that leading organizations utilize to ensure success within each phase of design thinking. the primary purpose and dimension of design thinking.
+
+Outcomes:
+After completion of this course learners will be able to:
+1. Explain the purpose and process of design thinking.
+2. Apply the design thinking process and toolbox to generate solutions to a complex business problem.
+3. Create a lesson learned document for a design thinking project to enhance relevant practical knowledge by identifying and capitalizing on strengths and eliminating errors and weaknesses.
+4. Formulate and evolve a strong problem statement to determine a specific focus area for a design thinking team to guide the members’ interactions, activities, and efforts.

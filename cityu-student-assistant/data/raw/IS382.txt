@@ -1,0 +1,11 @@
+Course Code: IS382
+Title: IS 382 C# Intermediate *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/is-information-systems/300/is-382
+Credits: 5
+Prerequisites: IS 380
+
+Description:
+This course focuses on the intermediate object-oriented programming concepts in C#, such as creating interfaces and abstract classes, garbage collection, resource management, implementing properties, using indexers, operator overloading, creating interfaces, interrupting program flow and handling events, introducing generics, and querying data using query expressions. The students will also get introduced to building applications with Windows Presentation Foundation. The course prepares the students to study advanced programming in C#.
+
+Outcomes:
+None

@@ -1,0 +1,11 @@
+Course Code: PM410
+Title: PM 410 Project Initiation, Scope, and Stakeholder Management
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/pm-project-management/400/pm-410
+Credits: 5
+Prerequisites: None
+
+Description:
+This course expands on the foundation of project management by focusing in depth on the initiation process phase of a project. It will cover important topics such as the role of the project manager, company culture, identification of important stakeholders, and aligning project priority with the organizational portfolio. At the end of the course, students will be able to develop a project charter based on business goals and initiate a project.
+
+Outcomes:
+None

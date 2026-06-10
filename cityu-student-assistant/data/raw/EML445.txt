@@ -1,0 +1,14 @@
+Course Code: EML445
+Title: EML 445 Mathematics: Geometry and Measurement (NS)
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/eml-education-middle-level/400/eml-445
+Credits: 3
+Prerequisites: None
+
+Description:
+Candidates develop conceptual understanding and procedural fluency with geometry and measurement as they apply to congruence, similarity, geometric figures, and the Cartesian Coordinate System. Candidates learn to incorporate the standards of math practice within geometry and measurement.  Topics include modeling and solving real life and mathematical problems involving proof of theorems; congruence, similarity, and transformations; physical and technological constructions; lines, angle measure, area, surface area, and volume; classification, visualization, and description of two-dimensional figures and three-dimensional objects and the relationships among them; rigid motion; Pythagorean Theorem; angles, radii, arcs, chords, sectors of circles, and conic sections.  Upon successful completion of this course, candidates will have the knowledge and skills to help K-12 students become college and career ready in geometry and measurement.
+
+Outcomes:
+This course will prepare students to:
+1. Develop conceptual understanding of and procedural facility with geometry and measurement.
+2. Apply standards of mathematical practice in geometry and measurement.
+3. Anticipate and plan for student misconceptions and common errors.

@@ -1,0 +1,17 @@
+Course Code: BUS315
+Title: BUS 315 Financial Accounting *
+URL: https://cityu.smartcatalogiq.com/en/2025-2026/2025-2026-catalog/course-descriptions/bus-business-administration/300/bus-315
+Credits: 5
+Prerequisites: MATH 138 is a pre-requisite for this course.
+
+Description:
+This course provides the knowledge and skills necessary for the student to comprehend financial statements and financial records and to make use of the information for management and investment decisions. Key topics include an overview of financial statements and business decisions, the balance sheet, the income statement, the cash flow statement, sales revenue, receivables, cost of goods sold and inventory, long-lived assets and depreciation, current and long-term liabilities, owner’s equity, investments in other corporations, an introduction to financial statement analysis and international issues dealing with financial statements.
+
+Outcomes:
+This course will prepare students to:
+1. Apply time value of money (TVM) analytical techniques.
+2. Discuss the effect of regulations such as GAAP, IFRS, SAS, etc. on financial information.
+3. Analyze the effect that business transactions have on the four basic financial statements.
+4. Perform financial statement analysis including trends and comparison to industry to draw reasonable conclusions about an organization.
+5. Apply accounting information as a key input into data analysis for business decision making.
+6. Compare and contrast the roles and responsibilities of management and the external auditor in developing and examining financial statements.
