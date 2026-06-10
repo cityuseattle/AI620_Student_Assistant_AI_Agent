@@ -141,6 +141,11 @@ def seed_courses(conn: sqlite3.Connection, courses: list[dict]) -> tuple[int, in
     # First pass: collect all course codes
     all_codes = {c.get("code", "").strip().upper() for c in courses if c.get("code", "").strip()}
 
+    # Pass 1: insert every course so that all prerequisite targets exist in the
+    # courses table before any prerequisite rows are inserted. This is required
+    # because foreign keys are ON, and a prerequisite referencing a course that
+    # appears later in the file would otherwise fail the FK constraint and be
+    # silently dropped.
     for course in courses:
         code = course.get("code", "").strip().upper()
         if not code:
@@ -163,16 +168,19 @@ def seed_courses(conn: sqlite3.Connection, courses: list[dict]) -> tuple[int, in
                     course.get("professor", ""),
                 ),
             )
-            if conn.execute(
-                "SELECT changes()"
-            ).fetchone()[0]:
+            if conn.execute("SELECT changes()").fetchone()[0]:
                 courses_inserted += 1
 
         except sqlite3.IntegrityError as exc:
             logger.warning("Could not insert course %s: %s", code, exc)
             continue
 
-        # Insert prerequisites with type support
+    # Pass 2: insert prerequisites now that every course row exists.
+    for course in courses:
+        code = course.get("code", "").strip().upper()
+        if not code:
+            continue
+
         for prereq_item in course.get("prerequisites", []):
             if isinstance(prereq_item, dict):
                 prereq_code = prereq_item.get("code", "").strip().upper()
